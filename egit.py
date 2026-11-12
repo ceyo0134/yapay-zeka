@@ -37,6 +37,7 @@ Trainer(model=model, args=args, train_dataset=DS(), data_collator=DataCollatorFo
 model.eval()
 ids = tok(tok.apply_chat_template([{"role":"system","content":SYS},{"role":"user","content":"Merhaba, adın ne?"}], tokenize=False, add_generation_prompt=True), return_tensors="pt").input_ids
 print("TEST:", tok.decode(model.generate(ids, max_new_tokens=60)[0][ids.shape[1]:], skip_special_tokens=True), flush=True)
+model.save_pretrained("adapter")
 model = model.merge_and_unload().to(torch.float16)
 model.save_pretrained("merged"); tok.save_pretrained("merged")
 
