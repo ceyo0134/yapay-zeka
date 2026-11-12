@@ -41,8 +41,8 @@ jobs:
         shell: bash
         run: |
           set -eo pipefail
-          mlc_llm convert_weight ./merged --quantization q4f16_1 -o ./mlc --device cpu 2>&1 | tee -a train.log
-          mlc_llm gen_config ./merged --quantization q4f16_1 --conv-template qwen2 --context-window-size 4096 --prefill-chunk-size 1024 -o ./mlc 2>&1 | tee -a train.log
+          python -m mlc_llm convert_weight ./merged --quantization q4f16_1 -o ./mlc --device cpu 2>&1 | tee -a train.log
+          python -m mlc_llm gen_config ./merged --quantization q4f16_1 --conv-template qwen2 --context-window-size 4096 --prefill-chunk-size 1024 -o ./mlc 2>&1 | tee -a train.log
       - name: Yayinla (model dali)
         env:
           MODEL: ${{ inputs.model }}
