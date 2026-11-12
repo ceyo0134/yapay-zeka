@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kendi Yapay Zekam</title>
+<style>
+:root{--bg:#eef2f3;--panel:#fff;--ink:#12242b;--mute:#5c717a;--line:#cfdadd;--accent:#0b7a8c;--on:#fff;--me:#d9eef2;--warn:#c4571a}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1a1f;--panel:#16272e;--ink:#e6eff1;--mute:#93a9b1;--line:#2a4049;--accent:#3cc0d3;--on:#06191d;--me:#1d3a43;--warn:#f0894f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:640px;margin:0 auto;padding:18px 16px 40px}
+h1{font:700 26px/1.2 Georgia,serif;margin:0 0 6px}
+.lead,small{color:var(--mute)}
+section{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;margin:14px 0}
+label{display:block;font-size:14px;color:var(--mute);margin:12px 0 4px}
+textarea,input[type=text],select{width:100%;font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px}
+textarea{min-height:90px;resize:vertical}
+button{font:600 16px system-ui,sans-serif;border:0;border-radius:10px;padding:13px 18px;background:var(--accent);color:var(--on);width:100%;margin-top:12px;cursor:pointer}
+button:disabled{opacity:.45}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+progress{width:100%;height:10px;margin-top:12px;accent-color:var(--accent)}
+#st{font-size:14px;color:var(--mute);margin-top:6px;min-height:20px}
+#chat{display:flex;flex-direction:column;gap:8px;max-height:55vh;overflow-y:auto;margin-bottom:10px}
+.b{padding:9px 12px;border-radius:12px;max-width:90%;white-space:pre-wrap;overflow-wrap:anywhere}
+.u{align-self:flex-end;background:var(--me)}
+.a{align-self:flex-start;background:var(--bg);border:1px solid var(--line)}
+.send{display:flex;gap:8px}.send button{width:auto;margin:0}
+</style>
+</head>
+<body>
+<main>
+<h1>Kendi yapay zekâm</h1>
+<p class="lead">Gerçek bir dil modeli telefonunda çalışır. Model bir kez indirilir, sonra internetsiz de kullanabilirsin. Konuşmaların cihazından çıkmaz.</p>
+
+<section>
+<label for="model">Model</label>
+<select id="model">
+<option value="Qwen2.5-0.5B-Instruct-q4f16_1-MLC">Qwen 0.5B (en hafif, ~350 MB)</option>
+<option value="Qwen2.5-1.5B-Instruct-q4f16_1-MLC" selected>Qwen 1.5B (dengeli, ~1 GB)</option>
+<option value="gemma-2-2b-it-q4f16_1-MLC">Gemma 2B (en iyi Türkçe, ~1.5 GB)</option>
+</select>
+<label for="sys">Karakterin ve kuralları</label>
+<textarea id="sys">Sen Türkçe konuşan, samimi ve kısa cevap veren bir asistansın.</textarea>
+<label for="file">Bilgi dosyası (isteğe bağlı .txt, ilk ~6000 karakter okunur)</label>
+<input type="file" id="file" accept=".txt,text/plain">
+<button id="load">Modeli indir ve başlat</button>
+<progress id="pg" value="0" max="1" hidden></progress>
+<div id="st" role="status"></div>
+</section>
+
+<section>
+<div id="chat" aria-live="polite"></div>
+<div class="send"><input type="text" id="in" placeholder="Bir şey yaz..." aria-label="Mesaj" disabled><button id="send" disabled>Gönder</button></div>
+</section>
+<small>Küçük bir model olduğu için bazen yanılır. Önemli bilgileri kontrol et.</small>
+</main>
+<script type="module">
+import * as webllm from "https://esm.run/@mlc-ai/web-llm@0.2.79";
+const $=id=>document.getElementById(id);
+let engine=null,knowledge="",msgs=[],busy=false;
+$("file").onchange=async e=>{const f=e.target.files[0];if(f)knowledge=(await f.text()).slice(0,6000)};
+function bubble(c,t){const d=document.createElement("div");d.className="b "+c;d.textContent=t;$("chat").appendChild(d);$("chat").scrollTop=1e9;return d}
+$("load").onclick=async()=>{
+  if(!navigator.gpu){$("st").textContent="Bu tarayıcı WebGPU desteklemiyor. Android'de güncel Chrome veya iPhone'da iOS 18+ Safari dene.";return}
+  $("load").disabled=true;$("pg").hidden=false;
+  try{
+    engine=await webllm.CreateMLCEngine($("model").value,{initProgressCallback:p=>{$("pg").value=p.progress;$("st").textContent=p.text}});
+    msgs=[{role:"system",content:$("sys").value+(knowledge?"\n\nŞu bilgileri kullan:\n"+knowledge:"")}];
+    $("st").textContent="Hazır. Konuşabilirsin.";$("pg").hidden=true;$("in").disabled=false;$("send").disabled=false;$("in").focus();
+  }catch(e){$("st").textContent="Yüklenemedi: "+e.message;$("load").disabled=false}
+};
+async function ask(){
+  const t=$("in").value.trim();if(!t||!engine||busy)return;
+  busy=true;$("in").value="";bubble("u",t);msgs.push({role:"user",content:t});
+  const out=bubble("a","…");let full="";
+  try{
+    const s=await engine.chat.completions.create({messages:msgs,stream:true,temperature:.7});
+    for await(const c of s){full+=c.choices[0]?.delta?.content||"";out.textContent=full;$("chat").scrollTop=1e9}
+    msgs.push({role:"assistant",content:full});
+  }catch(e){out.textContent="Hata: "+e.message}
+  busy=false;
+}
+$("send").onclick=ask;$("in").onkeydown=e=>{if(e.key==="Enter")ask()};
+</script>
+</body>
+</html>
