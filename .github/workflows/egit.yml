@@ -37,6 +37,8 @@ jobs:
           RANK: ${{ inputs.rank }}
       - shell: bash
         run: pip install --pre -U -f https://mlc.ai/wheels mlc-llm-nightly-cpu mlc-ai-nightly-cpu 2>&1 | tail -n 15 | tee -a train.log
+      - name: numpy surumunu sabitle (MLC uyumu)
+        run: pip install "numpy==1.26.4" 2>&1 | tail -n 5
       - name: Telefon formatina cevir
         shell: bash
         run: |
