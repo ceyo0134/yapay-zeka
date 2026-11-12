@@ -9,7 +9,7 @@ on:
         options: [Qwen/Qwen2.5-0.5B-Instruct, Qwen/Qwen2.5-1.5B-Instruct]
       epochs:
         description: Kac tur egitilsin
-        default: "3"
+        default: "2"
       rank:
         description: LoRA boyutu (parametre sayisi)
         default: "16"
@@ -35,17 +35,31 @@ jobs:
           MODEL: ${{ inputs.model }}
           EPOCHS: ${{ inputs.epochs }}
           RANK: ${{ inputs.rank }}
-      - shell: bash
+      - name: Egitilmis adaptoru kaydet (adapter dali)
+        run: |
+          cd adapter
+          echo "{\"base\":\"${{ inputs.model }}\"}" > info.json
+          du -sh .
+          git init -q -b adapter
+          git config user.name "egitim-botu"; git config user.email "bot@users.noreply.github.com"
+          git add -A; git commit -qm "egitilmis LoRA adaptoru"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" adapter
+      - name: MLC kur
+        continue-on-error: true
+        shell: bash
         run: pip install --pre -U -f https://mlc.ai/wheels mlc-llm-nightly-cpu mlc-ai-nightly-cpu 2>&1 | tail -n 15 | tee -a train.log
-      - name: numpy surumunu sabitle (MLC uyumu)
+      - name: numpy sabitle
+        continue-on-error: true
         run: pip install "numpy==1.26.4" 2>&1 | tail -n 5
       - name: Telefon formatina cevir
+        continue-on-error: true
         shell: bash
         run: |
           set -eo pipefail
           python -m mlc_llm convert_weight ./merged --quantization q4f16_1 -o ./mlc --device cpu 2>&1 | tee -a train.log
           python -m mlc_llm gen_config ./merged --quantization q4f16_1 --conv-template qwen2 --context-window-size 4096 --prefill-chunk-size 1024 -o ./mlc 2>&1 | tee -a train.log
       - name: Yayinla (model dali)
+        if: ${{ hashFiles('mlc/mlc-chat-config.json') != '' }}
         env:
           MODEL: ${{ inputs.model }}
         run: |
