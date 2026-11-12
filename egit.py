@@ -37,7 +37,7 @@ Trainer(model=model, args=args, train_dataset=DS(), data_collator=DataCollatorFo
 model.eval()
 ids = tok(tok.apply_chat_template([{"role":"system","content":SYS},{"role":"user","content":"Merhaba, adın ne?"}], tokenize=False, add_generation_prompt=True), return_tensors="pt").input_ids
 print("TEST:", tok.decode(model.generate(ids, max_new_tokens=60)[0][ids.shape[1]:], skip_special_tokens=True), flush=True)
-model = model.merge_and_unload()
+model = model.merge_and_unload().to(torch.float16)
 model.save_pretrained("merged"); tok.save_pretrained("merged")
 
 # MLC eski config alanini (rope_theta) bekliyor, yeni transformers farkli yaziyor
@@ -45,6 +45,6 @@ import json
 cp = "merged/config.json"; c = json.load(open(cp))
 rp = c.get("rope_parameters") or c.get("rope_scaling") or {}
 c.setdefault("rope_theta", rp.get("rope_theta", 1000000.0))
-c.setdefault("torch_dtype", "float16")
+c["torch_dtype"] = "float16"; c["dtype"] = "float16"
 json.dump(c, open(cp, "w"), indent=1)
 print("config yamalandi, rope_theta =", c["rope_theta"], flush=True)
