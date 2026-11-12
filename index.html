@@ -40,6 +40,9 @@ progress{width:100%;height:10px;margin-top:12px;accent-color:var(--accent)}
 <option value="Qwen2.5-1.5B-Instruct-q4f16_1-MLC" selected>Qwen 1.5B (dengeli, ~1 GB)</option>
 <option value="gemma-2-2b-it-q4f16_1-MLC">Gemma 2B (en iyi Türkçe, ~1.5 GB)</option>
 </select>
+<label for="custom">Kendi eğittiğin model (isteğe bağlı): Hugging Face adı, örn. ceyo0134/benim-modelim</label>
+<input type="text" id="custom" placeholder="kullanici/depo" autocapitalize="off" autocorrect="off">
+<small>Doluysa yukarıdaki seçim yerine bu model yüklenir. Colab defterinde Qwen 1.5B ile eğitmiş olmalısın.</small>
 <label for="sys">Karakterin ve kuralları</label>
 <textarea id="sys">Sen Türkçe konuşan, samimi ve kısa cevap veren bir asistansın.</textarea>
 <label for="file">Bilgi dosyası (isteğe bağlı .txt, ilk ~6000 karakter okunur)</label>
@@ -65,7 +68,14 @@ $("load").onclick=async()=>{
   if(!navigator.gpu){$("st").textContent="Bu tarayıcı WebGPU desteklemiyor. Android'de güncel Chrome veya iPhone'da iOS 18+ Safari dene.";return}
   $("load").disabled=true;$("pg").hidden=false;
   try{
-    engine=await webllm.CreateMLCEngine($("model").value,{initProgressCallback:p=>{$("pg").value=p.progress;$("st").textContent=p.text}});
+    const opts={initProgressCallback:p=>{$("pg").value=p.progress;$("st").textContent=p.text}};
+    let id=$("model").value;const repo=$("custom").value.trim();
+    if(repo){
+      const base=webllm.prebuiltAppConfig.model_list.find(m=>m.model_id==="Qwen2.5-1.5B-Instruct-q4f16_1-MLC");
+      id="benim-modelim";
+      opts.appConfig={...webllm.prebuiltAppConfig,model_list:[...webllm.prebuiltAppConfig.model_list,{model:"https://huggingface.co/"+repo+"/resolve/main/",model_id:id,model_lib:base.model_lib}]};
+    }
+    engine=await webllm.CreateMLCEngine(id,opts);
     msgs=[{role:"system",content:$("sys").value+(knowledge?"\n\nŞu bilgileri kullan:\n"+knowledge:"")}];
     $("st").textContent="Hazır. Konuşabilirsin.";$("pg").hidden=true;$("in").disabled=false;$("send").disabled=false;$("in").focus();
   }catch(e){$("st").textContent="Yüklenemedi: "+e.message;$("load").disabled=false}
