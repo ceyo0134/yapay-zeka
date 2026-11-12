@@ -39,3 +39,12 @@ ids = tok(tok.apply_chat_template([{"role":"system","content":SYS},{"role":"user
 print("TEST:", tok.decode(model.generate(ids, max_new_tokens=60)[0][ids.shape[1]:], skip_special_tokens=True), flush=True)
 model = model.merge_and_unload()
 model.save_pretrained("merged"); tok.save_pretrained("merged")
+
+# MLC eski config alanini (rope_theta) bekliyor, yeni transformers farkli yaziyor
+import json
+cp = "merged/config.json"; c = json.load(open(cp))
+rp = c.get("rope_parameters") or c.get("rope_scaling") or {}
+c.setdefault("rope_theta", rp.get("rope_theta", 1000000.0))
+c.setdefault("torch_dtype", "float16")
+json.dump(c, open(cp, "w"), indent=1)
+print("config yamalandi, rope_theta =", c["rope_theta"], flush=True)
