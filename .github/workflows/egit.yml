@@ -1,0 +1,49 @@
+name: Modeli egit
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: Temel model
+        type: choice
+        default: Qwen/Qwen2.5-0.5B-Instruct
+        options: [Qwen/Qwen2.5-0.5B-Instruct, Qwen/Qwen2.5-1.5B-Instruct]
+      epochs:
+        description: Kac tur egitilsin
+        default: "3"
+      rank:
+        description: LoRA boyutu (parametre sayisi)
+        default: "16"
+permissions:
+  contents: write
+jobs:
+  egit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install torch --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install transformers peft accelerate
+      - name: Egit
+        run: python egit.py
+        env:
+          MODEL: ${{ inputs.model }}
+          EPOCHS: ${{ inputs.epochs }}
+          RANK: ${{ inputs.rank }}
+      - run: pip install --pre -U -f https://mlc.ai/wheels mlc-llm-nightly-cpu mlc-ai-nightly-cpu
+      - name: Telefon formatina cevir
+        run: |
+          mlc_llm convert_weight ./merged --quantization q4f16_1 -o ./mlc --device cpu
+          mlc_llm gen_config ./merged --quantization q4f16_1 --conv-template qwen2 --context-window-size 4096 --prefill-chunk-size 1024 -o ./mlc
+      - name: Yayinla (model dali)
+        env:
+          MODEL: ${{ inputs.model }}
+        run: |
+          cd mlc
+          echo "{\"base\":\"${MODEL#Qwen/}-q4f16_1-MLC\"}" > info.json
+          du -sh .
+          git init -q -b model
+          git config user.name "egitim-botu"; git config user.email "bot@users.noreply.github.com"
+          git add -A; git commit -qm "egitilmis model"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" model
