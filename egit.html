@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Model Atölyesi</title>
+<style>
+:root{--bg:#eef2f3;--panel:#fff;--ink:#12242b;--mute:#5c717a;--line:#cfdadd;--accent:#0b7a8c;--on:#fff;--warn:#c4571a;--me:#d9eef2}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1a1f;--panel:#16272e;--ink:#e6eff1;--mute:#93a9b1;--line:#2a4049;--accent:#3cc0d3;--on:#06191d;--warn:#f0894f;--me:#1d3a43}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:640px;margin:0 auto;padding:18px 16px 40px}
+h1{font:700 26px/1.2 Georgia,serif;margin:0 0 6px}
+h2{font-size:17px;margin:0 0 8px}
+.lead,small{color:var(--mute)}
+section{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;margin:14px 0}
+label{display:block;font-size:14px;color:var(--mute);margin:12px 0 4px}
+label b{color:var(--ink)}
+textarea,input[type=text],select{width:100%;font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px}
+textarea{min-height:120px;resize:vertical}
+input[type=range]{width:100%;accent-color:var(--accent)}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+button{font:600 16px system-ui,sans-serif;border:0;border-radius:10px;padding:13px 18px;background:var(--accent);color:var(--on);width:100%;margin-top:12px;cursor:pointer}
+button.alt{background:transparent;color:var(--ink);border:1px solid var(--line)}
+button:disabled{opacity:.45}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.big{font:700 28px Georgia,serif;margin:4px 0}
+.stats{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:14px;color:var(--mute);margin-top:12px}
+.stats b{color:var(--ink);font-variant-numeric:tabular-nums}
+canvas{width:100%;height:140px;display:block;margin-top:10px;border-radius:8px;background:var(--bg)}
+#msg{color:var(--warn);font-size:14px;min-height:20px;margin-top:8px}
+#chat{display:flex;flex-direction:column;gap:8px;max-height:340px;overflow-y:auto;margin-bottom:10px}
+.b{padding:9px 12px;border-radius:12px;max-width:90%;white-space:pre-wrap;overflow-wrap:anywhere}
+.u{align-self:flex-end;background:var(--me)}
+.a{align-self:flex-start;background:var(--bg);border:1px solid var(--line)}
+.send{display:flex;gap:8px}.send button{width:auto;margin:0}
+</style>
+</head>
+<body>
+<main>
+<h1>Model atölyesi</h1>
+<p class="lead">Kendi GPT modelini kur, txt ile eğit, büyüt, kaydet. Her şey telefonunda çalışır.</p>
+
+<section>
+<h2>1. Veri</h2>
+<input type="file" id="file" accept=".txt,text/plain" multiple aria-label="txt dosyaları">
+<label for="txt">veya yapıştır. Diyalog için “Kullanıcı: …” satırı, ardından “AI: …” satırı.</label>
+<textarea id="txt"></textarea>
+<small id="dc"></small>
+</section>
+
+<section>
+<h2>2. Model boyutu</h2>
+<div class="big"><span id="pc">–</span> parametre</div>
+<small id="pw"></small>
+<label for="L">Katman sayısı: <b id="Lv"></b></label><input type="range" id="L" min="1" max="8" value="3">
+<div class="row">
+<div><label for="E">Gömme boyutu</label><select id="E"><option>32</option><option selected>64</option><option>96</option><option>128</option><option>192</option><option>256</option></select></div>
+<div><label for="H">Dikkat kafası</label><select id="H"><option>2</option><option selected>4</option><option>8</option></select></div>
+</div>
+<label for="T">Bağlam (kaç harf hatırlar): <b id="Tv"></b></label><input type="range" id="T" min="32" max="256" step="32" value="64">
+<div class="row">
+<div><label for="B">Parti boyutu</label><select id="B"><option>4</option><option>8</option><option selected>12</option><option>16</option><option>32</option></select></div>
+<div><label for="lr">Öğrenme hızı</label><select id="lr"><option value="0.001">Yavaş</option><option value="0.002" selected>Normal</option><option value="0.004">Hızlı</option></select></div>
+</div>
+<small>Parametre arttıkça model daha çok şey öğrenebilir ama daha yavaş eğitilir ve daha çok veri ister.</small>
+</section>
+
+<section>
+<h2>3. Eğitim</h2>
+<div class="stats"><span>Adım <b id="st">0</b></span><span>Kayıp <b id="ls">–</b></span><span>Motor <b id="be">–</b></span></div>
+<canvas id="cv" aria-label="Kayıp grafiği"></canvas>
+<button id="go">Eğitimi başlat</button>
+<div class="row"><button id="save" class="alt">Kaydet</button><button id="load" class="alt">Kayıtlıyı yükle</button></div>
+<button id="reset" class="alt">Modeli sıfırla</button>
+<div id="msg" role="status"></div>
+<small>Eğitim durdurulunca ve her ~2 dakikada model otomatik kaydedilir. Yüklediğin modele yeni metinle eğitime devam edebilirsin. Boyut ayarları yalnızca yeni modelde geçerlidir.</small>
+</section>
+
+<section>
+<h2>4. Sohbet</h2>
+<div id="chat" aria-live="polite"></div>
+<div class="send"><input type="text" id="in" placeholder="Bir şey yaz..." aria-label="Mesaj"><button id="send" disabled>Gönder</button></div>
+<div class="row">
+<div><label for="l1">Senin etiketin</label><input type="text" id="l1" value="Kullanıcı"></div>
+<div><label for="l2">Yapay zekâ etiketi</label><input type="text" id="l2" value="AI"></div>
+</div>
+<label for="temp">Yaratıcılık: <b id="tv">0.7</b></label><input type="range" id="temp" min="0.2" max="1.5" step="0.1" value="0.7">
+<button id="clr" class="alt">Konuşmayı temizle</button>
+</section>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.22.0/dist/tf.min.js"></script>
+<script>
+const $=id=>document.getElementById(id);
+const say=t=>$("msg").textContent=t;
+const Q=[["Merhaba","Merhaba! Nasılsın?"],["İyiyim sen nasılsın","Ben de iyiyim, teşekkür ederim."],["Adın ne","Benim adım Mini GPT. Telefonunda eğitilen küçük bir yapay zekâyım."],["Ne yapabilirsin","Sana verdiğin metinden öğrendiklerimle cevap verebilirim."],["Teşekkürler","Rica ederim, her zaman."],["Görüşürüz","Görüşürüz, kendine iyi bak!"]];
+let SAMPLE="";for(let r=0;r<4;r++)Q.forEach(([a,b])=>SAMPLE+="Kullanıcı: "+a+"\nAI: "+b+"\n");
+$("txt").value=SAMPLE;
+$("file").onchange=async e=>{let t="";for(const f of e.target.files)t+=(await f.text()).replace(/\r/g,"")+"\n";$("txt").value=t;info();say(e.target.files.length+" dosya yüklendi.")};
+
+const cfgUI=()=>({L:+$("L").value,E:+$("E").value,H:+$("H").value,T:+$("T").value,B:+$("B").value,lr:+$("lr").value});
+const fmt=n=>n>=1e6?(n/1e6).toFixed(2)+" milyon":(n/1e3).toFixed(0)+" bin";
+function info(){
+  $("Lv").textContent=$("L").value;$("Tv").textContent=$("T").value;
+  const t=$("txt").value,V=new Set(t).size||60,c=cfgUI();
+  const n=V*c.E+c.T*c.E+c.L*(12*c.E*c.E+13*c.E)+2*c.E;
+  $("pc").textContent=fmt(n);$("dc").textContent=t.length.toLocaleString("tr")+" karakter, "+V+" farklı karakter";
+  $("pw").textContent=n>8e6?"Çok büyük: telefonda çok yavaş olur veya bellek yetmez.":n>3e6?"Büyük: yavaş eğitilir, bol veri gerekir.":"Telefon için uygun.";
+}
+["L","E","H","T","B","lr","txt"].forEach(i=>$(i).addEventListener("input",info));info();
+$("temp").oninput=e=>$("tv").textContent=e.target.value;
+
+const mkN=(s,sc)=>tf.variable(tf.randomNormal(s,0,sc)),mkZ=s=>tf.variable(tf.zeros(s)),mkO=s=>tf.variable(tf.ones(s));
+const masks={};
+function mask(t){if(!masks[t]){const a=new Float32Array(t*t);for(let i=0;i<t;i++)for(let j=i+1;j<t;j++)a[i*t+j]=-1e9;masks[t]=tf.keep(tf.tensor2d(a,[t,t]))}return masks[t]}
+const ln=(x,g,b)=>{const c=x.sub(x.mean(-1,true));return c.div(c.square().mean(-1,true).add(1e-5).sqrt()).mul(g).add(b)};
+const lin=(x,W,b)=>{const s=x.shape;return x.reshape([-1,s[2]]).matMul(W).add(b).reshape([s[0],s[1],W.shape[1]])};
+
+let S=null,training=false,losses=[],step=0,hist="",busy=false;
+function dataFrom(text){return Int32Array.from([...text].filter(c=>c in S.idx).map(c=>S.idx[c]))}
+function build(cfg,text,chars){
+  dispose();
+  const idx={};chars.forEach((c,i)=>idx[c]=i);
+  const {E,L,T}=cfg,V=chars.length,sc=.05/Math.sqrt(2*L);
+  const p={wte:mkN([V,E],.05),wpe:mkN([T,E],.05),lnfg:mkO([E]),lnfb:mkZ([E]),layers:[]};
+  for(let l=0;l<L;l++)p.layers.push({g1:mkO([E]),b1:mkZ([E]),qw:mkN([E,3*E],.05),qb:mkZ([3*E]),pw:mkN([E,E],sc),pb:mkZ([E]),g2:mkO([E]),b2:mkZ([E]),fw:mkN([E,4*E],.05),fb:mkZ([4*E]),ow:mkN([4*E,E],sc),ob:mkZ([E])});
+  const vars=[p.wte,p.wpe,p.lnfg,p.lnfb,...p.layers.flatMap(l=>Object.values(l))];
+  S={p,vars,cfg,V,chars,idx,opt:tf.train.adam(cfg.lr)};
+  S.data=dataFrom(text);
+  $("be").textContent=tf.getBackend();
+}
+function dispose(){if(S){S.vars.forEach(v=>v.dispose());S.opt.dispose()}S=null}
+
+function fwd(ids){
+  const {p,cfg:{E,H}}=S,[B,t]=ids.shape,hs=E/H;
+  let x=tf.gather(p.wte,ids).add(p.wpe.slice([0,0],[t,E]));
+  const m=mask(t);
+  for(const l of p.layers){
+    let h=ln(x,l.g1,l.b1);
+    const [q,k,v]=tf.split(lin(h,l.qw,l.qb),3,2).map(a=>a.reshape([B,t,H,hs]).transpose([0,2,1,3]));
+    const a=tf.softmax(q.matMul(k,false,true).mul(1/Math.sqrt(hs)).add(m));
+    x=x.add(lin(a.matMul(v).transpose([0,2,1,3]).reshape([B,t,E]),l.pw,l.pb));
+    h=ln(x,l.g2,l.b2);
+    x=x.add(lin(tf.relu(lin(h,l.fw,l.fb)),l.ow,l.ob));
+  }
+  return ln(x,p.lnfg,p.lnfb).reshape([-1,E]).matMul(p.wte,false,true);
+}
+function trainStep(){
+  const {B,T}=S.cfg,xs=new Int32Array(B*T),ys=new Int32Array(B*T),d=S.data;
+  for(let b=0;b<B;b++){const s=Math.floor(Math.random()*(d.length-T-1));for(let i=0;i<T;i++){xs[b*T+i]=d[s+i];ys[b*T+i]=d[s+i+1]}}
+  const x=tf.tensor2d(xs,[B,T],"int32"),y=tf.tensor1d(ys,"int32");
+  const l=S.opt.minimize(()=>tf.losses.softmaxCrossEntropy(tf.oneHot(y,S.V).cast("float32"),fwd(x)),true,S.vars);
+  const v=l.dataSync()[0];l.dispose();x.dispose();y.dispose();return v;
+}
+
+const idb=()=>new Promise((res,rej)=>{const r=indexedDB.open("modelatolyesi",1);r.onupgradeneeded=()=>r.result.createObjectStore("m");r.onsuccess=()=>res(r.result);r.onerror=()=>rej(r.error)});
+async function idbSet(k,v){const d=await idb();return new Promise((res,rej)=>{const t=d.transaction("m","readwrite");t.objectStore("m").put(v,k);t.oncomplete=res;t.onerror=()=>rej(t.error)})}
+async function idbGet(k){const d=await idb();return new Promise((res,rej)=>{const q=d.transaction("m").objectStore("m").get(k);q.onsuccess=()=>res(q.result);q.onerror=()=>rej(q.error)})}
+async function save(){
+  if(!S)return;
+  try{
+    const w=await tf.io.encodeWeights(S.vars.map((v,i)=>({name:"v"+i,tensor:v})));
+    await idbSet("model",{cfg:S.cfg,chars:S.chars,step,losses:losses.slice(-2000),text:$("txt").value,data:w.data,specs:w.specs});
+    say("Kaydedildi (adım "+step+").");
+  }catch(e){say("Kaydedilemedi: "+e.message)}
+}
+$("save").onclick=save;
+$("load").onclick=async()=>{
+  try{
+    training=false;$("go").textContent="Eğitimi başlat";
+    const r=await idbGet("model");if(!r){say("Kayıtlı model yok.");return}
+    build(r.cfg,r.text,r.chars);
+    const ts=tf.io.decodeWeights(r.data,r.specs);
+    S.vars.forEach((v,i)=>v.assign(ts["v"+i]));
+    losses=r.losses||[];step=r.step;$("txt").value=r.text;
+    Object.entries(r.cfg).forEach(([k,v])=>$(k).value=v);info();
+    $("st").textContent=step;$("ls").textContent=losses.length?losses[losses.length-1].toFixed(3):"–";
+    $("send").disabled=false;draw();say("Model yüklendi. Yeni metinle eğitime devam edebilirsin.");
+  }catch(e){say("Yüklenemedi: "+e.message)}
+};
+
+async function loop(){
+  let last=Date.now();
+  while(training){
+    const t0=performance.now();let s=0,k=0;
+    do{s+=trainStep();k++;step++}while(performance.now()-t0<300);
+    losses.push(s/k);$("st").textContent=step;$("ls").textContent=(s/k).toFixed(3);
+    draw();await tf.nextFrame();
+    if(Date.now()-last>120000){await save();last=Date.now()}
+  }
+  await save();
+}
+function draw(){
+  const cv=$("cv"),r=devicePixelRatio||1,w=cv.clientWidth,h=cv.clientHeight;
+  if(cv.width!==Math.round(w*r)){cv.width=w*r;cv.height=h*r}
+  const g=cv.getContext("2d");g.setTransform(r,0,0,r,0,0);g.clearRect(0,0,w,h);
+  if(losses.length<2)return;
+  let d=losses;if(d.length>w){const f=d.length/w;d=Array.from({length:w|0},(_,i)=>d[Math.floor(i*f)])}
+  const mx=Math.max(...d),mn=Math.min(...d),pad=10;
+  g.strokeStyle=getComputedStyle(document.documentElement).getPropertyValue("--accent");g.lineWidth=2;g.beginPath();
+  d.forEach((v,i)=>{const X=i/(d.length-1)*(w-2*pad)+pad,Y=pad+(1-(v-mn)/(mx-mn+1e-9))*(h-2*pad);i?g.lineTo(X,Y):g.moveTo(X,Y)});
+  g.stroke();
+}
+$("go").onclick=async()=>{
+  if(training){training=false;$("go").textContent="Eğitime devam et";return}
+  const text=$("txt").value.replace(/\r/g,"");
+  if(!S){
+    if(text.length<300){say("Metin çok kısa. En az 300 karakter gerekli.");return}
+    const chars=[...new Set(text)].sort();
+    if(chars.length>250){say("Çok fazla farklı karakter ("+chars.length+"). Metni sadeleştir.");return}
+    try{build(cfgUI(),text,chars);losses=[];step=0;hist=""}catch(e){say("Model kurulamadı: "+e.message);return}
+  }else S.data=dataFrom(text);
+  if(S.data.length<=S.cfg.T+2){say("Metin bağlam uzunluğundan kısa. Daha fazla metin ekle veya bağlamı küçült.");return}
+  const lost=[...text].length-S.data.length;
+  say(lost>0?lost+" karakter modelin bilmediği harflerden olduğu için atlandı.":"");
+  training=true;$("go").textContent="Eğitimi durdur";$("send").disabled=false;
+  try{await loop()}catch(e){training=false;$("go").textContent="Eğitimi başlat";say("Hata: "+e.message+" (modeli küçültmeyi dene)")}
+};
+$("reset").onclick=()=>{training=false;dispose();losses=[];step=0;hist="";$("st").textContent=0;$("ls").textContent="–";$("go").textContent="Eğitimi başlat";$("send").disabled=true;$("chat").innerHTML="";draw();say("Model sıfırlandı. Boyutu değiştirip yeniden başlatabilirsin.")};
+$("clr").onclick=()=>{hist="";$("chat").innerHTML=""};
+
+function bubble(c,t){const d=document.createElement("div");d.className="b "+c;d.textContent=t;$("chat").appendChild(d);$("chat").scrollTop=1e9;return d}
+async function ask(){
+  const msg=$("in").value.trim();if(!msg||!S||busy)return;
+  busy=true;$("in").value="";bubble("u",msg);const out=bubble("a","…"),T=S.cfg.T;
+  hist+=$("l1").value+": "+msg+"\n"+$("l2").value+":";
+  const ids=[...hist].filter(c=>c in S.idx).map(c=>S.idx[c]),temp=+$("temp").value;let txt="";
+  for(let n=0;n<300&&ids.length;n++){
+    const w=ids.slice(-T);
+    const pr=tf.tidy(()=>tf.softmax(fwd(tf.tensor2d(w,[1,w.length],"int32")).slice([w.length-1,0],[1,S.V]).div(temp)).reshape([-1]));
+    const a=await pr.data();pr.dispose();
+    const ix=[...a.keys()].sort((x,y)=>a[y]-a[x]).slice(0,40);let tot=0;ix.forEach(i=>tot+=a[i]);
+    let r=Math.random()*tot,k=ix[0];for(const i of ix){r-=a[i];if(r<=0){k=i;break}}
+    const c=S.chars[k];if(c==="\n")break;
+    txt+=c;ids.push(k);out.textContent=txt.trim()||"…";$("chat").scrollTop=1e9;
+    if(n%4===0)await tf.nextFrame();
+  }
+  hist=(hist+txt+"\n").slice(-2000);busy=false;
+}
+$("send").onclick=ask;$("in").onkeydown=e=>{if(e.key==="Enter")ask()};
+addEventListener("resize",draw);
+</script>
+</body>
+</html>
