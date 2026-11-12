@@ -31,11 +31,11 @@ class DS(torch.utils.data.Dataset):
 
 args = TrainingArguments(output_dir="out", per_device_train_batch_size=4, gradient_accumulation_steps=2,
     num_train_epochs=EPOCHS, learning_rate=LR, logging_steps=5, save_strategy="no", report_to="none",
-    use_cpu=True, warmup_ratio=0.05, lr_scheduler_type="cosine")
+    use_cpu=True, lr_scheduler_type="cosine")
 Trainer(model=model, args=args, train_dataset=DS(), data_collator=DataCollatorForLanguageModeling(tok, mlm=False)).train()
 
 model.eval()
-ids = tok.apply_chat_template([{"role":"system","content":SYS},{"role":"user","content":"Merhaba, adın ne?"}], add_generation_prompt=True, return_tensors="pt")
+ids = tok(tok.apply_chat_template([{"role":"system","content":SYS},{"role":"user","content":"Merhaba, adın ne?"}], tokenize=False, add_generation_prompt=True), return_tensors="pt").input_ids
 print("TEST:", tok.decode(model.generate(ids, max_new_tokens=60)[0][ids.shape[1]:], skip_special_tokens=True), flush=True)
 model = model.merge_and_unload()
 model.save_pretrained("merged"); tok.save_pretrained("merged")
