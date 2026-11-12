@@ -1,36 +1,5032 @@
+Kullanıcı: 78 - 44 kaç eder?
+AI: 78 - 44 = 34.
+Kullanıcı: 29 + 79 kaç eder?
+AI: 29 + 79 = 108.
+Kullanıcı: 42 × 91 kaç eder?
+AI: 42 × 91 = 3822.
+Kullanıcı: 100 - 48 kaç eder?
+AI: 100 - 48 = 52.
+Kullanıcı: 50 × 30 kaç eder?
+AI: 50 × 30 = 1500.
+Kullanıcı: Bana eleştirel düşünme hakkında kısa bilgi ver.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: Hedef için basit bir cümle kur.
+AI: “Hedef” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 83 + 99 kaç eder?
+AI: 83 + 99 = 182.
+Kullanıcı: zaman yönetimi hakkında yeni başlayan birine açıklama yap.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 27 - 8 kaç eder?
+AI: 27 - 8 = 19.
+Kullanıcı: 21 × 40 kaç eder?
+AI: 21 × 40 = 840.
+Kullanıcı: 34 × 32 kaç eder?
+AI: 34 × 32 = 1088.
+Kullanıcı: 76 + 27 kaç eder?
+AI: 76 + 27 = 103.
 Kullanıcı: Merhaba
-AI: Merhaba! Ben senin kendi eğittiğin yapay zekâyım. Nasıl yardımcı olabilirim?
-Kullanıcı: Adın ne
-AI: Benim adım Ceyo Asistan. Beni GitHub üzerinde eğittin.
-Kullanıcı: Seni kim yaptı
-AI: Beni ceyo0134 eğitti. Hazır bir dil modelini kendi verisiyle ince ayarladı.
-Kullanıcı: Nasılsın
+AI: Merhaba! Sana nasıl yardımcı olabilirim?
+Kullanıcı: 102 - 48 kaç eder?
+AI: 102 - 48 = 54.
+Kullanıcı: 57 - 5 kaç eder?
+AI: 57 - 5 = 52.
+Kullanıcı: 38 + 97 kaç eder?
+AI: 38 + 97 = 135.
+Kullanıcı: 24 × 55 kaç eder?
+AI: 24 × 55 = 1320.
+Kullanıcı: 11 + 76 kaç eder?
+AI: 11 + 76 = 87.
+Kullanıcı: 3 + 43 kaç eder?
+AI: 3 + 43 = 46.
+Kullanıcı: 48 × 33 kaç eder?
+AI: 48 × 33 = 1584.
+Kullanıcı: 76 + 61 kaç eder?
+AI: 76 + 61 = 137.
+Kullanıcı: 16 × 11 kaç eder?
+AI: 16 × 11 = 176.
+Kullanıcı: 105 - 35 kaç eder?
+AI: 105 - 35 = 70.
+Kullanıcı: 24 × 1 kaç eder?
+AI: 24 × 1 = 24.
+Kullanıcı: 63 - 17 kaç eder?
+AI: 63 - 17 = 46.
+Kullanıcı: 93 + 75 kaç eder?
+AI: 93 + 75 = 168.
+Kullanıcı: 35 × 34 kaç eder?
+AI: 35 × 34 = 1190.
+Kullanıcı: 37 + 19 kaç eder?
+AI: 37 + 19 = 56.
+Kullanıcı: geri dönüşüm konusunu anlamama yardım et.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 41 × 38 kaç eder?
+AI: 41 × 38 = 1558.
+Kullanıcı: Bir hafta kaç gündür?
+AI: Bir hafta 7 gündür.
+Kullanıcı: 'iş birliği' kelimesi ne demektir?
+AI: Bir amaca ulaşmak için birlikte çalışma.
+Kullanıcı: 39 × 75 kaç eder?
+AI: 39 × 75 = 2925.
+Kullanıcı: 41 × 30 kaç eder?
+AI: 41 × 30 = 1230.
+Kullanıcı: makine öğrenmesi hakkında yeni başlayan birine açıklama yap.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: Çevre için basit bir cümle kur.
+AI: “Çevre” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 20 × 15 kaç eder?
+AI: 20 × 15 = 300.
+Kullanıcı: 43 × 47 kaç eder?
+AI: 43 × 47 = 2021.
+Kullanıcı: 52 + 24 kaç eder?
+AI: 52 + 24 = 76.
+Kullanıcı: 85 - 45 kaç eder?
+AI: 85 - 45 = 40.
+Kullanıcı: 21 × 47 kaç eder?
+AI: 21 × 47 = 987.
+Kullanıcı: 46 + 86 kaç eder?
+AI: 46 + 86 = 132.
+Kullanıcı: 3 × 58 kaç eder?
+AI: 3 × 58 = 174.
+Kullanıcı: Eş anlamlı kelime nedir?
+AI: Eş anlamlı kelimeler, aynı veya çok yakın anlam taşıyan kelimelerdir.
+Kullanıcı: 38 × 37 kaç eder?
+AI: 38 × 37 = 1406.
+Kullanıcı: 68 - 35 kaç eder?
+AI: 68 - 35 = 33.
+Kullanıcı: Bana geri dönüşüm hakkında kısa bilgi ver.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 44 + 8 kaç eder?
+AI: 44 + 8 = 52.
+Kullanıcı: geri dönüşüm hakkında yeni başlayan birine açıklama yap.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: Plan yapmak neden faydalıdır?
+AI: Plan yapmak işleri düzenlemeye ve hedeflere ulaşmayı kolaylaştırmaya yardımcı olur.
+Kullanıcı: 17 × 96 kaç eder?
+AI: 17 × 96 = 1632.
+Kullanıcı: 14 + 69 kaç eder?
+AI: 14 + 69 = 83.
+Kullanıcı: 0 + 97 kaç eder?
+AI: 0 + 97 = 97.
+Kullanıcı: Bir gün kaç saattir?
+AI: Bir gün 24 saattir.
+Kullanıcı: 46 × 41 kaç eder?
+AI: 46 × 41 = 1886.
+Kullanıcı: 66 + 40 kaç eder?
+AI: 66 + 40 = 106.
+Kullanıcı: 81 - 34 kaç eder?
+AI: 81 - 34 = 47.
+Kullanıcı: Bir örnek verir misin?
+AI: Elbette. Konuyu somutlaştıran bir örnek verebilirim.
+Kullanıcı: 23 + 9 kaç eder?
+AI: 23 + 9 = 32.
+Kullanıcı: 0 + 36 kaç eder?
+AI: 0 + 36 = 36.
+Kullanıcı: Bana geri dönüşüm hakkında kısa bilgi ver.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 12 × 76 kaç eder?
+AI: 12 × 76 = 912.
+Kullanıcı: 46 + 20 kaç eder?
+AI: 46 + 20 = 66.
+Kullanıcı: Merak kelimesini açıkla.
+AI: “merak”: Bir şeyi öğrenme veya keşfetme isteği.
+Kullanıcı: doğa hakkında yeni başlayan birine açıklama yap.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: eleştirel düşünme hakkında yeni başlayan birine açıklama yap.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 132 - 34 kaç eder?
+AI: 132 - 34 = 98.
+Kullanıcı: 23 × 21 kaç eder?
+AI: 23 × 21 = 483.
+Kullanıcı: 75 - 36 kaç eder?
+AI: 75 - 36 = 39.
+Kullanıcı: 5 × 15 kaç eder?
+AI: 5 × 15 = 75.
+Kullanıcı: 27 × 53 kaç eder?
+AI: 27 × 53 = 1431.
+Kullanıcı: 40 × 72 kaç eder?
+AI: 40 × 72 = 2880.
+Kullanıcı: 50 + 40 kaç eder?
+AI: 50 + 40 = 90.
+Kullanıcı: 115 - 20 kaç eder?
+AI: 115 - 20 = 95.
+Kullanıcı: 58 + 50 kaç eder?
+AI: 58 + 50 = 108.
+Kullanıcı: 34 × 22 kaç eder?
+AI: 34 × 22 = 748.
+Kullanıcı: 47 × 18 kaç eder?
+AI: 47 × 18 = 846.
+Kullanıcı: 11 + 77 kaç eder?
+AI: 11 + 77 = 88.
+Kullanıcı: Iş birliği için basit bir cümle kur.
+AI: “Iş birliği” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 45 + 73 kaç eder?
+AI: 45 + 73 = 118.
+Kullanıcı: 79 + 57 kaç eder?
+AI: 79 + 57 = 136.
+Kullanıcı: 15 × 85 kaç eder?
+AI: 15 × 85 = 1275.
+Kullanıcı: 16 × 5 kaç eder?
+AI: 16 × 5 = 80.
+Kullanıcı: 3 × 74 kaç eder?
+AI: 3 × 74 = 222.
+Kullanıcı: 0 + 14 kaç eder?
+AI: 0 + 14 = 14.
+Kullanıcı: 21 + 18 kaç eder?
+AI: 21 + 18 = 39.
+Kullanıcı: 69 + 90 kaç eder?
+AI: 69 + 90 = 159.
+Kullanıcı: Bilgisayar ne işe yarar?
+AI: Bilgisayar bilgi işlemek, iletişim kurmak ve çeşitli görevleri yapmak için kullanılır.
+Kullanıcı: 93 - 50 kaç eder?
+AI: 93 - 50 = 43.
+Kullanıcı: 98 + 56 kaç eder?
+AI: 98 + 56 = 154.
+Kullanıcı: 10 + 30 kaç eder?
+AI: 10 + 30 = 40.
+Kullanıcı: 35 + 87 kaç eder?
+AI: 35 + 87 = 122.
+Kullanıcı: 66 + 91 kaç eder?
+AI: 66 + 91 = 157.
+Kullanıcı: 127 - 39 kaç eder?
+AI: 127 - 39 = 88.
+Kullanıcı: 118 - 46 kaç eder?
+AI: 118 - 46 = 72.
+Kullanıcı: 80 + 3 kaç eder?
+AI: 80 + 3 = 83.
+Kullanıcı: 22 × 41 kaç eder?
+AI: 22 × 41 = 902.
+Kullanıcı: 121 - 22 kaç eder?
+AI: 121 - 22 = 99.
+Kullanıcı: 49 × 70 kaç eder?
+AI: 49 × 70 = 3430.
+Kullanıcı: takım çalışması konusunu basitçe anlat.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 24 × 75 kaç eder?
+AI: 24 × 75 = 1800.
+Kullanıcı: 53 + 76 kaç eder?
+AI: 53 + 76 = 129.
+Kullanıcı: 5 + 69 kaç eder?
+AI: 5 + 69 = 74.
+Kullanıcı: 22 + 3 kaç eder?
+AI: 22 + 3 = 25.
+Kullanıcı: 52 - 28 kaç eder?
+AI: 52 - 28 = 24.
+Kullanıcı: 75 - 14 kaç eder?
+AI: 75 - 14 = 61.
+Kullanıcı: 43 + 49 kaç eder?
+AI: 43 + 49 = 92.
+Kullanıcı: 74 + 81 kaç eder?
+AI: 74 + 81 = 155.
+Kullanıcı: 26 + 79 kaç eder?
+AI: 26 + 79 = 105.
+Kullanıcı: 78 + 49 kaç eder?
+AI: 78 + 49 = 127.
+Kullanıcı: 39 + 53 kaç eder?
+AI: 39 + 53 = 92.
+Kullanıcı: Eğitim verisi ne demektir?
+AI: Eğitim verisi, bir modelin örüntüleri öğrenmesi için kullanılan örneklerdir.
+Kullanıcı: Bir yıl kaç aydır?
+AI: Bir yıl 12 aydır.
+Kullanıcı: 23 - 7 kaç eder?
+AI: 23 - 7 = 16.
+Kullanıcı: Teşekkür ederim
+AI: Rica ederim!
+Kullanıcı: 45 + 29 kaç eder?
+AI: 45 + 29 = 74.
+Kullanıcı: 76 - 16 kaç eder?
+AI: 76 - 16 = 60.
+Kullanıcı: 105 - 31 kaç eder?
+AI: 105 - 31 = 74.
+Kullanıcı: 47 + 79 kaç eder?
+AI: 47 + 79 = 126.
+Kullanıcı: 46 + 51 kaç eder?
+AI: 46 + 51 = 97.
+Kullanıcı: Üzgün için basit bir cümle kur.
+AI: “Üzgün” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 86 - 50 kaç eder?
+AI: 86 - 50 = 36.
+Kullanıcı: 22 + 5 kaç eder?
+AI: 22 + 5 = 27.
+Kullanıcı: 3 × 51 kaç eder?
+AI: 3 × 51 = 153.
+Kullanıcı: 26 × 90 kaç eder?
+AI: 26 × 90 = 2340.
+Kullanıcı: 51 + 54 kaç eder?
+AI: 51 + 54 = 105.
+Kullanıcı: 1 × 29 kaç eder?
+AI: 1 × 29 = 29.
+Kullanıcı: 92 + 67 kaç eder?
+AI: 92 + 67 = 159.
+Kullanıcı: 37 × 60 kaç eder?
+AI: 37 × 60 = 2220.
+Kullanıcı: 2 × 96 kaç eder?
+AI: 2 × 96 = 192.
+Kullanıcı: 133 - 41 kaç eder?
+AI: 133 - 41 = 92.
+Kullanıcı: 37 × 80 kaç eder?
+AI: 37 × 80 = 2960.
+Kullanıcı: Bilgisayar ne işe yarar?
+AI: Bilgisayar bilgi işlemek, iletişim kurmak ve çeşitli görevleri yapmak için kullanılır.
+Kullanıcı: 68 + 60 kaç eder?
+AI: 68 + 60 = 128.
+Kullanıcı: 1 × 18 kaç eder?
+AI: 1 × 18 = 18.
+Kullanıcı: 74 - 13 kaç eder?
+AI: 74 - 13 = 61.
+Kullanıcı: 94 + 56 kaç eder?
+AI: 94 + 56 = 150.
+Kullanıcı: 31 + 13 kaç eder?
+AI: 31 + 13 = 44.
+Kullanıcı: 29 × 93 kaç eder?
+AI: 29 × 93 = 2697.
+Kullanıcı: 48 + 65 kaç eder?
+AI: 48 + 65 = 113.
+Kullanıcı: Kediler ne tür hayvanlardır?
+AI: Kediler memeli hayvanlardır.
+Kullanıcı: 35 + 17 kaç eder?
+AI: 35 + 17 = 52.
+Kullanıcı: 103 - 8 kaç eder?
+AI: 103 - 8 = 95.
+Kullanıcı: Bana takım çalışması hakkında kısa bilgi ver.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 66 - 32 kaç eder?
+AI: 66 - 32 = 34.
+Kullanıcı: 24 - 23 kaç eder?
+AI: 24 - 23 = 1.
+Kullanıcı: 43 + 62 kaç eder?
+AI: 43 + 62 = 105.
+Kullanıcı: 22 × 64 kaç eder?
+AI: 22 × 64 = 1408.
+Kullanıcı: 30 + 40 kaç eder?
+AI: 30 + 40 = 70.
+Kullanıcı: 91 + 96 kaç eder?
+AI: 91 + 96 = 187.
+Kullanıcı: Hedef için basit bir cümle kur.
+AI: “Hedef” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 78 + 55 kaç eder?
+AI: 78 + 55 = 133.
+Kullanıcı: 28 + 29 kaç eder?
+AI: 28 + 29 = 57.
+Kullanıcı: hedef belirleme konusunu basitçe anlat.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 32 + 67 kaç eder?
+AI: 32 + 67 = 99.
+Kullanıcı: 48 × 89 kaç eder?
+AI: 48 × 89 = 4272.
+Kullanıcı: Naber?
 AI: İyiyim, teşekkür ederim. Sen nasılsın?
-Kullanıcı: Ne yapabilirsin
-AI: Sorularını cevaplayabilirim, sohbet edebilirim ve sana fikir verebilirim.
-Kullanıcı: Nerede çalışıyorsun
-AI: Telefonunun tarayıcısında çalışıyorum. Verilerin cihazından dışarı çıkmaz.
-Kullanıcı: Beni eğitmek için ne yapmalıyım
-AI: veri klasöründeki egitim.txt dosyasına soru ve cevaplarını yaz, sonra GitHub Actions'ta Modeli egit iş akışını çalıştır.
-Kullanıcı: Kaç soru yazmalıyım
-AI: Ne kadar çok yazarsan o kadar iyi olur. En az birkaç yüz soru-cevap önerilir.
-Kullanıcı: Teşekkürler
-AI: Rica ederim, her zaman yardıma hazırım.
+Kullanıcı: 89 + 98 kaç eder?
+AI: 89 + 98 = 187.
+Kullanıcı: 25 × 32 kaç eder?
+AI: 25 × 32 = 800.
+Kullanıcı: Sorumluluk kelimesini açıkla.
+AI: “sorumluluk”: Kişinin yerine getirmesi gereken görev veya yükümlülük.
+Kullanıcı: 24 - 18 kaç eder?
+AI: 24 - 18 = 6.
+Kullanıcı: Öz güven kelimesini açıkla.
+AI: “öz güven”: Kişinin kendi yeteneklerine ve kararlarına güvenmesi.
+Kullanıcı: 'alışkanlık' kelimesi ne demektir?
+AI: Tekrarlanan davranışın zamanla yerleşmesi.
+Kullanıcı: 23 × 12 kaç eder?
+AI: 23 × 12 = 276.
+Kullanıcı: 31 + 5 kaç eder?
+AI: 31 + 5 = 36.
+Kullanıcı: Öğretmen ne yapar?
+AI: Öğretmenler öğrencilerin öğrenmesine yardımcı olur.
+Kullanıcı: 6 × 52 kaç eder?
+AI: 6 × 52 = 312.
+Kullanıcı: 29 + 54 kaç eder?
+AI: 29 + 54 = 83.
+Kullanıcı: 65 + 56 kaç eder?
+AI: 65 + 56 = 121.
+Kullanıcı: 56 + 35 kaç eder?
+AI: 56 + 35 = 91.
+Kullanıcı: 80 + 31 kaç eder?
+AI: 80 + 31 = 111.
+Kullanıcı: 19 + 54 kaç eder?
+AI: 19 + 54 = 73.
+Kullanıcı: 60 + 38 kaç eder?
+AI: 60 + 38 = 98.
+Kullanıcı: 7 + 92 kaç eder?
+AI: 7 + 92 = 99.
+Kullanıcı: 47 - 5 kaç eder?
+AI: 47 - 5 = 42.
+Kullanıcı: 81 - 29 kaç eder?
+AI: 81 - 29 = 52.
+Kullanıcı: 37 + 69 kaç eder?
+AI: 37 + 69 = 106.
+Kullanıcı: 78 + 48 kaç eder?
+AI: 78 + 48 = 126.
+Kullanıcı: 71 - 5 kaç eder?
+AI: 71 - 5 = 66.
+Kullanıcı: 43 + 94 kaç eder?
+AI: 43 + 94 = 137.
+Kullanıcı: 55 + 34 kaç eder?
+AI: 55 + 34 = 89.
+Kullanıcı: 79 + 18 kaç eder?
+AI: 79 + 18 = 97.
+Kullanıcı: doğa hakkında yeni başlayan birine açıklama yap.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 18 + 34 kaç eder?
+AI: 18 + 34 = 52.
+Kullanıcı: 32 × 8 kaç eder?
+AI: 32 × 8 = 256.
+Kullanıcı: 92 + 34 kaç eder?
+AI: 92 + 34 = 126.
+Kullanıcı: Balıklar nerede yaşar?
+AI: Balıkların çoğu suda yaşar.
+Kullanıcı: 'iş birliği' kelimesi ne demektir?
+AI: Bir amaca ulaşmak için birlikte çalışma.
+Kullanıcı: 21 + 14 kaç eder?
+AI: 21 + 14 = 35.
+Kullanıcı: 71 + 71 kaç eder?
+AI: 71 + 71 = 142.
+Kullanıcı: internet güvenliği konusunu basitçe anlat.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: Yardım kelimesini açıkla.
+AI: “yardım”: Birinin işini kolaylaştırmak için destek olma.
+Kullanıcı: 52 - 24 kaç eder?
+AI: 52 - 24 = 28.
+Kullanıcı: 89 - 19 kaç eder?
+AI: 89 - 19 = 70.
+Kullanıcı: 66 + 59 kaç eder?
+AI: 66 + 59 = 125.
+Kullanıcı: Yardım için basit bir cümle kur.
+AI: “Yardım” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 84 + 59 kaç eder?
+AI: 84 + 59 = 143.
+Kullanıcı: 93 - 6 kaç eder?
+AI: 93 - 6 = 87.
+Kullanıcı: 115 - 38 kaç eder?
+AI: 115 - 38 = 77.
+Kullanıcı: 8 + 37 kaç eder?
+AI: 8 + 37 = 45.
+Kullanıcı: 96 - 29 kaç eder?
+AI: 96 - 29 = 67.
+Kullanıcı: 91 - 28 kaç eder?
+AI: 91 - 28 = 63.
+Kullanıcı: Bana geri dönüşüm hakkında kısa bilgi ver.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 97 - 1 kaç eder?
+AI: 97 - 1 = 96.
+Kullanıcı: 4 + 6 kaç eder?
+AI: 4 + 6 = 10.
+Kullanıcı: 58 - 37 kaç eder?
+AI: 58 - 37 = 21.
+Kullanıcı: Hata yapmak kötü müdür?
+AI: Hatalar öğrenme fırsatı olabilir; önemli olan hatayı anlamak ve düzeltmeye çalışmaktır.
+Kullanıcı: Sıfat nedir?
+AI: Sıfat, isimleri niteleyen veya belirten sözcüktür.
+Kullanıcı: Eğitim verisi ne demektir?
+AI: Eğitim verisi, bir modelin örüntüleri öğrenmesi için kullanılan örneklerdir.
+Kullanıcı: 26 - 7 kaç eder?
+AI: 26 - 7 = 19.
+Kullanıcı: geri dönüşüm konusunu basitçe anlat.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 1 × 7 kaç eder?
+AI: 1 × 7 = 7.
+Kullanıcı: 58 + 31 kaç eder?
+AI: 58 + 31 = 89.
+Kullanıcı: 17 × 2 kaç eder?
+AI: 17 × 2 = 34.
+Kullanıcı: 9 + 14 kaç eder?
+AI: 9 + 14 = 23.
+Kullanıcı: 103 - 22 kaç eder?
+AI: 103 - 22 = 81.
+Kullanıcı: 12 × 61 kaç eder?
+AI: 12 × 61 = 732.
+Kullanıcı: Su ne işe yarar?
+AI: Su, canlıların yaşaması için gereklidir; içme, temizlik ve birçok günlük işte kullanılır.
+Kullanıcı: 50 × 29 kaç eder?
+AI: 50 × 29 = 1450.
+Kullanıcı: 12 × 97 kaç eder?
+AI: 12 × 97 = 1164.
+Kullanıcı: sağlıklı uyku konusunu basitçe anlat.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 93 + 91 kaç eder?
+AI: 93 + 91 = 184.
+Kullanıcı: 95 + 27 kaç eder?
+AI: 95 + 27 = 122.
+Kullanıcı: 29 × 6 kaç eder?
+AI: 29 × 6 = 174.
+Kullanıcı: 11 + 92 kaç eder?
+AI: 11 + 92 = 103.
+Kullanıcı: 47 × 87 kaç eder?
+AI: 47 × 87 = 4089.
+Kullanıcı: 37 - 16 kaç eder?
+AI: 37 - 16 = 21.
+Kullanıcı: Elektrik nedir?
+AI: Elektrik, yüklerin hareketi veya birikimiyle ilişkili fiziksel bir olgudur.
+Kullanıcı: 11 × 22 kaç eder?
+AI: 11 × 22 = 242.
+Kullanıcı: 10 × 87 kaç eder?
+AI: 10 × 87 = 870.
+Kullanıcı: 3 + 49 kaç eder?
+AI: 3 + 49 = 52.
+Kullanıcı: doğa konusunu basitçe anlat.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 50 - 32 kaç eder?
+AI: 50 - 32 = 18.
+Kullanıcı: 60 - 42 kaç eder?
+AI: 60 - 42 = 18.
+Kullanıcı: 'çözüm' kelimesi ne demektir?
+AI: Bir sorunu gideren yol veya sonuç.
+Kullanıcı: 35 × 71 kaç eder?
+AI: 35 × 71 = 2485.
+Kullanıcı: Hoşça kal
+AI: Hoşça kal!
+Kullanıcı: 46 × 60 kaç eder?
+AI: 46 × 60 = 2760.
+Kullanıcı: 85 - 15 kaç eder?
+AI: 85 - 15 = 70.
+Kullanıcı: 94 - 30 kaç eder?
+AI: 94 - 30 = 64.
+Kullanıcı: Bana doğa hakkında kısa bilgi ver.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 61 + 17 kaç eder?
+AI: 61 + 17 = 78.
+Kullanıcı: geri dönüşüm nedir?
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: Daha kısa anlat
+AI: Tabii, daha kısa anlatacağım.
+Kullanıcı: Iletişim kelimesini açıkla.
+AI: “iletişim”: Bilgi, düşünce veya duyguların paylaşılması.
+Kullanıcı: 50 × 45 kaç eder?
+AI: 50 × 45 = 2250.
+Kullanıcı: 78 + 62 kaç eder?
+AI: 78 + 62 = 140.
+Kullanıcı: Iş birliği kelimesini açıkla.
+AI: “iş birliği”: Bir amaca ulaşmak için birlikte çalışma.
+Kullanıcı: 37 × 93 kaç eder?
+AI: 37 × 93 = 3441.
+Kullanıcı: Dürüst için basit bir cümle kur.
+AI: “Dürüst” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 33 - 26 kaç eder?
+AI: 33 - 26 = 7.
+Kullanıcı: Bana bulut bilişim hakkında kısa bilgi ver.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 37 + 38 kaç eder?
+AI: 37 + 38 = 75.
+Kullanıcı: 9 + 24 kaç eder?
+AI: 9 + 24 = 33.
+Kullanıcı: 89 + 8 kaç eder?
+AI: 89 + 8 = 97.
+Kullanıcı: 77 + 56 kaç eder?
+AI: 77 + 56 = 133.
+Kullanıcı: 68 - 47 kaç eder?
+AI: 68 - 47 = 21.
+Kullanıcı: 25 × 77 kaç eder?
+AI: 25 × 77 = 1925.
+Kullanıcı: 77 + 13 kaç eder?
+AI: 77 + 13 = 90.
+Kullanıcı: 28 + 7 kaç eder?
+AI: 28 + 7 = 35.
+Kullanıcı: 32 × 93 kaç eder?
+AI: 32 × 93 = 2976.
+Kullanıcı: 93 + 3 kaç eder?
+AI: 93 + 3 = 96.
+Kullanıcı: 34 × 59 kaç eder?
+AI: 34 × 59 = 2006.
+Kullanıcı: 93 + 87 kaç eder?
+AI: 93 + 87 = 180.
+Kullanıcı: 18 - 12 kaç eder?
+AI: 18 - 12 = 6.
+Kullanıcı: 13 × 43 kaç eder?
+AI: 13 × 43 = 559.
+Kullanıcı: 48 + 87 kaç eder?
+AI: 48 + 87 = 135.
+Kullanıcı: 48 × 54 kaç eder?
+AI: 48 × 54 = 2592.
+Kullanıcı: 20 + 87 kaç eder?
+AI: 20 + 87 = 107.
+Kullanıcı: 23 + 16 kaç eder?
+AI: 23 + 16 = 39.
+Kullanıcı: 62 + 71 kaç eder?
+AI: 62 + 71 = 133.
+Kullanıcı: 32 + 3 kaç eder?
+AI: 32 + 3 = 35.
+Kullanıcı: Bana eleştirel düşünme hakkında kısa bilgi ver.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 22 × 75 kaç eder?
+AI: 22 × 75 = 1650.
+Kullanıcı: hedef belirleme hakkında yeni başlayan birine açıklama yap.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: Kitap ne için kullanılır?
+AI: Kitaplar bilgi edinmek, öğrenmek veya hikâye okumak için kullanılır.
+Kullanıcı: 76 + 47 kaç eder?
+AI: 76 + 47 = 123.
+Kullanıcı: 89 + 16 kaç eder?
+AI: 89 + 16 = 105.
+Kullanıcı: 56 + 50 kaç eder?
+AI: 56 + 50 = 106.
+Kullanıcı: takım çalışması konusunu basitçe anlat.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 43 - 7 kaç eder?
+AI: 43 - 7 = 36.
+Kullanıcı: 49 - 14 kaç eder?
+AI: 49 - 14 = 35.
+Kullanıcı: 103 - 14 kaç eder?
+AI: 103 - 14 = 89.
+Kullanıcı: 67 + 37 kaç eder?
+AI: 67 + 37 = 104.
+Kullanıcı: 39 + 97 kaç eder?
+AI: 39 + 97 = 136.
+Kullanıcı: 82 + 51 kaç eder?
+AI: 82 + 51 = 133.
+Kullanıcı: 76 + 88 kaç eder?
+AI: 76 + 88 = 164.
+Kullanıcı: 9 × 61 kaç eder?
+AI: 9 × 61 = 549.
+Kullanıcı: 121 - 32 kaç eder?
+AI: 121 - 32 = 89.
+Kullanıcı: 11 + 13 kaç eder?
+AI: 11 + 13 = 24.
+Kullanıcı: 21 × 20 kaç eder?
+AI: 21 × 20 = 420.
+Kullanıcı: 50 + 0 kaç eder?
+AI: 50 + 0 = 50.
+Kullanıcı: 41 + 99 kaç eder?
+AI: 41 + 99 = 140.
+Kullanıcı: 6 × 43 kaç eder?
+AI: 6 × 43 = 258.
+Kullanıcı: 74 + 87 kaç eder?
+AI: 74 + 87 = 161.
+Kullanıcı: 44 + 27 kaç eder?
+AI: 44 + 27 = 71.
+Kullanıcı: 58 - 49 kaç eder?
+AI: 58 - 49 = 9.
+Kullanıcı: Cesur kelimesini açıkla.
+AI: “cesur”: Korkuya rağmen doğru veya gerekli adımı atabilen.
+Kullanıcı: 27 + 76 kaç eder?
+AI: 27 + 76 = 103.
+Kullanıcı: 43 + 97 kaç eder?
+AI: 43 + 97 = 140.
+Kullanıcı: 47 + 84 kaç eder?
+AI: 47 + 84 = 131.
+Kullanıcı: 59 + 17 kaç eder?
+AI: 59 + 17 = 76.
+Kullanıcı: Nazik için basit bir cümle kur.
+AI: “Nazik” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 73 + 81 kaç eder?
+AI: 73 + 81 = 154.
+Kullanıcı: 24 + 52 kaç eder?
+AI: 24 + 52 = 76.
+Kullanıcı: 25 × 99 kaç eder?
+AI: 25 × 99 = 2475.
+Kullanıcı: 88 + 38 kaç eder?
+AI: 88 + 38 = 126.
+Kullanıcı: dostluk konusunu anlamama yardım et.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 62 + 60 kaç eder?
+AI: 62 + 60 = 122.
+Kullanıcı: 90 + 79 kaç eder?
+AI: 90 + 79 = 169.
+Kullanıcı: 12 + 64 kaç eder?
+AI: 12 + 64 = 76.
+Kullanıcı: 7 × 64 kaç eder?
+AI: 7 × 64 = 448.
+Kullanıcı: Çözüm için basit bir cümle kur.
+AI: “Çözüm” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 106 - 49 kaç eder?
+AI: 106 - 49 = 57.
+Kullanıcı: 38 + 84 kaç eder?
+AI: 38 + 84 = 122.
+Kullanıcı: 85 + 36 kaç eder?
+AI: 85 + 36 = 121.
+Kullanıcı: Ay nedir?
+AI: Ay, Dünya'nın doğal uydusudur.
+Kullanıcı: 104 - 11 kaç eder?
+AI: 104 - 11 = 93.
+Kullanıcı: Sıfat nedir?
+AI: Sıfat, isimleri niteleyen veya belirten sözcüktür.
+Kullanıcı: 29 + 27 kaç eder?
+AI: 29 + 27 = 56.
+Kullanıcı: 31 + 6 kaç eder?
+AI: 31 + 6 = 37.
+Kullanıcı: 38 × 31 kaç eder?
+AI: 38 × 31 = 1178.
+Kullanıcı: Dürüst kelimesini açıkla.
+AI: “dürüst”: Doğruyu söyleyen ve güvenilir davranan.
+Kullanıcı: 27 × 21 kaç eder?
+AI: 27 × 21 = 567.
+Kullanıcı: 135 - 37 kaç eder?
+AI: 135 - 37 = 98.
+Kullanıcı: 54 + 30 kaç eder?
+AI: 54 + 30 = 84.
+Kullanıcı: 18 + 30 kaç eder?
+AI: 18 + 30 = 48.
+Kullanıcı: 15 × 59 kaç eder?
+AI: 15 × 59 = 885.
+Kullanıcı: 31 + 30 kaç eder?
+AI: 31 + 30 = 61.
+Kullanıcı: 79 + 1 kaç eder?
+AI: 79 + 1 = 80.
+Kullanıcı: 36 × 37 kaç eder?
+AI: 36 × 37 = 1332.
+Kullanıcı: 56 - 46 kaç eder?
+AI: 56 - 46 = 10.
+Kullanıcı: 35 + 81 kaç eder?
+AI: 35 + 81 = 116.
+Kullanıcı: 'merak' kelimesi ne demektir?
+AI: Bir şeyi öğrenme veya keşfetme isteği.
+Kullanıcı: 39 - 29 kaç eder?
+AI: 39 - 29 = 10.
+Kullanıcı: Kütüphane nedir?
+AI: Kütüphane, kitapların ve başka kaynakların bulunduğu, kullanılabildiği yerdir.
+Kullanıcı: 5 + 24 kaç eder?
+AI: 5 + 24 = 29.
+Kullanıcı: 81 - 21 kaç eder?
+AI: 81 - 21 = 60.
+Kullanıcı: 93 - 30 kaç eder?
+AI: 93 - 30 = 63.
+Kullanıcı: 72 + 33 kaç eder?
+AI: 72 + 33 = 105.
+Kullanıcı: zaman yönetimi hakkında yeni başlayan birine açıklama yap.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 108 - 10 kaç eder?
+AI: 108 - 10 = 98.
+Kullanıcı: 12 × 15 kaç eder?
+AI: 12 × 15 = 180.
+Kullanıcı: 43 + 79 kaç eder?
+AI: 43 + 79 = 122.
+Kullanıcı: 74 + 2 kaç eder?
+AI: 74 + 2 = 76.
+Kullanıcı: 98 + 95 kaç eder?
+AI: 98 + 95 = 193.
+Kullanıcı: 8 + 31 kaç eder?
+AI: 8 + 31 = 39.
+Kullanıcı: 97 + 39 kaç eder?
+AI: 97 + 39 = 136.
+Kullanıcı: 28 × 93 kaç eder?
+AI: 28 × 93 = 2604.
+Kullanıcı: 116 - 40 kaç eder?
+AI: 116 - 40 = 76.
+Kullanıcı: 21 × 34 kaç eder?
+AI: 21 × 34 = 714.
+Kullanıcı: 90 + 88 kaç eder?
+AI: 90 + 88 = 178.
+Kullanıcı: 76 - 6 kaç eder?
+AI: 76 - 6 = 70.
+Kullanıcı: 97 + 19 kaç eder?
+AI: 97 + 19 = 116.
+Kullanıcı: 90 + 67 kaç eder?
+AI: 90 + 67 = 157.
+Kullanıcı: 32 × 45 kaç eder?
+AI: 32 × 45 = 1440.
+Kullanıcı: 40 + 47 kaç eder?
+AI: 40 + 47 = 87.
+Kullanıcı: 10 + 9 kaç eder?
+AI: 10 + 9 = 19.
+Kullanıcı: 21 + 30 kaç eder?
+AI: 21 + 30 = 51.
+Kullanıcı: 18 + 63 kaç eder?
+AI: 18 + 63 = 81.
+Kullanıcı: 62 + 85 kaç eder?
+AI: 62 + 85 = 147.
+Kullanıcı: 43 + 41 kaç eder?
+AI: 43 + 41 = 84.
+Kullanıcı: Su ne işe yarar?
+AI: Su, canlıların yaşaması için gereklidir; içme, temizlik ve birçok günlük işte kullanılır.
+Kullanıcı: Bir örnek verir misin?
+AI: Elbette. Konuyu somutlaştıran bir örnek verebilirim.
+Kullanıcı: 27 + 64 kaç eder?
+AI: 27 + 64 = 91.
+Kullanıcı: 14 × 1 kaç eder?
+AI: 14 × 1 = 14.
+Kullanıcı: Senin adın ne?
+AI: Ben bir yapay zekâ asistanıyım. Bana istediğin bir isimle hitap edebilirsin.
+Kullanıcı: 17 + 18 kaç eder?
+AI: 17 + 18 = 35.
+Kullanıcı: 24 + 53 kaç eder?
+AI: 24 + 53 = 77.
+Kullanıcı: 'yardım' kelimesi ne demektir?
+AI: Birinin işini kolaylaştırmak için destek olma.
+Kullanıcı: 10 × 63 kaç eder?
+AI: 10 × 63 = 630.
+Kullanıcı: 'iletişim' kelimesi ne demektir?
+AI: Bilgi, düşünce veya duyguların paylaşılması.
+Kullanıcı: 37 × 48 kaç eder?
+AI: 37 × 48 = 1776.
+Kullanıcı: 0 + 66 kaç eder?
+AI: 0 + 66 = 66.
+Kullanıcı: Iş birliği için basit bir cümle kur.
+AI: “Iş birliği” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 50 + 45 kaç eder?
+AI: 50 + 45 = 95.
+Kullanıcı: 20 + 40 kaç eder?
+AI: 20 + 40 = 60.
+Kullanıcı: 83 + 26 kaç eder?
+AI: 83 + 26 = 109.
+Kullanıcı: 89 + 39 kaç eder?
+AI: 89 + 39 = 128.
+Kullanıcı: Nasılsın?
+AI: İyiyim, teşekkür ederim. Sen nasılsın?
+Kullanıcı: 88 - 9 kaç eder?
+AI: 88 - 9 = 79.
+Kullanıcı: 88 - 44 kaç eder?
+AI: 88 - 44 = 44.
+Kullanıcı: İyi akşamlar
+AI: İyi akşamlar! Nasıl yardımcı olayım?
+Kullanıcı: 55 - 8 kaç eder?
+AI: 55 - 8 = 47.
+Kullanıcı: 9 × 10 kaç eder?
+AI: 9 × 10 = 90.
+Kullanıcı: 94 - 21 kaç eder?
+AI: 94 - 21 = 73.
+Kullanıcı: 79 + 26 kaç eder?
+AI: 79 + 26 = 105.
+Kullanıcı: 4 × 37 kaç eder?
+AI: 4 × 37 = 148.
+Kullanıcı: 45 × 4 kaç eder?
+AI: 45 × 4 = 180.
+Kullanıcı: 58 - 33 kaç eder?
+AI: 58 - 33 = 25.
+Kullanıcı: 0 + 17 kaç eder?
+AI: 0 + 17 = 17.
+Kullanıcı: 61 - 2 kaç eder?
+AI: 61 - 2 = 59.
+Kullanıcı: 52 + 8 kaç eder?
+AI: 52 + 8 = 60.
+Kullanıcı: Fiil nedir?
+AI: Fiil, iş, oluş veya hareket bildiren sözcüktür.
+Kullanıcı: 47 × 19 kaç eder?
+AI: 47 × 19 = 893.
+Kullanıcı: 85 + 74 kaç eder?
+AI: 85 + 74 = 159.
+Kullanıcı: 10 + 28 kaç eder?
+AI: 10 + 28 = 38.
+Kullanıcı: 73 - 7 kaç eder?
+AI: 73 - 7 = 66.
+Kullanıcı: 41 × 19 kaç eder?
+AI: 41 × 19 = 779.
+Kullanıcı: 1 + 32 kaç eder?
+AI: 1 + 32 = 33.
+Kullanıcı: 7 × 49 kaç eder?
+AI: 7 × 49 = 343.
+Kullanıcı: 44 + 19 kaç eder?
+AI: 44 + 19 = 63.
+Kullanıcı: 12 + 54 kaç eder?
+AI: 12 + 54 = 66.
+Kullanıcı: 96 + 67 kaç eder?
+AI: 96 + 67 = 163.
+Kullanıcı: Türkiye'nin başkenti neresidir?
+AI: Türkiye'nin başkenti Ankara'dır.
+Kullanıcı: 20 + 12 kaç eder?
+AI: 20 + 12 = 32.
+Kullanıcı: 29 × 76 kaç eder?
+AI: 29 × 76 = 2204.
+Kullanıcı: 88 + 46 kaç eder?
+AI: 88 + 46 = 134.
+Kullanıcı: takım çalışması nedir?
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 80 + 24 kaç eder?
+AI: 80 + 24 = 104.
+Kullanıcı: programlama konusunu basitçe anlat.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 97 + 18 kaç eder?
+AI: 97 + 18 = 115.
+Kullanıcı: dostluk konusunu basitçe anlat.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 18 + 19 kaç eder?
+AI: 18 + 19 = 37.
+Kullanıcı: 117 - 27 kaç eder?
+AI: 117 - 27 = 90.
+Kullanıcı: Yağmur nasıl oluşur?
+AI: Bulutlardaki su damlacıkları büyüyüp ağırlaştığında yağış olarak yere düşebilir.
+Kullanıcı: Türkiye'nin başkenti neresidir?
+AI: Türkiye'nin başkenti Ankara'dır.
+Kullanıcı: 75 + 54 kaç eder?
+AI: 75 + 54 = 129.
+Kullanıcı: 36 × 71 kaç eder?
+AI: 36 × 71 = 2556.
+Kullanıcı: 12 + 96 kaç eder?
+AI: 12 + 96 = 108.
+Kullanıcı: 2 × 64 kaç eder?
+AI: 2 × 64 = 128.
+Kullanıcı: 26 × 92 kaç eder?
+AI: 26 × 92 = 2392.
+Kullanıcı: 2 × 76 kaç eder?
+AI: 2 × 76 = 152.
+Kullanıcı: 53 + 22 kaç eder?
+AI: 53 + 22 = 75.
+Kullanıcı: 74 + 7 kaç eder?
+AI: 74 + 7 = 81.
+Kullanıcı: 47 × 42 kaç eder?
+AI: 47 × 42 = 1974.
+Kullanıcı: 49 + 20 kaç eder?
+AI: 49 + 20 = 69.
+Kullanıcı: 18 × 58 kaç eder?
+AI: 18 × 58 = 1044.
+Kullanıcı: 75 + 92 kaç eder?
+AI: 75 + 92 = 167.
+Kullanıcı: internet güvenliği nedir?
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 94 + 6 kaç eder?
+AI: 94 + 6 = 100.
+Kullanıcı: 95 + 84 kaç eder?
+AI: 95 + 84 = 179.
+Kullanıcı: enerji tasarrufu nedir?
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 41 - 20 kaç eder?
+AI: 41 - 20 = 21.
+Kullanıcı: 40 + 27 kaç eder?
+AI: 40 + 27 = 67.
+Kullanıcı: 58 + 44 kaç eder?
+AI: 58 + 44 = 102.
+Kullanıcı: 48 + 61 kaç eder?
+AI: 48 + 61 = 109.
+Kullanıcı: doğa konusunu anlamama yardım et.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: Cesur için basit bir cümle kur.
+AI: “Cesur” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 51 + 20 kaç eder?
+AI: 51 + 20 = 71.
+Kullanıcı: Sorumluluk kelimesini açıkla.
+AI: “sorumluluk”: Kişinin yerine getirmesi gereken görev veya yükümlülük.
+Kullanıcı: 79 + 7 kaç eder?
+AI: 79 + 7 = 86.
+Kullanıcı: 27 + 34 kaç eder?
+AI: 27 + 34 = 61.
+Kullanıcı: 70 + 11 kaç eder?
+AI: 70 + 11 = 81.
+Kullanıcı: doğa hakkında yeni başlayan birine açıklama yap.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 15 × 73 kaç eder?
+AI: 15 × 73 = 1095.
+Kullanıcı: 82 + 28 kaç eder?
+AI: 82 + 28 = 110.
+Kullanıcı: 33 × 38 kaç eder?
+AI: 33 × 38 = 1254.
+Kullanıcı: Iletişim için basit bir cümle kur.
+AI: “Iletişim” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 5 × 97 kaç eder?
+AI: 5 × 97 = 485.
+Kullanıcı: 88 - 20 kaç eder?
+AI: 88 - 20 = 68.
+Kullanıcı: 86 + 15 kaç eder?
+AI: 86 + 15 = 101.
+Kullanıcı: Plan yapmak neden faydalıdır?
+AI: Plan yapmak işleri düzenlemeye ve hedeflere ulaşmayı kolaylaştırmaya yardımcı olur.
+Kullanıcı: 28 + 30 kaç eder?
+AI: 28 + 30 = 58.
+Kullanıcı: 21 × 45 kaç eder?
+AI: 21 × 45 = 945.
+Kullanıcı: dostluk nedir?
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 87 + 69 kaç eder?
+AI: 87 + 69 = 156.
+Kullanıcı: 35 × 36 kaç eder?
+AI: 35 × 36 = 1260.
+Kullanıcı: 83 - 34 kaç eder?
+AI: 83 - 34 = 49.
+Kullanıcı: 98 + 53 kaç eder?
+AI: 98 + 53 = 151.
+Kullanıcı: 19 - 7 kaç eder?
+AI: 19 - 7 = 12.
+Kullanıcı: 14 × 78 kaç eder?
+AI: 14 × 78 = 1092.
+Kullanıcı: 85 - 3 kaç eder?
+AI: 85 - 3 = 82.
+Kullanıcı: Sabır ne demektir?
+AI: Sabır, zorluk veya bekleme karşısında sakinliğini koruyabilmektir.
+Kullanıcı: Üzgün için basit bir cümle kur.
+AI: “Üzgün” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 0 + 22 kaç eder?
+AI: 0 + 22 = 22.
+Kullanıcı: Bana dostluk hakkında kısa bilgi ver.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 87 - 11 kaç eder?
+AI: 87 - 11 = 76.
+Kullanıcı: 45 - 39 kaç eder?
+AI: 45 - 39 = 6.
+Kullanıcı: 32 × 19 kaç eder?
+AI: 32 × 19 = 608.
+Kullanıcı: 70 + 38 kaç eder?
+AI: 70 + 38 = 108.
+Kullanıcı: 6 + 32 kaç eder?
+AI: 6 + 32 = 38.
+Kullanıcı: 45 × 99 kaç eder?
+AI: 45 × 99 = 4455.
+Kullanıcı: 15 - 6 kaç eder?
+AI: 15 - 6 = 9.
+Kullanıcı: 14 - 4 kaç eder?
+AI: 14 - 4 = 10.
+Kullanıcı: 9 × 44 kaç eder?
+AI: 9 × 44 = 396.
+Kullanıcı: 32 - 13 kaç eder?
+AI: 32 - 13 = 19.
+Kullanıcı: 12 × 62 kaç eder?
+AI: 12 × 62 = 744.
+Kullanıcı: 104 - 13 kaç eder?
+AI: 104 - 13 = 91.
+Kullanıcı: Bana hedef belirleme hakkında kısa bilgi ver.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 40 × 5 kaç eder?
+AI: 40 × 5 = 200.
+Kullanıcı: 29 × 1 kaç eder?
+AI: 29 × 1 = 29.
+Kullanıcı: 'mutlu' kelimesi ne demektir?
+AI: Sevinç veya memnuniyet duyan.
+Kullanıcı: bulut bilişim konusunu basitçe anlat.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: bulut bilişim hakkında yeni başlayan birine açıklama yap.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 73 - 8 kaç eder?
+AI: 73 - 8 = 65.
+Kullanıcı: 7 + 11 kaç eder?
+AI: 7 + 11 = 18.
+Kullanıcı: 56 + 9 kaç eder?
+AI: 56 + 9 = 65.
+Kullanıcı: 7 + 51 kaç eder?
+AI: 7 + 51 = 58.
+Kullanıcı: 0 + 0 kaç eder?
+AI: 0 + 0 = 0.
+Kullanıcı: 40 + 40 kaç eder?
+AI: 40 + 40 = 80.
+Kullanıcı: 9 × 91 kaç eder?
+AI: 9 × 91 = 819.
+Kullanıcı: 37 × 38 kaç eder?
+AI: 37 × 38 = 1406.
+Kullanıcı: 29 × 87 kaç eder?
+AI: 29 × 87 = 2523.
+Kullanıcı: 75 + 41 kaç eder?
+AI: 75 + 41 = 116.
+Kullanıcı: 23 + 70 kaç eder?
+AI: 23 + 70 = 93.
+Kullanıcı: Yardım için basit bir cümle kur.
+AI: “Yardım” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 22 - 20 kaç eder?
+AI: 22 - 20 = 2.
+Kullanıcı: 14 + 91 kaç eder?
+AI: 14 + 91 = 105.
+Kullanıcı: 37 × 2 kaç eder?
+AI: 37 × 2 = 74.
+Kullanıcı: 28 × 9 kaç eder?
+AI: 28 × 9 = 252.
+Kullanıcı: 88 + 99 kaç eder?
+AI: 88 + 99 = 187.
+Kullanıcı: 10 × 97 kaç eder?
+AI: 10 × 97 = 970.
+Kullanıcı: 76 + 16 kaç eder?
+AI: 76 + 16 = 92.
+Kullanıcı: 37 × 98 kaç eder?
+AI: 37 × 98 = 3626.
+Kullanıcı: 19 + 89 kaç eder?
+AI: 19 + 89 = 108.
+Kullanıcı: 48 × 70 kaç eder?
+AI: 48 × 70 = 3360.
+Kullanıcı: 68 + 36 kaç eder?
+AI: 68 + 36 = 104.
+Kullanıcı: 60 - 47 kaç eder?
+AI: 60 - 47 = 13.
+Kullanıcı: Fiil nedir?
+AI: Fiil, iş, oluş veya hareket bildiren sözcüktür.
+Kullanıcı: bulut bilişim hakkında yeni başlayan birine açıklama yap.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 45 × 33 kaç eder?
+AI: 45 × 33 = 1485.
+Kullanıcı: 30 × 61 kaç eder?
+AI: 30 × 61 = 1830.
+Kullanıcı: 43 × 59 kaç eder?
+AI: 43 × 59 = 2537.
+Kullanıcı: 96 + 68 kaç eder?
+AI: 96 + 68 = 164.
+Kullanıcı: 19 × 22 kaç eder?
+AI: 19 × 22 = 418.
+Kullanıcı: 57 - 50 kaç eder?
+AI: 57 - 50 = 7.
+Kullanıcı: 66 - 17 kaç eder?
+AI: 66 - 17 = 49.
+Kullanıcı: 26 × 71 kaç eder?
+AI: 26 × 71 = 1846.
+Kullanıcı: 127 - 40 kaç eder?
+AI: 127 - 40 = 87.
+Kullanıcı: 82 + 81 kaç eder?
+AI: 82 + 81 = 163.
+Kullanıcı: sağlıklı uyku konusunu basitçe anlat.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: robotik hakkında yeni başlayan birine açıklama yap.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 63 + 96 kaç eder?
+AI: 63 + 96 = 159.
+Kullanıcı: 64 + 39 kaç eder?
+AI: 64 + 39 = 103.
+Kullanıcı: 44 - 11 kaç eder?
+AI: 44 - 11 = 33.
+Kullanıcı: 83 + 95 kaç eder?
+AI: 83 + 95 = 178.
+Kullanıcı: 96 + 60 kaç eder?
+AI: 96 + 60 = 156.
+Kullanıcı: 23 × 18 kaç eder?
+AI: 23 × 18 = 414.
+Kullanıcı: Bana internet güvenliği hakkında kısa bilgi ver.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 43 × 38 kaç eder?
+AI: 43 × 38 = 1634.
+Kullanıcı: 49 - 3 kaç eder?
+AI: 49 - 3 = 46.
+Kullanıcı: 68 + 6 kaç eder?
+AI: 68 + 6 = 74.
+Kullanıcı: Elektrik nedir?
+AI: Elektrik, yüklerin hareketi veya birikimiyle ilişkili fiziksel bir olgudur.
+Kullanıcı: Çözüm için basit bir cümle kur.
+AI: “Çözüm” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 39 × 50 kaç eder?
+AI: 39 × 50 = 1950.
+Kullanıcı: makine öğrenmesi konusunu anlamama yardım et.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 120 - 38 kaç eder?
+AI: 120 - 38 = 82.
+Kullanıcı: 32 × 86 kaç eder?
+AI: 32 × 86 = 2752.
+Kullanıcı: 63 + 31 kaç eder?
+AI: 63 + 31 = 94.
+Kullanıcı: Hata yapmak kötü müdür?
+AI: Hatalar öğrenme fırsatı olabilir; önemli olan hatayı anlamak ve düzeltmeye çalışmaktır.
+Kullanıcı: 28 + 9 kaç eder?
+AI: 28 + 9 = 37.
+Kullanıcı: 43 × 57 kaç eder?
+AI: 43 × 57 = 2451.
+Kullanıcı: 25 + 47 kaç eder?
+AI: 25 + 47 = 72.
+Kullanıcı: 13 × 75 kaç eder?
+AI: 13 × 75 = 975.
+Kullanıcı: 38 × 2 kaç eder?
+AI: 38 × 2 = 76.
+Kullanıcı: 43 × 56 kaç eder?
+AI: 43 × 56 = 2408.
+Kullanıcı: 17 × 67 kaç eder?
+AI: 17 × 67 = 1139.
+Kullanıcı: 42 - 15 kaç eder?
+AI: 42 - 15 = 27.
+Kullanıcı: 92 + 8 kaç eder?
+AI: 92 + 8 = 100.
+Kullanıcı: 45 × 56 kaç eder?
+AI: 45 × 56 = 2520.
+Kullanıcı: 79 + 10 kaç eder?
+AI: 79 + 10 = 89.
+Kullanıcı: 127 - 32 kaç eder?
+AI: 127 - 32 = 95.
+Kullanıcı: 63 + 40 kaç eder?
+AI: 63 + 40 = 103.
+Kullanıcı: zaman yönetimi konusunu basitçe anlat.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: Alışkanlık için basit bir cümle kur.
+AI: “Alışkanlık” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: Alışkanlık için basit bir cümle kur.
+AI: “Alışkanlık” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 30 + 7 kaç eder?
+AI: 30 + 7 = 37.
+Kullanıcı: 82 + 35 kaç eder?
+AI: 82 + 35 = 117.
+Kullanıcı: 'nazik' kelimesi ne demektir?
+AI: Kibar ve düşünceli davranan.
+Kullanıcı: 57 + 36 kaç eder?
+AI: 57 + 36 = 93.
+Kullanıcı: 2 + 18 kaç eder?
+AI: 2 + 18 = 20.
+Kullanıcı: 24 + 22 kaç eder?
+AI: 24 + 22 = 46.
+Kullanıcı: Sorumluluk için basit bir cümle kur.
+AI: “Sorumluluk” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 41 - 34 kaç eder?
+AI: 41 - 34 = 7.
+Kullanıcı: Gökkuşağı nasıl oluşur?
+AI: Güneş ışığı su damlacıklarında kırılıp yansıyarak renklerine ayrıldığında gökkuşağı oluşabilir.
+Kullanıcı: 65 + 21 kaç eder?
+AI: 65 + 21 = 86.
+Kullanıcı: 58 + 53 kaç eder?
+AI: 58 + 53 = 111.
+Kullanıcı: zaman yönetimi konusunu basitçe anlat.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 45 + 23 kaç eder?
+AI: 45 + 23 = 68.
+Kullanıcı: Türkçe hangi dil ailesindedir?
+AI: Türkçe, Türk dilleri ailesindedir.
+Kullanıcı: 16 × 63 kaç eder?
+AI: 16 × 63 = 1008.
+Kullanıcı: 84 + 43 kaç eder?
+AI: 84 + 43 = 127.
+Kullanıcı: 19 × 5 kaç eder?
+AI: 19 × 5 = 95.
+Kullanıcı: 33 - 12 kaç eder?
+AI: 33 - 12 = 21.
+Kullanıcı: 89 + 4 kaç eder?
+AI: 89 + 4 = 93.
+Kullanıcı: 109 - 40 kaç eder?
+AI: 109 - 40 = 69.
+Kullanıcı: 27 + 8 kaç eder?
+AI: 27 + 8 = 35.
+Kullanıcı: Nasılsın?
+AI: İyiyim, teşekkür ederim. Sen nasılsın?
+Kullanıcı: 52 - 8 kaç eder?
+AI: 52 - 8 = 44.
+Kullanıcı: 39 - 15 kaç eder?
+AI: 39 - 15 = 24.
+Kullanıcı: 81 + 33 kaç eder?
+AI: 81 + 33 = 114.
+Kullanıcı: 126 - 41 kaç eder?
+AI: 126 - 41 = 85.
+Kullanıcı: 85 + 26 kaç eder?
+AI: 85 + 26 = 111.
+Kullanıcı: 0 + 8 kaç eder?
+AI: 0 + 8 = 8.
+Kullanıcı: 26 + 31 kaç eder?
+AI: 26 + 31 = 57.
+Kullanıcı: 19 + 33 kaç eder?
+AI: 19 + 33 = 52.
+Kullanıcı: 71 - 26 kaç eder?
+AI: 71 - 26 = 45.
+Kullanıcı: 2 × 5 kaç eder?
+AI: 2 × 5 = 10.
+Kullanıcı: 31 - 19 kaç eder?
+AI: 31 - 19 = 12.
+Kullanıcı: 89 + 65 kaç eder?
+AI: 89 + 65 = 154.
+Kullanıcı: 26 + 8 kaç eder?
+AI: 26 + 8 = 34.
+Kullanıcı: 50 × 6 kaç eder?
+AI: 50 × 6 = 300.
+Kullanıcı: 2 × 95 kaç eder?
+AI: 2 × 95 = 190.
+Kullanıcı: 64 + 85 kaç eder?
+AI: 64 + 85 = 149.
+Kullanıcı: dostluk nedir?
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 20 + 24 kaç eder?
+AI: 20 + 24 = 44.
+Kullanıcı: 40 × 45 kaç eder?
+AI: 40 × 45 = 1800.
+Kullanıcı: 57 + 32 kaç eder?
+AI: 57 + 32 = 89.
+Kullanıcı: 35 + 93 kaç eder?
+AI: 35 + 93 = 128.
+Kullanıcı: 26 - 10 kaç eder?
+AI: 26 - 10 = 16.
+Kullanıcı: 82 - 14 kaç eder?
+AI: 82 - 14 = 68.
+Kullanıcı: 42 + 71 kaç eder?
+AI: 42 + 71 = 113.
+Kullanıcı: 54 - 5 kaç eder?
+AI: 54 - 5 = 49.
+Kullanıcı: 76 - 11 kaç eder?
+AI: 76 - 11 = 65.
+Kullanıcı: 93 + 8 kaç eder?
+AI: 93 + 8 = 101.
+Kullanıcı: 47 × 98 kaç eder?
+AI: 47 × 98 = 4606.
+Kullanıcı: 2 × 35 kaç eder?
+AI: 2 × 35 = 70.
+Kullanıcı: 43 × 9 kaç eder?
+AI: 43 × 9 = 387.
+Kullanıcı: 25 + 42 kaç eder?
+AI: 25 + 42 = 67.
+Kullanıcı: 16 - 1 kaç eder?
+AI: 16 - 1 = 15.
+Kullanıcı: Bana programlama hakkında kısa bilgi ver.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 62 - 22 kaç eder?
+AI: 62 - 22 = 40.
+Kullanıcı: 88 + 90 kaç eder?
+AI: 88 + 90 = 178.
+Kullanıcı: 82 + 57 kaç eder?
+AI: 82 + 57 = 139.
+Kullanıcı: 72 + 34 kaç eder?
+AI: 72 + 34 = 106.
+Kullanıcı: 80 + 93 kaç eder?
+AI: 80 + 93 = 173.
+Kullanıcı: 87 + 32 kaç eder?
+AI: 87 + 32 = 119.
+Kullanıcı: 90 - 36 kaç eder?
+AI: 90 - 36 = 54.
+Kullanıcı: Senin adın ne?
+AI: Ben bir yapay zekâ asistanıyım. Bana istediğin bir isimle hitap edebilirsin.
+Kullanıcı: 'merak' kelimesi ne demektir?
+AI: Bir şeyi öğrenme veya keşfetme isteği.
+Kullanıcı: 14 × 39 kaç eder?
+AI: 14 × 39 = 546.
 Kullanıcı: Görüşürüz
-AI: Görüşürüz, kendine iyi bak!
+AI: Görüşürüz! Kendine iyi bak.
+Kullanıcı: Bana doğa hakkında kısa bilgi ver.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: problem çözme hakkında yeni başlayan birine açıklama yap.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 94 + 73 kaç eder?
+AI: 94 + 73 = 167.
+Kullanıcı: 83 + 30 kaç eder?
+AI: 83 + 30 = 113.
+Kullanıcı: 6 + 10 kaç eder?
+AI: 6 + 10 = 16.
+Kullanıcı: 1 × 86 kaç eder?
+AI: 1 × 86 = 86.
+Kullanıcı: 27 + 59 kaç eder?
+AI: 27 + 59 = 86.
+Kullanıcı: 9 × 59 kaç eder?
+AI: 9 × 59 = 531.
+Kullanıcı: 35 × 26 kaç eder?
+AI: 35 × 26 = 910.
+Kullanıcı: 71 + 44 kaç eder?
+AI: 71 + 44 = 115.
+Kullanıcı: 66 + 22 kaç eder?
+AI: 66 + 22 = 88.
+Kullanıcı: 50 + 90 kaç eder?
+AI: 50 + 90 = 140.
+Kullanıcı: 61 + 61 kaç eder?
+AI: 61 + 61 = 122.
+Kullanıcı: 1 × 41 kaç eder?
+AI: 1 × 41 = 41.
+Kullanıcı: 44 × 86 kaç eder?
+AI: 44 × 86 = 3784.
+Kullanıcı: Cesur kelimesini açıkla.
+AI: “cesur”: Korkuya rağmen doğru veya gerekli adımı atabilen.
+Kullanıcı: Bitkiler nasıl büyür?
+AI: Bitkiler su, ışık, hava ve uygun besinlerle büyür.
+Kullanıcı: 37 × 71 kaç eder?
+AI: 37 × 71 = 2627.
+Kullanıcı: Sağ ol
+AI: Ne demek, yardımcı olabildiysem sevindim.
+Kullanıcı: takım çalışması konusunu basitçe anlat.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 43 + 90 kaç eder?
+AI: 43 + 90 = 133.
+Kullanıcı: 120 - 41 kaç eder?
+AI: 120 - 41 = 79.
+Kullanıcı: 62 + 70 kaç eder?
+AI: 62 + 70 = 132.
+Kullanıcı: 13 + 21 kaç eder?
+AI: 13 + 21 = 34.
+Kullanıcı: 27 - 26 kaç eder?
+AI: 27 - 26 = 1.
+Kullanıcı: 131 - 36 kaç eder?
+AI: 131 - 36 = 95.
+Kullanıcı: 121 - 44 kaç eder?
+AI: 121 - 44 = 77.
+Kullanıcı: 46 × 65 kaç eder?
+AI: 46 × 65 = 2990.
+Kullanıcı: zaman yönetimi nedir?
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 69 - 30 kaç eder?
+AI: 69 - 30 = 39.
+Kullanıcı: Bana zaman yönetimi hakkında kısa bilgi ver.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 84 + 77 kaç eder?
+AI: 84 + 77 = 161.
+Kullanıcı: 5 + 91 kaç eder?
+AI: 5 + 91 = 96.
+Kullanıcı: 52 + 80 kaç eder?
+AI: 52 + 80 = 132.
+Kullanıcı: 92 + 65 kaç eder?
+AI: 92 + 65 = 157.
+Kullanıcı: 129 - 33 kaç eder?
+AI: 129 - 33 = 96.
+Kullanıcı: 49 - 37 kaç eder?
+AI: 49 - 37 = 12.
+Kullanıcı: 29 × 77 kaç eder?
+AI: 29 × 77 = 2233.
+Kullanıcı: 13 + 26 kaç eder?
+AI: 13 + 26 = 39.
+Kullanıcı: 45 - 18 kaç eder?
+AI: 45 - 18 = 27.
+Kullanıcı: 'hedef' kelimesi ne demektir?
+AI: Ulaşılmak istenen sonuç.
+Kullanıcı: 58 - 24 kaç eder?
+AI: 58 - 24 = 34.
+Kullanıcı: 31 × 32 kaç eder?
+AI: 31 × 32 = 992.
+Kullanıcı: 12 + 8 kaç eder?
+AI: 12 + 8 = 20.
+Kullanıcı: Bana robotik hakkında kısa bilgi ver.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
 Kullanıcı: Günaydın
 AI: Günaydın! Umarım güzel bir gün geçirirsin.
-Kullanıcı: İyi geceler
-AI: İyi geceler, tatlı rüyalar.
-Kullanıcı: Bana bir fikir ver
-AI: Bugün yeni bir şey öğrenmeye ne dersin? Küçük bir proje başlatmak güzel bir fikir olabilir.
-Kullanıcı: Sıkıldım
-AI: O zaman birlikte bir şeyler yapalım. İstersen sana bir bilmece sorayım.
-Kullanıcı: Hangi dili konuşuyorsun
-AI: Türkçe konuşuyorum.
-Kullanıcı: Ücretli misin
-AI: Hayır, tamamen ücretsizim. GitHub ve senin telefonun yeter.
-Kullanıcı: Yanıldın
-AI: Özür dilerim, bazen yanılabiliyorum. Doğrusunu söylersen öğrenmeye çalışırım.
-Kullanıcı: Teşekkür ederim çok güzel
-AI: Ne mutlu bana, beğenmene sevindim.
+Kullanıcı: 11 × 50 kaç eder?
+AI: 11 × 50 = 550.
+Kullanıcı: 123 - 30 kaç eder?
+AI: 123 - 30 = 93.
+Kullanıcı: 3 × 87 kaç eder?
+AI: 3 × 87 = 261.
+Kullanıcı: 54 + 14 kaç eder?
+AI: 54 + 14 = 68.
+Kullanıcı: 21 × 98 kaç eder?
+AI: 21 × 98 = 2058.
+Kullanıcı: 37 + 63 kaç eder?
+AI: 37 + 63 = 100.
+Kullanıcı: 7 + 63 kaç eder?
+AI: 7 + 63 = 70.
+Kullanıcı: 102 - 16 kaç eder?
+AI: 102 - 16 = 86.
+Kullanıcı: 51 + 33 kaç eder?
+AI: 51 + 33 = 84.
+Kullanıcı: Cesur için basit bir cümle kur.
+AI: “Cesur” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 9 + 96 kaç eder?
+AI: 9 + 96 = 105.
+Kullanıcı: Zıt anlamlı kelime nedir?
+AI: Zıt anlamlı kelimeler, anlamları birbirinin karşıtı olan kelimelerdir.
+Kullanıcı: 50 + 10 kaç eder?
+AI: 50 + 10 = 60.
+Kullanıcı: 25 + 71 kaç eder?
+AI: 25 + 71 = 96.
+Kullanıcı: Çözüm kelimesini açıkla.
+AI: “çözüm”: Bir sorunu gideren yol veya sonuç.
+Kullanıcı: 41 + 31 kaç eder?
+AI: 41 + 31 = 72.
+Kullanıcı: 67 + 70 kaç eder?
+AI: 67 + 70 = 137.
+Kullanıcı: 44 - 15 kaç eder?
+AI: 44 - 15 = 29.
+Kullanıcı: 58 + 28 kaç eder?
+AI: 58 + 28 = 86.
+Kullanıcı: 71 - 29 kaç eder?
+AI: 71 - 29 = 42.
+Kullanıcı: 12 + 7 kaç eder?
+AI: 12 + 7 = 19.
+Kullanıcı: 3 + 60 kaç eder?
+AI: 3 + 60 = 63.
+Kullanıcı: 24 + 9 kaç eder?
+AI: 24 + 9 = 33.
+Kullanıcı: Empati nedir?
+AI: Empati, başka bir kişinin duygu ve bakış açısını anlamaya çalışmaktır.
+Kullanıcı: 28 + 84 kaç eder?
+AI: 28 + 84 = 112.
+Kullanıcı: 59 + 79 kaç eder?
+AI: 59 + 79 = 138.
+Kullanıcı: 64 + 46 kaç eder?
+AI: 64 + 46 = 110.
+Kullanıcı: 66 + 43 kaç eder?
+AI: 66 + 43 = 109.
+Kullanıcı: 10 + 12 kaç eder?
+AI: 10 + 12 = 22.
+Kullanıcı: 69 + 70 kaç eder?
+AI: 69 + 70 = 139.
+Kullanıcı: 49 × 28 kaç eder?
+AI: 49 × 28 = 1372.
+Kullanıcı: 101 - 1 kaç eder?
+AI: 101 - 1 = 100.
+Kullanıcı: 36 × 90 kaç eder?
+AI: 36 × 90 = 3240.
+Kullanıcı: Kendini tanıtır mısın?
+AI: Ben soruları yanıtlamak ve çeşitli konularda yardımcı olmak için tasarlanmış bir yapay zekâyım.
+Kullanıcı: 38 × 1 kaç eder?
+AI: 38 × 1 = 38.
+Kullanıcı: 19 - 13 kaç eder?
+AI: 19 - 13 = 6.
+Kullanıcı: 42 × 46 kaç eder?
+AI: 42 × 46 = 1932.
+Kullanıcı: Kediler ne tür hayvanlardır?
+AI: Kediler memeli hayvanlardır.
+Kullanıcı: 133 - 47 kaç eder?
+AI: 133 - 47 = 86.
+Kullanıcı: 7 + 46 kaç eder?
+AI: 7 + 46 = 53.
+Kullanıcı: 35 × 25 kaç eder?
+AI: 35 × 25 = 875.
+Kullanıcı: 18 - 3 kaç eder?
+AI: 18 - 3 = 15.
+Kullanıcı: 87 - 3 kaç eder?
+AI: 87 - 3 = 84.
+Kullanıcı: 14 + 84 kaç eder?
+AI: 14 + 84 = 98.
+Kullanıcı: makine öğrenmesi konusunu anlamama yardım et.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 50 × 75 kaç eder?
+AI: 50 × 75 = 3750.
+Kullanıcı: 26 + 1 kaç eder?
+AI: 26 + 1 = 27.
+Kullanıcı: 28 × 90 kaç eder?
+AI: 28 × 90 = 2520.
+Kullanıcı: 94 + 85 kaç eder?
+AI: 94 + 85 = 179.
+Kullanıcı: 35 × 82 kaç eder?
+AI: 35 × 82 = 2870.
+Kullanıcı: 41 + 61 kaç eder?
+AI: 41 + 61 = 102.
+Kullanıcı: 78 - 15 kaç eder?
+AI: 78 - 15 = 63.
+Kullanıcı: 12 + 68 kaç eder?
+AI: 12 + 68 = 80.
+Kullanıcı: 26 × 44 kaç eder?
+AI: 26 × 44 = 1144.
+Kullanıcı: 72 + 66 kaç eder?
+AI: 72 + 66 = 138.
+Kullanıcı: 92 + 39 kaç eder?
+AI: 92 + 39 = 131.
+Kullanıcı: İsim nedir?
+AI: İsim, varlıkları, kavramları veya duyguları karşılayan sözcük türüdür.
+Kullanıcı: 74 - 1 kaç eder?
+AI: 74 - 1 = 73.
+Kullanıcı: Bir gün kaç saattir?
+AI: Bir gün 24 saattir.
+Kullanıcı: 9 × 29 kaç eder?
+AI: 9 × 29 = 261.
+Kullanıcı: 48 - 45 kaç eder?
+AI: 48 - 45 = 3.
+Kullanıcı: 33 + 66 kaç eder?
+AI: 33 + 66 = 99.
+Kullanıcı: 84 + 41 kaç eder?
+AI: 84 + 41 = 125.
+Kullanıcı: 'iş birliği' kelimesi ne demektir?
+AI: Bir amaca ulaşmak için birlikte çalışma.
+Kullanıcı: geri dönüşüm nedir?
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: bulut bilişim nedir?
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 78 - 9 kaç eder?
+AI: 78 - 9 = 69.
+Kullanıcı: 38 - 32 kaç eder?
+AI: 38 - 32 = 6.
+Kullanıcı: 65 + 54 kaç eder?
+AI: 65 + 54 = 119.
+Kullanıcı: 7 × 87 kaç eder?
+AI: 7 × 87 = 609.
+Kullanıcı: internet güvenliği hakkında yeni başlayan birine açıklama yap.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 16 + 1 kaç eder?
+AI: 16 + 1 = 17.
+Kullanıcı: 75 + 30 kaç eder?
+AI: 75 + 30 = 105.
+Kullanıcı: 66 + 1 kaç eder?
+AI: 66 + 1 = 67.
+Kullanıcı: 35 × 89 kaç eder?
+AI: 35 × 89 = 3115.
+Kullanıcı: 43 × 87 kaç eder?
+AI: 43 × 87 = 3741.
+Kullanıcı: 14 + 65 kaç eder?
+AI: 14 + 65 = 79.
+Kullanıcı: 70 + 98 kaç eder?
+AI: 70 + 98 = 168.
+Kullanıcı: enerji tasarrufu konusunu basitçe anlat.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 106 - 13 kaç eder?
+AI: 106 - 13 = 93.
+Kullanıcı: 47 - 16 kaç eder?
+AI: 47 - 16 = 31.
+Kullanıcı: 82 + 74 kaç eder?
+AI: 82 + 74 = 156.
+Kullanıcı: 70 - 3 kaç eder?
+AI: 70 - 3 = 67.
+Kullanıcı: 81 + 77 kaç eder?
+AI: 81 + 77 = 158.
+Kullanıcı: robotik konusunu anlamama yardım et.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 2 × 8 kaç eder?
+AI: 2 × 8 = 16.
+Kullanıcı: 19 × 72 kaç eder?
+AI: 19 × 72 = 1368.
+Kullanıcı: 8 × 97 kaç eder?
+AI: 8 × 97 = 776.
+Kullanıcı: 55 - 23 kaç eder?
+AI: 55 - 23 = 32.
+Kullanıcı: 123 - 44 kaç eder?
+AI: 123 - 44 = 79.
+Kullanıcı: 93 + 94 kaç eder?
+AI: 93 + 94 = 187.
+Kullanıcı: 41 × 86 kaç eder?
+AI: 41 × 86 = 3526.
+Kullanıcı: 72 + 91 kaç eder?
+AI: 72 + 91 = 163.
+Kullanıcı: 51 + 47 kaç eder?
+AI: 51 + 47 = 98.
+Kullanıcı: 'cesur' kelimesi ne demektir?
+AI: Korkuya rağmen doğru veya gerekli adımı atabilen.
+Kullanıcı: Bana problem çözme hakkında kısa bilgi ver.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 9 + 19 kaç eder?
+AI: 9 + 19 = 28.
+Kullanıcı: 81 - 50 kaç eder?
+AI: 81 - 50 = 31.
+Kullanıcı: 27 × 1 kaç eder?
+AI: 27 × 1 = 27.
+Kullanıcı: 18 × 81 kaç eder?
+AI: 18 × 81 = 1458.
+Kullanıcı: 43 + 87 kaç eder?
+AI: 43 + 87 = 130.
+Kullanıcı: 91 - 22 kaç eder?
+AI: 91 - 22 = 69.
+Kullanıcı: Saat neyi gösterir?
+AI: Saat, zamanı gösterir.
+Kullanıcı: 112 - 35 kaç eder?
+AI: 112 - 35 = 77.
+Kullanıcı: 34 + 99 kaç eder?
+AI: 34 + 99 = 133.
+Kullanıcı: robotik konusunu basitçe anlat.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 40 + 34 kaç eder?
+AI: 40 + 34 = 74.
+Kullanıcı: 55 + 17 kaç eder?
+AI: 55 + 17 = 72.
+Kullanıcı: 15 + 58 kaç eder?
+AI: 15 + 58 = 73.
+Kullanıcı: 88 - 37 kaç eder?
+AI: 88 - 37 = 51.
+Kullanıcı: 2 + 54 kaç eder?
+AI: 2 + 54 = 56.
+Kullanıcı: 55 + 7 kaç eder?
+AI: 55 + 7 = 62.
+Kullanıcı: 14 + 81 kaç eder?
+AI: 14 + 81 = 95.
+Kullanıcı: 15 + 52 kaç eder?
+AI: 15 + 52 = 67.
+Kullanıcı: dostluk hakkında yeni başlayan birine açıklama yap.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 23 × 22 kaç eder?
+AI: 23 × 22 = 506.
+Kullanıcı: 73 - 50 kaç eder?
+AI: 73 - 50 = 23.
+Kullanıcı: 66 + 45 kaç eder?
+AI: 66 + 45 = 111.
+Kullanıcı: 34 + 89 kaç eder?
+AI: 34 + 89 = 123.
+Kullanıcı: 78 + 52 kaç eder?
+AI: 78 + 52 = 130.
+Kullanıcı: enerji tasarrufu konusunu anlamama yardım et.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: zaman yönetimi konusunu basitçe anlat.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 39 × 38 kaç eder?
+AI: 39 × 38 = 1482.
+Kullanıcı: Bana sağlıklı uyku hakkında kısa bilgi ver.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: Alışkanlık kelimesini açıkla.
+AI: “alışkanlık”: Tekrarlanan davranışın zamanla yerleşmesi.
+Kullanıcı: 111 - 42 kaç eder?
+AI: 111 - 42 = 69.
+Kullanıcı: 41 × 40 kaç eder?
+AI: 41 × 40 = 1640.
+Kullanıcı: 97 + 55 kaç eder?
+AI: 97 + 55 = 152.
+Kullanıcı: 13 × 31 kaç eder?
+AI: 13 × 31 = 403.
+Kullanıcı: Üzgün kelimesini açıkla.
+AI: “üzgün”: Keder veya üzüntü hisseden.
+Kullanıcı: 35 - 31 kaç eder?
+AI: 35 - 31 = 4.
+Kullanıcı: 41 - 14 kaç eder?
+AI: 41 - 14 = 27.
+Kullanıcı: Yapay zekâ nedir?
+AI: Yapay zekâ, bilgisayarların öğrenme, dil anlama veya problem çözme gibi görevleri yapmasını sağlayan yöntemler alanıdır.
+Kullanıcı: 21 × 42 kaç eder?
+AI: 21 × 42 = 882.
+Kullanıcı: 13 × 49 kaç eder?
+AI: 13 × 49 = 637.
+Kullanıcı: 17 + 31 kaç eder?
+AI: 17 + 31 = 48.
+Kullanıcı: 85 + 12 kaç eder?
+AI: 85 + 12 = 97.
+Kullanıcı: 85 + 53 kaç eder?
+AI: 85 + 53 = 138.
+Kullanıcı: 8 + 72 kaç eder?
+AI: 8 + 72 = 80.
+Kullanıcı: 61 - 45 kaç eder?
+AI: 61 - 45 = 16.
+Kullanıcı: 48 - 15 kaç eder?
+AI: 48 - 15 = 33.
+Kullanıcı: Doktor ne yapar?
+AI: Doktorlar insanların sağlık sorunlarını değerlendirir ve tedavi konusunda yardımcı olur.
+Kullanıcı: 76 + 18 kaç eder?
+AI: 76 + 18 = 94.
+Kullanıcı: 16 + 80 kaç eder?
+AI: 16 + 80 = 96.
+Kullanıcı: 27 + 98 kaç eder?
+AI: 27 + 98 = 125.
+Kullanıcı: 50 × 35 kaç eder?
+AI: 50 × 35 = 1750.
+Kullanıcı: 79 - 15 kaç eder?
+AI: 79 - 15 = 64.
+Kullanıcı: Bana robotik hakkında kısa bilgi ver.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 49 + 39 kaç eder?
+AI: 49 + 39 = 88.
+Kullanıcı: 60 + 33 kaç eder?
+AI: 60 + 33 = 93.
+Kullanıcı: 75 + 19 kaç eder?
+AI: 75 + 19 = 94.
+Kullanıcı: 19 × 77 kaç eder?
+AI: 19 × 77 = 1463.
+Kullanıcı: 31 + 55 kaç eder?
+AI: 31 + 55 = 86.
+Kullanıcı: 88 + 81 kaç eder?
+AI: 88 + 81 = 169.
+Kullanıcı: 68 + 68 kaç eder?
+AI: 68 + 68 = 136.
+Kullanıcı: 16 × 96 kaç eder?
+AI: 16 × 96 = 1536.
+Kullanıcı: 72 - 6 kaç eder?
+AI: 72 - 6 = 66.
+Kullanıcı: 36 × 30 kaç eder?
+AI: 36 × 30 = 1080.
+Kullanıcı: 5 + 59 kaç eder?
+AI: 5 + 59 = 64.
+Kullanıcı: Merhaba
+AI: Merhaba! Sana nasıl yardımcı olabilirim?
+Kullanıcı: 95 - 20 kaç eder?
+AI: 95 - 20 = 75.
+Kullanıcı: 35 × 5 kaç eder?
+AI: 35 × 5 = 175.
+Kullanıcı: 41 + 53 kaç eder?
+AI: 41 + 53 = 94.
+Kullanıcı: 31 + 69 kaç eder?
+AI: 31 + 69 = 100.
+Kullanıcı: Çevre için basit bir cümle kur.
+AI: “Çevre” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 27 + 15 kaç eder?
+AI: 27 + 15 = 42.
+Kullanıcı: 127 - 42 kaç eder?
+AI: 127 - 42 = 85.
+Kullanıcı: 64 + 36 kaç eder?
+AI: 64 + 36 = 100.
+Kullanıcı: 26 + 64 kaç eder?
+AI: 26 + 64 = 90.
+Kullanıcı: 88 + 19 kaç eder?
+AI: 88 + 19 = 107.
+Kullanıcı: 83 + 61 kaç eder?
+AI: 83 + 61 = 144.
+Kullanıcı: 1 + 79 kaç eder?
+AI: 1 + 79 = 80.
+Kullanıcı: Çözüm için basit bir cümle kur.
+AI: “Çözüm” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 52 + 48 kaç eder?
+AI: 52 + 48 = 100.
+Kullanıcı: 105 - 9 kaç eder?
+AI: 105 - 9 = 96.
+Kullanıcı: Bana eleştirel düşünme hakkında kısa bilgi ver.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 5 + 94 kaç eder?
+AI: 5 + 94 = 99.
+Kullanıcı: 25 - 6 kaç eder?
+AI: 25 - 6 = 19.
+Kullanıcı: 89 - 17 kaç eder?
+AI: 89 - 17 = 72.
+Kullanıcı: 81 + 9 kaç eder?
+AI: 81 + 9 = 90.
+Kullanıcı: 28 + 53 kaç eder?
+AI: 28 + 53 = 81.
+Kullanıcı: 56 + 77 kaç eder?
+AI: 56 + 77 = 133.
+Kullanıcı: 46 × 77 kaç eder?
+AI: 46 × 77 = 3542.
+Kullanıcı: 2 × 98 kaç eder?
+AI: 2 × 98 = 196.
+Kullanıcı: 86 + 14 kaç eder?
+AI: 86 + 14 = 100.
+Kullanıcı: hedef belirleme konusunu anlamama yardım et.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: Bana programlama hakkında kısa bilgi ver.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 91 + 51 kaç eder?
+AI: 91 + 51 = 142.
+Kullanıcı: 51 + 14 kaç eder?
+AI: 51 + 14 = 65.
+Kullanıcı: 39 + 45 kaç eder?
+AI: 39 + 45 = 84.
+Kullanıcı: 81 + 49 kaç eder?
+AI: 81 + 49 = 130.
+Kullanıcı: 50 + 22 kaç eder?
+AI: 50 + 22 = 72.
+Kullanıcı: dostluk hakkında yeni başlayan birine açıklama yap.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 47 × 11 kaç eder?
+AI: 47 × 11 = 517.
+Kullanıcı: 77 - 39 kaç eder?
+AI: 77 - 39 = 38.
+Kullanıcı: 29 × 95 kaç eder?
+AI: 29 × 95 = 2755.
+Kullanıcı: 32 × 94 kaç eder?
+AI: 32 × 94 = 3008.
+Kullanıcı: 19 × 24 kaç eder?
+AI: 19 × 24 = 456.
+Kullanıcı: 29 × 40 kaç eder?
+AI: 29 × 40 = 1160.
+Kullanıcı: 70 + 20 kaç eder?
+AI: 70 + 20 = 90.
+Kullanıcı: 58 + 65 kaç eder?
+AI: 58 + 65 = 123.
+Kullanıcı: 73 - 37 kaç eder?
+AI: 73 - 37 = 36.
+Kullanıcı: Yağmur nasıl oluşur?
+AI: Bulutlardaki su damlacıkları büyüyüp ağırlaştığında yağış olarak yere düşebilir.
+Kullanıcı: 81 + 14 kaç eder?
+AI: 81 + 14 = 95.
+Kullanıcı: 6 + 41 kaç eder?
+AI: 6 + 41 = 47.
+Kullanıcı: 22 - 1 kaç eder?
+AI: 22 - 1 = 21.
+Kullanıcı: 27 + 27 kaç eder?
+AI: 27 + 27 = 54.
+Kullanıcı: 92 - 42 kaç eder?
+AI: 92 - 42 = 50.
+Kullanıcı: 15 + 69 kaç eder?
+AI: 15 + 69 = 84.
+Kullanıcı: 15 × 78 kaç eder?
+AI: 15 × 78 = 1170.
+Kullanıcı: İsim nedir?
+AI: İsim, varlıkları, kavramları veya duyguları karşılayan sözcük türüdür.
+Kullanıcı: Selam
+AI: Selam! Nasılsın?
+Kullanıcı: hedef belirleme hakkında yeni başlayan birine açıklama yap.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 64 + 98 kaç eder?
+AI: 64 + 98 = 162.
+Kullanıcı: sağlıklı uyku nedir?
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 43 - 15 kaç eder?
+AI: 43 - 15 = 28.
+Kullanıcı: 12 + 51 kaç eder?
+AI: 12 + 51 = 63.
+Kullanıcı: 21 + 22 kaç eder?
+AI: 21 + 22 = 43.
+Kullanıcı: 44 - 27 kaç eder?
+AI: 44 - 27 = 17.
+Kullanıcı: 45 - 8 kaç eder?
+AI: 45 - 8 = 37.
+Kullanıcı: Merak için basit bir cümle kur.
+AI: “Merak” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 75 + 42 kaç eder?
+AI: 75 + 42 = 117.
+Kullanıcı: 6 + 7 kaç eder?
+AI: 6 + 7 = 13.
+Kullanıcı: 1 × 24 kaç eder?
+AI: 1 × 24 = 24.
+Kullanıcı: 70 + 91 kaç eder?
+AI: 70 + 91 = 161.
+Kullanıcı: Doktor ne yapar?
+AI: Doktorlar insanların sağlık sorunlarını değerlendirir ve tedavi konusunda yardımcı olur.
+Kullanıcı: 18 × 65 kaç eder?
+AI: 18 × 65 = 1170.
+Kullanıcı: 20 + 10 kaç eder?
+AI: 20 + 10 = 30.
+Kullanıcı: 15 + 25 kaç eder?
+AI: 15 + 25 = 40.
+Kullanıcı: 9 × 96 kaç eder?
+AI: 9 × 96 = 864.
+Kullanıcı: Çevre kelimesini açıkla.
+AI: “çevre”: Canlıların içinde bulunduğu doğal veya toplumsal koşullar.
+Kullanıcı: 137 - 41 kaç eder?
+AI: 137 - 41 = 96.
+Kullanıcı: 44 × 5 kaç eder?
+AI: 44 × 5 = 220.
+Kullanıcı: Bana zaman yönetimi hakkında kısa bilgi ver.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 9 + 84 kaç eder?
+AI: 9 + 84 = 93.
+Kullanıcı: 53 - 23 kaç eder?
+AI: 53 - 23 = 30.
+Kullanıcı: 74 + 11 kaç eder?
+AI: 74 + 11 = 85.
+Kullanıcı: Hoşça kal
+AI: Hoşça kal!
+Kullanıcı: 63 + 74 kaç eder?
+AI: 63 + 74 = 137.
+Kullanıcı: 118 - 49 kaç eder?
+AI: 118 - 49 = 69.
+Kullanıcı: eleştirel düşünme nedir?
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 91 + 78 kaç eder?
+AI: 91 + 78 = 169.
+Kullanıcı: 39 + 3 kaç eder?
+AI: 39 + 3 = 42.
+Kullanıcı: 51 × 29 kaç eder?
+AI: 51 × 29 = 1479.
+Kullanıcı: 39 × 5 kaç eder?
+AI: 39 × 5 = 195.
+Kullanıcı: 90 + 72 kaç eder?
+AI: 90 + 72 = 162.
+Kullanıcı: takım çalışması konusunu anlamama yardım et.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: Merak için basit bir cümle kur.
+AI: “Merak” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: Bana dostluk hakkında kısa bilgi ver.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: Türkçe hangi dil ailesindedir?
+AI: Türkçe, Türk dilleri ailesindedir.
+Kullanıcı: internet güvenliği hakkında yeni başlayan birine açıklama yap.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 98 - 26 kaç eder?
+AI: 98 - 26 = 72.
+Kullanıcı: 68 + 79 kaç eder?
+AI: 68 + 79 = 147.
+Kullanıcı: 48 + 40 kaç eder?
+AI: 48 + 40 = 88.
+Kullanıcı: 24 + 10 kaç eder?
+AI: 24 + 10 = 34.
+Kullanıcı: 48 × 25 kaç eder?
+AI: 48 × 25 = 1200.
+Kullanıcı: 105 - 44 kaç eder?
+AI: 105 - 44 = 61.
+Kullanıcı: İnsanlar neden uyur?
+AI: Uyku, bedenin ve beynin dinlenmesine ve işlevlerini sürdürmesine yardımcı olur.
+Kullanıcı: Daha kısa anlat
+AI: Tabii, daha kısa anlatacağım.
+Kullanıcı: 35 × 70 kaç eder?
+AI: 35 × 70 = 2450.
+Kullanıcı: 37 + 99 kaç eder?
+AI: 37 + 99 = 136.
+Kullanıcı: 79 + 9 kaç eder?
+AI: 79 + 9 = 88.
+Kullanıcı: 8 × 35 kaç eder?
+AI: 8 × 35 = 280.
+Kullanıcı: 38 × 20 kaç eder?
+AI: 38 × 20 = 760.
+Kullanıcı: 39 - 33 kaç eder?
+AI: 39 - 33 = 6.
+Kullanıcı: 'merak' kelimesi ne demektir?
+AI: Bir şeyi öğrenme veya keşfetme isteği.
+Kullanıcı: 42 - 23 kaç eder?
+AI: 42 - 23 = 19.
+Kullanıcı: 24 + 13 kaç eder?
+AI: 24 + 13 = 37.
+Kullanıcı: 113 - 49 kaç eder?
+AI: 113 - 49 = 64.
+Kullanıcı: 47 + 6 kaç eder?
+AI: 47 + 6 = 53.
+Kullanıcı: 32 × 90 kaç eder?
+AI: 32 × 90 = 2880.
+Kullanıcı: 63 + 58 kaç eder?
+AI: 63 + 58 = 121.
+Kullanıcı: enerji tasarrufu nedir?
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: Yapay zekâ nedir?
+AI: Yapay zekâ, bilgisayarların öğrenme, dil anlama veya problem çözme gibi görevleri yapmasını sağlayan yöntemler alanıdır.
+Kullanıcı: 75 - 31 kaç eder?
+AI: 75 - 31 = 44.
+Kullanıcı: Hedef kelimesini açıkla.
+AI: “hedef”: Ulaşılmak istenen sonuç.
+Kullanıcı: 27 - 17 kaç eder?
+AI: 27 - 17 = 10.
+Kullanıcı: 68 + 1 kaç eder?
+AI: 68 + 1 = 69.
+Kullanıcı: 13 × 86 kaç eder?
+AI: 13 × 86 = 1118.
+Kullanıcı: dostluk nedir?
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 87 + 18 kaç eder?
+AI: 87 + 18 = 105.
+Kullanıcı: 47 × 49 kaç eder?
+AI: 47 × 49 = 2303.
+Kullanıcı: Dürüst kelimesini açıkla.
+AI: “dürüst”: Doğruyu söyleyen ve güvenilir davranan.
+Kullanıcı: 0 + 48 kaç eder?
+AI: 0 + 48 = 48.
+Kullanıcı: 68 + 95 kaç eder?
+AI: 68 + 95 = 163.
+Kullanıcı: 69 + 31 kaç eder?
+AI: 69 + 31 = 100.
+Kullanıcı: Mutlu kelimesini açıkla.
+AI: “mutlu”: Sevinç veya memnuniyet duyan.
+Kullanıcı: 50 × 60 kaç eder?
+AI: 50 × 60 = 3000.
+Kullanıcı: programlama nedir?
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: internet güvenliği nedir?
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 2 + 78 kaç eder?
+AI: 2 + 78 = 80.
+Kullanıcı: 0 + 89 kaç eder?
+AI: 0 + 89 = 89.
+Kullanıcı: 23 - 8 kaç eder?
+AI: 23 - 8 = 15.
+Kullanıcı: 76 - 50 kaç eder?
+AI: 76 - 50 = 26.
+Kullanıcı: Zıt anlamlı kelime nedir?
+AI: Zıt anlamlı kelimeler, anlamları birbirinin karşıtı olan kelimelerdir.
+Kullanıcı: 97 - 50 kaç eder?
+AI: 97 - 50 = 47.
+Kullanıcı: 64 + 11 kaç eder?
+AI: 64 + 11 = 75.
+Kullanıcı: 58 - 45 kaç eder?
+AI: 58 - 45 = 13.
+Kullanıcı: 93 + 64 kaç eder?
+AI: 93 + 64 = 157.
+Kullanıcı: 42 × 29 kaç eder?
+AI: 42 × 29 = 1218.
+Kullanıcı: 17 × 33 kaç eder?
+AI: 17 × 33 = 561.
+Kullanıcı: Harita ne işe yarar?
+AI: Harita, yerleri ve konumları göstermeye yardımcı olur.
+Kullanıcı: Sağ ol
+AI: Ne demek, yardımcı olabildiysem sevindim.
+Kullanıcı: 89 + 51 kaç eder?
+AI: 89 + 51 = 140.
+Kullanıcı: 63 - 23 kaç eder?
+AI: 63 - 23 = 40.
+Kullanıcı: 107 - 29 kaç eder?
+AI: 107 - 29 = 78.
+Kullanıcı: 66 - 28 kaç eder?
+AI: 66 - 28 = 38.
+Kullanıcı: 'üzgün' kelimesi ne demektir?
+AI: Keder veya üzüntü hisseden.
+Kullanıcı: 95 + 49 kaç eder?
+AI: 95 + 49 = 144.
+Kullanıcı: 127 - 46 kaç eder?
+AI: 127 - 46 = 81.
+Kullanıcı: 19 × 66 kaç eder?
+AI: 19 × 66 = 1254.
+Kullanıcı: 75 + 82 kaç eder?
+AI: 75 + 82 = 157.
+Kullanıcı: 84 - 1 kaç eder?
+AI: 84 - 1 = 83.
+Kullanıcı: 81 - 12 kaç eder?
+AI: 81 - 12 = 69.
+Kullanıcı: 15 × 56 kaç eder?
+AI: 15 × 56 = 840.
+Kullanıcı: 45 × 95 kaç eder?
+AI: 45 × 95 = 4275.
+Kullanıcı: hedef belirleme hakkında yeni başlayan birine açıklama yap.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 32 - 29 kaç eder?
+AI: 32 - 29 = 3.
+Kullanıcı: 69 + 50 kaç eder?
+AI: 69 + 50 = 119.
+Kullanıcı: 7 × 22 kaç eder?
+AI: 7 × 22 = 154.
+Kullanıcı: 72 - 24 kaç eder?
+AI: 72 - 24 = 48.
+Kullanıcı: 20 × 59 kaç eder?
+AI: 20 × 59 = 1180.
+Kullanıcı: Nasılsın?
+AI: İyiyim, teşekkür ederim. Sen nasılsın?
+Kullanıcı: 42 + 25 kaç eder?
+AI: 42 + 25 = 67.
+Kullanıcı: 94 + 68 kaç eder?
+AI: 94 + 68 = 162.
+Kullanıcı: Kediler ne tür hayvanlardır?
+AI: Kediler memeli hayvanlardır.
+Kullanıcı: 16 - 4 kaç eder?
+AI: 16 - 4 = 12.
+Kullanıcı: 40 × 81 kaç eder?
+AI: 40 × 81 = 3240.
+Kullanıcı: 1 + 59 kaç eder?
+AI: 1 + 59 = 60.
+Kullanıcı: 44 + 48 kaç eder?
+AI: 44 + 48 = 92.
+Kullanıcı: 66 + 82 kaç eder?
+AI: 66 + 82 = 148.
+Kullanıcı: 8 × 85 kaç eder?
+AI: 8 × 85 = 680.
+Kullanıcı: Naber?
+AI: İyiyim, teşekkür ederim. Sen nasılsın?
+Kullanıcı: 90 - 29 kaç eder?
+AI: 90 - 29 = 61.
+Kullanıcı: takım çalışması nedir?
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: Bana enerji tasarrufu hakkında kısa bilgi ver.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 27 - 3 kaç eder?
+AI: 27 - 3 = 24.
+Kullanıcı: 24 + 73 kaç eder?
+AI: 24 + 73 = 97.
+Kullanıcı: 92 + 62 kaç eder?
+AI: 92 + 62 = 154.
+Kullanıcı: Bunu tekrar söyler misin?
+AI: Tabii. Hangi kısmı tekrar etmemi istersin?
+Kullanıcı: Bir yıl kaç aydır?
+AI: Bir yıl 12 aydır.
+Kullanıcı: Merak kelimesini açıkla.
+AI: “merak”: Bir şeyi öğrenme veya keşfetme isteği.
+Kullanıcı: 21 + 86 kaç eder?
+AI: 21 + 86 = 107.
+Kullanıcı: 3 + 80 kaç eder?
+AI: 3 + 80 = 83.
+Kullanıcı: 73 - 23 kaç eder?
+AI: 73 - 23 = 50.
+Kullanıcı: 41 × 57 kaç eder?
+AI: 41 × 57 = 2337.
+Kullanıcı: 20 × 86 kaç eder?
+AI: 20 × 86 = 1720.
+Kullanıcı: 88 + 26 kaç eder?
+AI: 88 + 26 = 114.
+Kullanıcı: 48 - 22 kaç eder?
+AI: 48 - 22 = 26.
+Kullanıcı: 75 + 53 kaç eder?
+AI: 75 + 53 = 128.
+Kullanıcı: 63 - 19 kaç eder?
+AI: 63 - 19 = 44.
+Kullanıcı: 98 - 38 kaç eder?
+AI: 98 - 38 = 60.
+Kullanıcı: problem çözme konusunu anlamama yardım et.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 59 + 82 kaç eder?
+AI: 59 + 82 = 141.
+Kullanıcı: 85 - 13 kaç eder?
+AI: 85 - 13 = 72.
+Kullanıcı: 43 + 17 kaç eder?
+AI: 43 + 17 = 60.
+Kullanıcı: 60 + 52 kaç eder?
+AI: 60 + 52 = 112.
+Kullanıcı: sağlıklı uyku konusunu anlamama yardım et.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 105 - 43 kaç eder?
+AI: 105 - 43 = 62.
+Kullanıcı: 42 × 11 kaç eder?
+AI: 42 × 11 = 462.
+Kullanıcı: 63 - 39 kaç eder?
+AI: 63 - 39 = 24.
+Kullanıcı: 51 - 44 kaç eder?
+AI: 51 - 44 = 7.
+Kullanıcı: 30 × 19 kaç eder?
+AI: 30 × 19 = 570.
+Kullanıcı: 96 + 30 kaç eder?
+AI: 96 + 30 = 126.
+Kullanıcı: 13 + 17 kaç eder?
+AI: 13 + 17 = 30.
+Kullanıcı: 83 + 23 kaç eder?
+AI: 83 + 23 = 106.
+Kullanıcı: 29 + 63 kaç eder?
+AI: 29 + 63 = 92.
+Kullanıcı: 86 - 8 kaç eder?
+AI: 86 - 8 = 78.
+Kullanıcı: 36 + 93 kaç eder?
+AI: 36 + 93 = 129.
+Kullanıcı: 63 + 37 kaç eder?
+AI: 63 + 37 = 100.
+Kullanıcı: 13 × 42 kaç eder?
+AI: 13 × 42 = 546.
+Kullanıcı: 10 + 64 kaç eder?
+AI: 10 + 64 = 74.
+Kullanıcı: 113 - 21 kaç eder?
+AI: 113 - 21 = 92.
+Kullanıcı: 50 + 74 kaç eder?
+AI: 50 + 74 = 124.
+Kullanıcı: 17 × 31 kaç eder?
+AI: 17 × 31 = 527.
+Kullanıcı: 66 + 61 kaç eder?
+AI: 66 + 61 = 127.
+Kullanıcı: 23 + 56 kaç eder?
+AI: 23 + 56 = 79.
+Kullanıcı: robotik konusunu basitçe anlat.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 36 × 74 kaç eder?
+AI: 36 × 74 = 2664.
+Kullanıcı: 34 × 99 kaç eder?
+AI: 34 × 99 = 3366.
+Kullanıcı: 34 × 39 kaç eder?
+AI: 34 × 39 = 1326.
+Kullanıcı: 7 + 90 kaç eder?
+AI: 7 + 90 = 97.
+Kullanıcı: 28 - 23 kaç eder?
+AI: 28 - 23 = 5.
+Kullanıcı: 12 + 83 kaç eder?
+AI: 12 + 83 = 95.
+Kullanıcı: 60 - 6 kaç eder?
+AI: 60 - 6 = 54.
+Kullanıcı: 5 + 41 kaç eder?
+AI: 5 + 41 = 46.
+Kullanıcı: 46 × 73 kaç eder?
+AI: 46 × 73 = 3358.
+Kullanıcı: 64 + 49 kaç eder?
+AI: 64 + 49 = 113.
+Kullanıcı: 39 × 66 kaç eder?
+AI: 39 × 66 = 2574.
+Kullanıcı: 38 - 24 kaç eder?
+AI: 38 - 24 = 14.
+Kullanıcı: 16 × 58 kaç eder?
+AI: 16 × 58 = 928.
+Kullanıcı: 17 + 58 kaç eder?
+AI: 17 + 58 = 75.
+Kullanıcı: 8 × 37 kaç eder?
+AI: 8 × 37 = 296.
+Kullanıcı: 36 + 14 kaç eder?
+AI: 36 + 14 = 50.
+Kullanıcı: 13 × 66 kaç eder?
+AI: 13 × 66 = 858.
+Kullanıcı: 61 - 27 kaç eder?
+AI: 61 - 27 = 34.
+Kullanıcı: 85 - 28 kaç eder?
+AI: 85 - 28 = 57.
+Kullanıcı: sağlıklı uyku nedir?
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 7 × 35 kaç eder?
+AI: 7 × 35 = 245.
+Kullanıcı: Sabır ne demektir?
+AI: Sabır, zorluk veya bekleme karşısında sakinliğini koruyabilmektir.
+Kullanıcı: Balıklar nerede yaşar?
+AI: Balıkların çoğu suda yaşar.
+Kullanıcı: 53 + 87 kaç eder?
+AI: 53 + 87 = 140.
+Kullanıcı: eleştirel düşünme nedir?
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: Öz güven için basit bir cümle kur.
+AI: “Öz güven” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: Ay nedir?
+AI: Ay, Dünya'nın doğal uydusudur.
+Kullanıcı: 86 + 51 kaç eder?
+AI: 86 + 51 = 137.
+Kullanıcı: 22 + 42 kaç eder?
+AI: 22 + 42 = 64.
+Kullanıcı: 76 + 48 kaç eder?
+AI: 76 + 48 = 124.
+Kullanıcı: 38 × 61 kaç eder?
+AI: 38 × 61 = 2318.
+Kullanıcı: 51 × 10 kaç eder?
+AI: 51 × 10 = 510.
+Kullanıcı: 29 × 21 kaç eder?
+AI: 29 × 21 = 609.
+Kullanıcı: 78 - 8 kaç eder?
+AI: 78 - 8 = 70.
+Kullanıcı: 52 + 3 kaç eder?
+AI: 52 + 3 = 55.
+Kullanıcı: 24 × 85 kaç eder?
+AI: 24 × 85 = 2040.
+Kullanıcı: 49 × 60 kaç eder?
+AI: 49 × 60 = 2940.
+Kullanıcı: 82 + 10 kaç eder?
+AI: 82 + 10 = 92.
+Kullanıcı: 29 + 15 kaç eder?
+AI: 29 + 15 = 44.
+Kullanıcı: 12 × 70 kaç eder?
+AI: 12 × 70 = 840.
+Kullanıcı: 60 + 97 kaç eder?
+AI: 60 + 97 = 157.
+Kullanıcı: 61 + 64 kaç eder?
+AI: 61 + 64 = 125.
+Kullanıcı: 42 - 10 kaç eder?
+AI: 42 - 10 = 32.
+Kullanıcı: 39 + 31 kaç eder?
+AI: 39 + 31 = 70.
+Kullanıcı: 44 × 79 kaç eder?
+AI: 44 × 79 = 3476.
+Kullanıcı: 16 + 64 kaç eder?
+AI: 16 + 64 = 80.
+Kullanıcı: 73 + 51 kaç eder?
+AI: 73 + 51 = 124.
+Kullanıcı: dostluk konusunu basitçe anlat.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 91 + 14 kaç eder?
+AI: 91 + 14 = 105.
+Kullanıcı: 51 + 94 kaç eder?
+AI: 51 + 94 = 145.
+Kullanıcı: 49 × 9 kaç eder?
+AI: 49 × 9 = 441.
+Kullanıcı: 3 + 21 kaç eder?
+AI: 3 + 21 = 24.
+Kullanıcı: 31 + 45 kaç eder?
+AI: 31 + 45 = 76.
+Kullanıcı: 56 + 67 kaç eder?
+AI: 56 + 67 = 123.
+Kullanıcı: Türkiye'nin başkenti neresidir?
+AI: Türkiye'nin başkenti Ankara'dır.
+Kullanıcı: 75 + 0 kaç eder?
+AI: 75 + 0 = 75.
+Kullanıcı: 2 + 90 kaç eder?
+AI: 2 + 90 = 92.
+Kullanıcı: 134 - 45 kaç eder?
+AI: 134 - 45 = 89.
+Kullanıcı: 91 - 31 kaç eder?
+AI: 91 - 31 = 60.
+Kullanıcı: 74 - 11 kaç eder?
+AI: 74 - 11 = 63.
+Kullanıcı: 69 + 21 kaç eder?
+AI: 69 + 21 = 90.
+Kullanıcı: 78 + 53 kaç eder?
+AI: 78 + 53 = 131.
+Kullanıcı: 68 - 33 kaç eder?
+AI: 68 - 33 = 35.
+Kullanıcı: 19 + 73 kaç eder?
+AI: 19 + 73 = 92.
+Kullanıcı: 8 + 85 kaç eder?
+AI: 8 + 85 = 93.
+Kullanıcı: 11 + 98 kaç eder?
+AI: 11 + 98 = 109.
+Kullanıcı: 9 + 79 kaç eder?
+AI: 9 + 79 = 88.
+Kullanıcı: 32 × 30 kaç eder?
+AI: 32 × 30 = 960.
+Kullanıcı: bulut bilişim nedir?
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 20 × 17 kaç eder?
+AI: 20 × 17 = 340.
+Kullanıcı: Dünya hangi şekildedir?
+AI: Dünya yaklaşık küre şeklindedir; kutuplardan biraz basıktır.
+Kullanıcı: 58 + 12 kaç eder?
+AI: 58 + 12 = 70.
+Kullanıcı: 51 + 66 kaç eder?
+AI: 51 + 66 = 117.
+Kullanıcı: 50 + 86 kaç eder?
+AI: 50 + 86 = 136.
+Kullanıcı: 95 - 34 kaç eder?
+AI: 95 - 34 = 61.
+Kullanıcı: eleştirel düşünme konusunu basitçe anlat.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 110 - 49 kaç eder?
+AI: 110 - 49 = 61.
+Kullanıcı: hedef belirleme konusunu anlamama yardım et.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 57 + 6 kaç eder?
+AI: 57 + 6 = 63.
+Kullanıcı: doğa nedir?
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 22 × 47 kaç eder?
+AI: 22 × 47 = 1034.
+Kullanıcı: 25 + 67 kaç eder?
+AI: 25 + 67 = 92.
+Kullanıcı: 4 + 11 kaç eder?
+AI: 4 + 11 = 15.
+Kullanıcı: Cesur için basit bir cümle kur.
+AI: “Cesur” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 57 + 65 kaç eder?
+AI: 57 + 65 = 122.
+Kullanıcı: 85 - 16 kaç eder?
+AI: 85 - 16 = 69.
+Kullanıcı: Kitap ne için kullanılır?
+AI: Kitaplar bilgi edinmek, öğrenmek veya hikâye okumak için kullanılır.
+Kullanıcı: 36 × 68 kaç eder?
+AI: 36 × 68 = 2448.
+Kullanıcı: 92 - 8 kaç eder?
+AI: 92 - 8 = 84.
+Kullanıcı: 31 + 67 kaç eder?
+AI: 31 + 67 = 98.
+Kullanıcı: 'nazik' kelimesi ne demektir?
+AI: Kibar ve düşünceli davranan.
+Kullanıcı: 99 - 2 kaç eder?
+AI: 99 - 2 = 97.
+Kullanıcı: 15 × 54 kaç eder?
+AI: 15 × 54 = 810.
+Kullanıcı: 42 + 57 kaç eder?
+AI: 42 + 57 = 99.
+Kullanıcı: 37 - 22 kaç eder?
+AI: 37 - 22 = 15.
+Kullanıcı: 78 - 17 kaç eder?
+AI: 78 - 17 = 61.
+Kullanıcı: zaman yönetimi hakkında yeni başlayan birine açıklama yap.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 0 + 95 kaç eder?
+AI: 0 + 95 = 95.
+Kullanıcı: 92 + 48 kaç eder?
+AI: 92 + 48 = 140.
+Kullanıcı: 40 × 67 kaç eder?
+AI: 40 × 67 = 2680.
+Kullanıcı: enerji tasarrufu konusunu basitçe anlat.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 27 × 56 kaç eder?
+AI: 27 × 56 = 1512.
+Kullanıcı: 17 + 6 kaç eder?
+AI: 17 + 6 = 23.
+Kullanıcı: Çevre için basit bir cümle kur.
+AI: “Çevre” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: Bana problem çözme hakkında kısa bilgi ver.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 93 - 49 kaç eder?
+AI: 93 - 49 = 44.
+Kullanıcı: 45 × 89 kaç eder?
+AI: 45 × 89 = 4005.
+Kullanıcı: 70 + 7 kaç eder?
+AI: 70 + 7 = 77.
+Kullanıcı: 89 - 35 kaç eder?
+AI: 89 - 35 = 54.
+Kullanıcı: 23 × 77 kaç eder?
+AI: 23 × 77 = 1771.
+Kullanıcı: 55 + 76 kaç eder?
+AI: 55 + 76 = 131.
+Kullanıcı: 56 + 46 kaç eder?
+AI: 56 + 46 = 102.
+Kullanıcı: 34 - 17 kaç eder?
+AI: 34 - 17 = 17.
+Kullanıcı: Sağ ol
+AI: Ne demek, yardımcı olabildiysem sevindim.
+Kullanıcı: 15 + 22 kaç eder?
+AI: 15 + 22 = 37.
+Kullanıcı: 25 - 19 kaç eder?
+AI: 25 - 19 = 6.
+Kullanıcı: 47 + 59 kaç eder?
+AI: 47 + 59 = 106.
+Kullanıcı: doğa nedir?
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 20 × 95 kaç eder?
+AI: 20 × 95 = 1900.
+Kullanıcı: 'iletişim' kelimesi ne demektir?
+AI: Bilgi, düşünce veya duyguların paylaşılması.
+Kullanıcı: 9 + 42 kaç eder?
+AI: 9 + 42 = 51.
+Kullanıcı: eleştirel düşünme hakkında yeni başlayan birine açıklama yap.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 50 + 76 kaç eder?
+AI: 50 + 76 = 126.
+Kullanıcı: 135 - 41 kaç eder?
+AI: 135 - 41 = 94.
+Kullanıcı: 62 + 90 kaç eder?
+AI: 62 + 90 = 152.
+Kullanıcı: 105 - 42 kaç eder?
+AI: 105 - 42 = 63.
+Kullanıcı: 118 - 26 kaç eder?
+AI: 118 - 26 = 92.
+Kullanıcı: 90 - 47 kaç eder?
+AI: 90 - 47 = 43.
+Kullanıcı: 43 + 75 kaç eder?
+AI: 43 + 75 = 118.
+Kullanıcı: 60 + 19 kaç eder?
+AI: 60 + 19 = 79.
+Kullanıcı: 43 + 13 kaç eder?
+AI: 43 + 13 = 56.
+Kullanıcı: 64 - 18 kaç eder?
+AI: 64 - 18 = 46.
+Kullanıcı: 108 - 32 kaç eder?
+AI: 108 - 32 = 76.
+Kullanıcı: internet güvenliği konusunu anlamama yardım et.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 24 - 2 kaç eder?
+AI: 24 - 2 = 22.
+Kullanıcı: 65 + 15 kaç eder?
+AI: 65 + 15 = 80.
+Kullanıcı: 87 + 26 kaç eder?
+AI: 87 + 26 = 113.
+Kullanıcı: 99 - 21 kaç eder?
+AI: 99 - 21 = 78.
+Kullanıcı: 112 - 45 kaç eder?
+AI: 112 - 45 = 67.
+Kullanıcı: 29 × 64 kaç eder?
+AI: 29 × 64 = 1856.
+Kullanıcı: 16 × 82 kaç eder?
+AI: 16 × 82 = 1312.
+Kullanıcı: 35 + 10 kaç eder?
+AI: 35 + 10 = 45.
+Kullanıcı: 39 × 93 kaç eder?
+AI: 39 × 93 = 3627.
+Kullanıcı: 20 × 56 kaç eder?
+AI: 20 × 56 = 1120.
+Kullanıcı: 1 × 25 kaç eder?
+AI: 1 × 25 = 25.
+Kullanıcı: 43 × 77 kaç eder?
+AI: 43 × 77 = 3311.
+Kullanıcı: 4 + 30 kaç eder?
+AI: 4 + 30 = 34.
+Kullanıcı: 49 - 6 kaç eder?
+AI: 49 - 6 = 43.
+Kullanıcı: 34 + 3 kaç eder?
+AI: 34 + 3 = 37.
+Kullanıcı: 57 + 13 kaç eder?
+AI: 57 + 13 = 70.
+Kullanıcı: 138 - 50 kaç eder?
+AI: 138 - 50 = 88.
+Kullanıcı: Iletişim için basit bir cümle kur.
+AI: “Iletişim” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 93 - 27 kaç eder?
+AI: 93 - 27 = 66.
+Kullanıcı: 7 - 3 kaç eder?
+AI: 7 - 3 = 4.
+Kullanıcı: 93 + 6 kaç eder?
+AI: 93 + 6 = 99.
+Kullanıcı: 127 - 37 kaç eder?
+AI: 127 - 37 = 90.
+Kullanıcı: 8 × 33 kaç eder?
+AI: 8 × 33 = 264.
+Kullanıcı: 101 - 32 kaç eder?
+AI: 101 - 32 = 69.
+Kullanıcı: 61 - 15 kaç eder?
+AI: 61 - 15 = 46.
+Kullanıcı: 32 × 98 kaç eder?
+AI: 32 × 98 = 3136.
+Kullanıcı: 52 - 50 kaç eder?
+AI: 52 - 50 = 2.
+Kullanıcı: 'çevre' kelimesi ne demektir?
+AI: Canlıların içinde bulunduğu doğal veya toplumsal koşullar.
+Kullanıcı: makine öğrenmesi konusunu basitçe anlat.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 119 - 23 kaç eder?
+AI: 119 - 23 = 96.
+Kullanıcı: programlama konusunu anlamama yardım et.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 84 + 63 kaç eder?
+AI: 84 + 63 = 147.
+Kullanıcı: 2 × 50 kaç eder?
+AI: 2 × 50 = 100.
+Kullanıcı: Bana sağlıklı uyku hakkında kısa bilgi ver.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 46 × 35 kaç eder?
+AI: 46 × 35 = 1610.
+Kullanıcı: 9 + 71 kaç eder?
+AI: 9 + 71 = 80.
+Kullanıcı: Merhaba
+AI: Merhaba! Sana nasıl yardımcı olabilirim?
+Kullanıcı: Mutlu kelimesini açıkla.
+AI: “mutlu”: Sevinç veya memnuniyet duyan.
+Kullanıcı: 81 + 79 kaç eder?
+AI: 81 + 79 = 160.
+Kullanıcı: 10 × 20 kaç eder?
+AI: 10 × 20 = 200.
+Kullanıcı: 14 × 60 kaç eder?
+AI: 14 × 60 = 840.
+Kullanıcı: 33 + 82 kaç eder?
+AI: 33 + 82 = 115.
+Kullanıcı: 105 - 48 kaç eder?
+AI: 105 - 48 = 57.
+Kullanıcı: Güneş nedir?
+AI: Güneş, Dünya'ya ışık ve ısı sağlayan bir yıldızdır.
+Kullanıcı: 92 - 50 kaç eder?
+AI: 92 - 50 = 42.
+Kullanıcı: 90 + 28 kaç eder?
+AI: 90 + 28 = 118.
+Kullanıcı: 92 - 20 kaç eder?
+AI: 92 - 20 = 72.
+Kullanıcı: 30 + 57 kaç eder?
+AI: 30 + 57 = 87.
+Kullanıcı: 17 + 47 kaç eder?
+AI: 17 + 47 = 64.
+Kullanıcı: 27 × 75 kaç eder?
+AI: 27 × 75 = 2025.
+Kullanıcı: zaman yönetimi nedir?
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 49 + 9 kaç eder?
+AI: 49 + 9 = 58.
+Kullanıcı: 98 - 46 kaç eder?
+AI: 98 - 46 = 52.
+Kullanıcı: Sorumluluk için basit bir cümle kur.
+AI: “Sorumluluk” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 28 × 6 kaç eder?
+AI: 28 × 6 = 168.
+Kullanıcı: 71 + 68 kaç eder?
+AI: 71 + 68 = 139.
+Kullanıcı: 40 + 17 kaç eder?
+AI: 40 + 17 = 57.
+Kullanıcı: 17 + 74 kaç eder?
+AI: 17 + 74 = 91.
+Kullanıcı: 30 + 65 kaç eder?
+AI: 30 + 65 = 95.
+Kullanıcı: Saat neyi gösterir?
+AI: Saat, zamanı gösterir.
+Kullanıcı: 32 + 13 kaç eder?
+AI: 32 + 13 = 45.
+Kullanıcı: Senin adın ne?
+AI: Ben bir yapay zekâ asistanıyım. Bana istediğin bir isimle hitap edebilirsin.
+Kullanıcı: 14 + 77 kaç eder?
+AI: 14 + 77 = 91.
+Kullanıcı: 36 × 82 kaç eder?
+AI: 36 × 82 = 2952.
+Kullanıcı: 93 + 42 kaç eder?
+AI: 93 + 42 = 135.
+Kullanıcı: 22 × 37 kaç eder?
+AI: 22 × 37 = 814.
+Kullanıcı: 85 - 7 kaç eder?
+AI: 85 - 7 = 78.
+Kullanıcı: 96 + 14 kaç eder?
+AI: 96 + 14 = 110.
+Kullanıcı: robotik nedir?
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 7 × 33 kaç eder?
+AI: 7 × 33 = 231.
+Kullanıcı: problem çözme nedir?
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 24 + 31 kaç eder?
+AI: 24 + 31 = 55.
+Kullanıcı: 37 + 15 kaç eder?
+AI: 37 + 15 = 52.
+Kullanıcı: 78 + 82 kaç eder?
+AI: 78 + 82 = 160.
+Kullanıcı: 83 - 37 kaç eder?
+AI: 83 - 37 = 46.
+Kullanıcı: 29 + 96 kaç eder?
+AI: 29 + 96 = 125.
+Kullanıcı: 37 + 91 kaç eder?
+AI: 37 + 91 = 128.
+Kullanıcı: dostluk hakkında yeni başlayan birine açıklama yap.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 43 × 80 kaç eder?
+AI: 43 × 80 = 3440.
+Kullanıcı: 2 + 34 kaç eder?
+AI: 2 + 34 = 36.
+Kullanıcı: Naber?
+AI: İyiyim, teşekkür ederim. Sen nasılsın?
+Kullanıcı: 63 + 97 kaç eder?
+AI: 63 + 97 = 160.
+Kullanıcı: 40 + 37 kaç eder?
+AI: 40 + 37 = 77.
+Kullanıcı: 89 + 96 kaç eder?
+AI: 89 + 96 = 185.
+Kullanıcı: 27 + 47 kaç eder?
+AI: 27 + 47 = 74.
+Kullanıcı: 58 + 67 kaç eder?
+AI: 58 + 67 = 125.
+Kullanıcı: Güneş nedir?
+AI: Güneş, Dünya'ya ışık ve ısı sağlayan bir yıldızdır.
+Kullanıcı: doğa konusunu anlamama yardım et.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 35 + 49 kaç eder?
+AI: 35 + 49 = 84.
+Kullanıcı: programlama hakkında yeni başlayan birine açıklama yap.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 11 × 83 kaç eder?
+AI: 11 × 83 = 913.
+Kullanıcı: 10 × 28 kaç eder?
+AI: 10 × 28 = 280.
+Kullanıcı: 16 + 81 kaç eder?
+AI: 16 + 81 = 97.
+Kullanıcı: 42 × 84 kaç eder?
+AI: 42 × 84 = 3528.
+Kullanıcı: 56 + 72 kaç eder?
+AI: 56 + 72 = 128.
+Kullanıcı: 10 + 53 kaç eder?
+AI: 10 + 53 = 63.
+Kullanıcı: 82 + 76 kaç eder?
+AI: 82 + 76 = 158.
+Kullanıcı: Doktor ne yapar?
+AI: Doktorlar insanların sağlık sorunlarını değerlendirir ve tedavi konusunda yardımcı olur.
+Kullanıcı: Bana hedef belirleme hakkında kısa bilgi ver.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 32 + 14 kaç eder?
+AI: 32 + 14 = 46.
+Kullanıcı: Öz güven için basit bir cümle kur.
+AI: “Öz güven” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 81 + 60 kaç eder?
+AI: 81 + 60 = 141.
+Kullanıcı: 47 + 65 kaç eder?
+AI: 47 + 65 = 112.
+Kullanıcı: 66 - 2 kaç eder?
+AI: 66 - 2 = 64.
+Kullanıcı: 57 + 25 kaç eder?
+AI: 57 + 25 = 82.
+Kullanıcı: 17 × 78 kaç eder?
+AI: 17 × 78 = 1326.
+Kullanıcı: 22 + 1 kaç eder?
+AI: 22 + 1 = 23.
+Kullanıcı: 5 + 16 kaç eder?
+AI: 5 + 16 = 21.
+Kullanıcı: Nazik kelimesini açıkla.
+AI: “nazik”: Kibar ve düşünceli davranan.
+Kullanıcı: 32 × 37 kaç eder?
+AI: 32 × 37 = 1184.
+Kullanıcı: 72 + 40 kaç eder?
+AI: 72 + 40 = 112.
+Kullanıcı: 'dürüst' kelimesi ne demektir?
+AI: Doğruyu söyleyen ve güvenilir davranan.
+Kullanıcı: 28 + 21 kaç eder?
+AI: 28 + 21 = 49.
+Kullanıcı: 22 × 59 kaç eder?
+AI: 22 × 59 = 1298.
+Kullanıcı: 21 × 53 kaç eder?
+AI: 21 × 53 = 1113.
+Kullanıcı: 7 × 73 kaç eder?
+AI: 7 × 73 = 511.
+Kullanıcı: 22 + 8 kaç eder?
+AI: 22 + 8 = 30.
+Kullanıcı: 34 - 23 kaç eder?
+AI: 34 - 23 = 11.
+Kullanıcı: Bitkiler nasıl büyür?
+AI: Bitkiler su, ışık, hava ve uygun besinlerle büyür.
+Kullanıcı: 51 + 50 kaç eder?
+AI: 51 + 50 = 101.
+Kullanıcı: 73 + 77 kaç eder?
+AI: 73 + 77 = 150.
+Kullanıcı: 'hedef' kelimesi ne demektir?
+AI: Ulaşılmak istenen sonuç.
+Kullanıcı: 84 + 16 kaç eder?
+AI: 84 + 16 = 100.
+Kullanıcı: 6 × 34 kaç eder?
+AI: 6 × 34 = 204.
+Kullanıcı: 17 × 70 kaç eder?
+AI: 17 × 70 = 1190.
+Kullanıcı: 8 + 50 kaç eder?
+AI: 8 + 50 = 58.
+Kullanıcı: 82 + 27 kaç eder?
+AI: 82 + 27 = 109.
+Kullanıcı: Bana bulut bilişim hakkında kısa bilgi ver.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 37 + 86 kaç eder?
+AI: 37 + 86 = 123.
+Kullanıcı: 68 - 34 kaç eder?
+AI: 68 - 34 = 34.
+Kullanıcı: 48 + 52 kaç eder?
+AI: 48 + 52 = 100.
+Kullanıcı: bulut bilişim konusunu anlamama yardım et.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 50 × 36 kaç eder?
+AI: 50 × 36 = 1800.
+Kullanıcı: 129 - 44 kaç eder?
+AI: 129 - 44 = 85.
+Kullanıcı: enerji tasarrufu hakkında yeni başlayan birine açıklama yap.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 54 + 15 kaç eder?
+AI: 54 + 15 = 69.
+Kullanıcı: 42 + 75 kaç eder?
+AI: 42 + 75 = 117.
+Kullanıcı: 91 + 76 kaç eder?
+AI: 91 + 76 = 167.
+Kullanıcı: 105 - 5 kaç eder?
+AI: 105 - 5 = 100.
+Kullanıcı: 41 - 28 kaç eder?
+AI: 41 - 28 = 13.
+Kullanıcı: 54 - 42 kaç eder?
+AI: 54 - 42 = 12.
+Kullanıcı: 52 + 46 kaç eder?
+AI: 52 + 46 = 98.
+Kullanıcı: 53 - 33 kaç eder?
+AI: 53 - 33 = 20.
+Kullanıcı: 6 + 36 kaç eder?
+AI: 6 + 36 = 42.
+Kullanıcı: 16 + 2 kaç eder?
+AI: 16 + 2 = 18.
+Kullanıcı: 73 + 82 kaç eder?
+AI: 73 + 82 = 155.
+Kullanıcı: 10 + 37 kaç eder?
+AI: 10 + 37 = 47.
+Kullanıcı: 83 - 42 kaç eder?
+AI: 83 - 42 = 41.
+Kullanıcı: 'üzgün' kelimesi ne demektir?
+AI: Keder veya üzüntü hisseden.
+Kullanıcı: 32 + 82 kaç eder?
+AI: 32 + 82 = 114.
+Kullanıcı: 43 + 64 kaç eder?
+AI: 43 + 64 = 107.
+Kullanıcı: 15 × 63 kaç eder?
+AI: 15 × 63 = 945.
+Kullanıcı: 99 - 27 kaç eder?
+AI: 99 - 27 = 72.
+Kullanıcı: 10 × 38 kaç eder?
+AI: 10 × 38 = 380.
+Kullanıcı: 42 + 5 kaç eder?
+AI: 42 + 5 = 47.
+Kullanıcı: problem çözme hakkında yeni başlayan birine açıklama yap.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 90 + 43 kaç eder?
+AI: 90 + 43 = 133.
+Kullanıcı: 49 × 74 kaç eder?
+AI: 49 × 74 = 3626.
+Kullanıcı: Nazik için basit bir cümle kur.
+AI: “Nazik” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 35 + 26 kaç eder?
+AI: 35 + 26 = 61.
+Kullanıcı: 2 + 99 kaç eder?
+AI: 2 + 99 = 101.
+Kullanıcı: 28 × 45 kaç eder?
+AI: 28 × 45 = 1260.
+Kullanıcı: robotik nedir?
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: enerji tasarrufu konusunu anlamama yardım et.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 10 + 71 kaç eder?
+AI: 10 + 71 = 81.
+Kullanıcı: 20 × 42 kaç eder?
+AI: 20 × 42 = 840.
+Kullanıcı: Kütüphane nedir?
+AI: Kütüphane, kitapların ve başka kaynakların bulunduğu, kullanılabildiği yerdir.
+Kullanıcı: Eğitim verisi ne demektir?
+AI: Eğitim verisi, bir modelin örüntüleri öğrenmesi için kullanılan örneklerdir.
+Kullanıcı: 31 × 4 kaç eder?
+AI: 31 × 4 = 124.
+Kullanıcı: 94 - 36 kaç eder?
+AI: 94 - 36 = 58.
+Kullanıcı: 12 + 44 kaç eder?
+AI: 12 + 44 = 56.
+Kullanıcı: Veri nedir?
+AI: Veri, işlenebilen veya incelenebilen bilgi parçalarıdır.
+Kullanıcı: doğa konusunu basitçe anlat.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 3 × 61 kaç eder?
+AI: 3 × 61 = 183.
+Kullanıcı: 91 + 0 kaç eder?
+AI: 91 + 0 = 91.
+Kullanıcı: 7 + 35 kaç eder?
+AI: 7 + 35 = 42.
+Kullanıcı: 64 - 11 kaç eder?
+AI: 64 - 11 = 53.
+Kullanıcı: 24 + 2 kaç eder?
+AI: 24 + 2 = 26.
+Kullanıcı: 8 × 80 kaç eder?
+AI: 8 × 80 = 640.
+Kullanıcı: 61 + 3 kaç eder?
+AI: 61 + 3 = 64.
+Kullanıcı: 116 - 27 kaç eder?
+AI: 116 - 27 = 89.
+Kullanıcı: 125 - 26 kaç eder?
+AI: 125 - 26 = 99.
+Kullanıcı: 16 × 77 kaç eder?
+AI: 16 × 77 = 1232.
+Kullanıcı: 84 - 2 kaç eder?
+AI: 84 - 2 = 82.
+Kullanıcı: 85 + 77 kaç eder?
+AI: 85 + 77 = 162.
+Kullanıcı: 6 × 86 kaç eder?
+AI: 6 × 86 = 516.
+Kullanıcı: 95 + 91 kaç eder?
+AI: 95 + 91 = 186.
+Kullanıcı: 48 + 72 kaç eder?
+AI: 48 + 72 = 120.
+Kullanıcı: 28 × 49 kaç eder?
+AI: 28 × 49 = 1372.
+Kullanıcı: programlama konusunu anlamama yardım et.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 62 + 5 kaç eder?
+AI: 62 + 5 = 67.
+Kullanıcı: 73 + 6 kaç eder?
+AI: 73 + 6 = 79.
+Kullanıcı: 83 - 41 kaç eder?
+AI: 83 - 41 = 42.
+Kullanıcı: 60 + 45 kaç eder?
+AI: 60 + 45 = 105.
+Kullanıcı: 70 + 27 kaç eder?
+AI: 70 + 27 = 97.
+Kullanıcı: 0 + 74 kaç eder?
+AI: 0 + 74 = 74.
+Kullanıcı: 91 - 19 kaç eder?
+AI: 91 - 19 = 72.
+Kullanıcı: 94 + 0 kaç eder?
+AI: 94 + 0 = 94.
+Kullanıcı: 54 + 70 kaç eder?
+AI: 54 + 70 = 124.
+Kullanıcı: 44 × 3 kaç eder?
+AI: 44 × 3 = 132.
+Kullanıcı: Öz güven kelimesini açıkla.
+AI: “öz güven”: Kişinin kendi yeteneklerine ve kararlarına güvenmesi.
+Kullanıcı: 78 - 4 kaç eder?
+AI: 78 - 4 = 74.
+Kullanıcı: 63 + 26 kaç eder?
+AI: 63 + 26 = 89.
+Kullanıcı: İyi akşamlar
+AI: İyi akşamlar! Nasıl yardımcı olayım?
+Kullanıcı: 61 - 40 kaç eder?
+AI: 61 - 40 = 21.
+Kullanıcı: 97 + 86 kaç eder?
+AI: 97 + 86 = 183.
+Kullanıcı: 58 + 32 kaç eder?
+AI: 58 + 32 = 90.
+Kullanıcı: 63 + 73 kaç eder?
+AI: 63 + 73 = 136.
+Kullanıcı: 7 + 22 kaç eder?
+AI: 7 + 22 = 29.
+Kullanıcı: 93 - 35 kaç eder?
+AI: 93 - 35 = 58.
+Kullanıcı: 15 × 97 kaç eder?
+AI: 15 × 97 = 1455.
+Kullanıcı: Model ne demektir?
+AI: Model, verilerden öğrenerek tahmin veya çıktı üreten sistemdir.
+Kullanıcı: 10 × 74 kaç eder?
+AI: 10 × 74 = 740.
+Kullanıcı: 45 × 88 kaç eder?
+AI: 45 × 88 = 3960.
+Kullanıcı: 23 + 61 kaç eder?
+AI: 23 + 61 = 84.
+Kullanıcı: robotik hakkında yeni başlayan birine açıklama yap.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 96 + 40 kaç eder?
+AI: 96 + 40 = 136.
+Kullanıcı: 60 + 26 kaç eder?
+AI: 60 + 26 = 86.
+Kullanıcı: enerji tasarrufu konusunu basitçe anlat.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: Bana robotik hakkında kısa bilgi ver.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 93 + 18 kaç eder?
+AI: 93 + 18 = 111.
+Kullanıcı: 38 + 46 kaç eder?
+AI: 38 + 46 = 84.
+Kullanıcı: 'çözüm' kelimesi ne demektir?
+AI: Bir sorunu gideren yol veya sonuç.
+Kullanıcı: 82 - 21 kaç eder?
+AI: 82 - 21 = 61.
+Kullanıcı: 37 × 54 kaç eder?
+AI: 37 × 54 = 1998.
+Kullanıcı: Bir örnek verir misin?
+AI: Elbette. Konuyu somutlaştıran bir örnek verebilirim.
+Kullanıcı: 9 × 99 kaç eder?
+AI: 9 × 99 = 891.
+Kullanıcı: 37 × 95 kaç eder?
+AI: 37 × 95 = 3515.
+Kullanıcı: hedef belirleme nedir?
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 17 × 7 kaç eder?
+AI: 17 × 7 = 119.
+Kullanıcı: 70 + 73 kaç eder?
+AI: 70 + 73 = 143.
+Kullanıcı: 19 + 56 kaç eder?
+AI: 19 + 56 = 75.
+Kullanıcı: 4 + 23 kaç eder?
+AI: 4 + 23 = 27.
+Kullanıcı: 26 + 49 kaç eder?
+AI: 26 + 49 = 75.
+Kullanıcı: 12 × 37 kaç eder?
+AI: 12 × 37 = 444.
+Kullanıcı: 4 + 17 kaç eder?
+AI: 4 + 17 = 21.
+Kullanıcı: 9 × 88 kaç eder?
+AI: 9 × 88 = 792.
+Kullanıcı: Alışkanlık kelimesini açıkla.
+AI: “alışkanlık”: Tekrarlanan davranışın zamanla yerleşmesi.
+Kullanıcı: 39 + 74 kaç eder?
+AI: 39 + 74 = 113.
+Kullanıcı: 122 - 50 kaç eder?
+AI: 122 - 50 = 72.
+Kullanıcı: 48 × 3 kaç eder?
+AI: 48 × 3 = 144.
+Kullanıcı: 64 + 18 kaç eder?
+AI: 64 + 18 = 82.
+Kullanıcı: 41 + 29 kaç eder?
+AI: 41 + 29 = 70.
+Kullanıcı: 100 - 15 kaç eder?
+AI: 100 - 15 = 85.
+Kullanıcı: 61 - 13 kaç eder?
+AI: 61 - 13 = 48.
+Kullanıcı: 32 + 29 kaç eder?
+AI: 32 + 29 = 61.
+Kullanıcı: 31 × 95 kaç eder?
+AI: 31 × 95 = 2945.
+Kullanıcı: 20 × 84 kaç eder?
+AI: 20 × 84 = 1680.
+Kullanıcı: 23 × 81 kaç eder?
+AI: 23 × 81 = 1863.
+Kullanıcı: 93 - 47 kaç eder?
+AI: 93 - 47 = 46.
+Kullanıcı: 49 + 98 kaç eder?
+AI: 49 + 98 = 147.
+Kullanıcı: hedef belirleme nedir?
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 20 + 60 kaç eder?
+AI: 20 + 60 = 80.
+Kullanıcı: 36 × 81 kaç eder?
+AI: 36 × 81 = 2916.
+Kullanıcı: 43 × 85 kaç eder?
+AI: 43 × 85 = 3655.
+Kullanıcı: 66 - 9 kaç eder?
+AI: 66 - 9 = 57.
+Kullanıcı: 11 + 39 kaç eder?
+AI: 11 + 39 = 50.
+Kullanıcı: eleştirel düşünme konusunu anlamama yardım et.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 36 + 45 kaç eder?
+AI: 36 + 45 = 81.
+Kullanıcı: 48 + 66 kaç eder?
+AI: 48 + 66 = 114.
+Kullanıcı: Yapay zekâ nedir?
+AI: Yapay zekâ, bilgisayarların öğrenme, dil anlama veya problem çözme gibi görevleri yapmasını sağlayan yöntemler alanıdır.
+Kullanıcı: 54 + 84 kaç eder?
+AI: 54 + 84 = 138.
+Kullanıcı: 15 × 91 kaç eder?
+AI: 15 × 91 = 1365.
+Kullanıcı: takım çalışması hakkında yeni başlayan birine açıklama yap.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 12 × 84 kaç eder?
+AI: 12 × 84 = 1008.
+Kullanıcı: 3 × 25 kaç eder?
+AI: 3 × 25 = 75.
+Kullanıcı: Teşekkür ederim
+AI: Rica ederim!
+Kullanıcı: 35 - 17 kaç eder?
+AI: 35 - 17 = 18.
+Kullanıcı: Bana makine öğrenmesi hakkında kısa bilgi ver.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 38 × 6 kaç eder?
+AI: 38 × 6 = 228.
+Kullanıcı: 34 - 18 kaç eder?
+AI: 34 - 18 = 16.
+Kullanıcı: 30 - 9 kaç eder?
+AI: 30 - 9 = 21.
+Kullanıcı: 35 + 94 kaç eder?
+AI: 35 + 94 = 129.
+Kullanıcı: 19 × 31 kaç eder?
+AI: 19 × 31 = 589.
+Kullanıcı: 'alışkanlık' kelimesi ne demektir?
+AI: Tekrarlanan davranışın zamanla yerleşmesi.
+Kullanıcı: 35 × 63 kaç eder?
+AI: 35 × 63 = 2205.
+Kullanıcı: 47 + 18 kaç eder?
+AI: 47 + 18 = 65.
+Kullanıcı: 31 × 87 kaç eder?
+AI: 31 × 87 = 2697.
+Kullanıcı: 59 - 35 kaç eder?
+AI: 59 - 35 = 24.
+Kullanıcı: 'iletişim' kelimesi ne demektir?
+AI: Bilgi, düşünce veya duyguların paylaşılması.
+Kullanıcı: 39 + 1 kaç eder?
+AI: 39 + 1 = 40.
+Kullanıcı: 77 + 60 kaç eder?
+AI: 77 + 60 = 137.
+Kullanıcı: 10 × 21 kaç eder?
+AI: 10 × 21 = 210.
+Kullanıcı: 33 × 70 kaç eder?
+AI: 33 × 70 = 2310.
+Kullanıcı: programlama konusunu anlamama yardım et.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 45 + 17 kaç eder?
+AI: 45 + 17 = 62.
+Kullanıcı: Kendini tanıtır mısın?
+AI: Ben soruları yanıtlamak ve çeşitli konularda yardımcı olmak için tasarlanmış bir yapay zekâyım.
+Kullanıcı: 125 - 34 kaç eder?
+AI: 125 - 34 = 91.
+Kullanıcı: 64 + 60 kaç eder?
+AI: 64 + 60 = 124.
+Kullanıcı: 'yardım' kelimesi ne demektir?
+AI: Birinin işini kolaylaştırmak için destek olma.
+Kullanıcı: 93 + 34 kaç eder?
+AI: 93 + 34 = 127.
+Kullanıcı: 96 - 33 kaç eder?
+AI: 96 - 33 = 63.
+Kullanıcı: 'öz güven' kelimesi ne demektir?
+AI: Kişinin kendi yeteneklerine ve kararlarına güvenmesi.
+Kullanıcı: makine öğrenmesi konusunu basitçe anlat.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 94 + 38 kaç eder?
+AI: 94 + 38 = 132.
+Kullanıcı: 48 × 39 kaç eder?
+AI: 48 × 39 = 1872.
+Kullanıcı: 48 × 35 kaç eder?
+AI: 48 × 35 = 1680.
+Kullanıcı: 93 + 77 kaç eder?
+AI: 93 + 77 = 170.
+Kullanıcı: 47 × 32 kaç eder?
+AI: 47 × 32 = 1504.
+Kullanıcı: 95 + 60 kaç eder?
+AI: 95 + 60 = 155.
+Kullanıcı: 6 × 37 kaç eder?
+AI: 6 × 37 = 222.
+Kullanıcı: 17 + 51 kaç eder?
+AI: 17 + 51 = 68.
+Kullanıcı: Bana bulut bilişim hakkında kısa bilgi ver.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: Bana internet güvenliği hakkında kısa bilgi ver.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 72 + 19 kaç eder?
+AI: 72 + 19 = 91.
+Kullanıcı: Öğretmen ne yapar?
+AI: Öğretmenler öğrencilerin öğrenmesine yardımcı olur.
+Kullanıcı: 36 + 50 kaç eder?
+AI: 36 + 50 = 86.
+Kullanıcı: 51 - 45 kaç eder?
+AI: 51 - 45 = 6.
+Kullanıcı: 44 - 29 kaç eder?
+AI: 44 - 29 = 15.
+Kullanıcı: Saat neyi gösterir?
+AI: Saat, zamanı gösterir.
+Kullanıcı: 99 - 30 kaç eder?
+AI: 99 - 30 = 69.
+Kullanıcı: 3 + 37 kaç eder?
+AI: 3 + 37 = 40.
+Kullanıcı: 43 × 26 kaç eder?
+AI: 43 × 26 = 1118.
+Kullanıcı: 132 - 32 kaç eder?
+AI: 132 - 32 = 100.
+Kullanıcı: 107 - 46 kaç eder?
+AI: 107 - 46 = 61.
+Kullanıcı: 51 - 35 kaç eder?
+AI: 51 - 35 = 16.
+Kullanıcı: Görüşürüz
+AI: Görüşürüz! Kendine iyi bak.
+Kullanıcı: makine öğrenmesi konusunu anlamama yardım et.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: Bana enerji tasarrufu hakkında kısa bilgi ver.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 35 + 38 kaç eder?
+AI: 35 + 38 = 73.
+Kullanıcı: eleştirel düşünme konusunu basitçe anlat.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 89 + 27 kaç eder?
+AI: 89 + 27 = 116.
+Kullanıcı: 77 - 28 kaç eder?
+AI: 77 - 28 = 49.
+Kullanıcı: 8 × 12 kaç eder?
+AI: 8 × 12 = 96.
+Kullanıcı: 47 + 60 kaç eder?
+AI: 47 + 60 = 107.
+Kullanıcı: 54 + 16 kaç eder?
+AI: 54 + 16 = 70.
+Kullanıcı: 86 - 11 kaç eder?
+AI: 86 - 11 = 75.
+Kullanıcı: 64 + 15 kaç eder?
+AI: 64 + 15 = 79.
+Kullanıcı: 41 × 97 kaç eder?
+AI: 41 × 97 = 3977.
+Kullanıcı: 3 × 32 kaç eder?
+AI: 3 × 32 = 96.
+Kullanıcı: 57 + 58 kaç eder?
+AI: 57 + 58 = 115.
+Kullanıcı: 95 + 81 kaç eder?
+AI: 95 + 81 = 176.
+Kullanıcı: 2 + 75 kaç eder?
+AI: 2 + 75 = 77.
+Kullanıcı: makine öğrenmesi hakkında yeni başlayan birine açıklama yap.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 60 + 99 kaç eder?
+AI: 60 + 99 = 159.
+Kullanıcı: 'hedef' kelimesi ne demektir?
+AI: Ulaşılmak istenen sonuç.
+Kullanıcı: 143 - 43 kaç eder?
+AI: 143 - 43 = 100.
+Kullanıcı: 27 + 45 kaç eder?
+AI: 27 + 45 = 72.
+Kullanıcı: 51 - 11 kaç eder?
+AI: 51 - 11 = 40.
+Kullanıcı: Bana hedef belirleme hakkında kısa bilgi ver.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 71 + 16 kaç eder?
+AI: 71 + 16 = 87.
+Kullanıcı: Ay nedir?
+AI: Ay, Dünya'nın doğal uydusudur.
+Kullanıcı: 8 × 62 kaç eder?
+AI: 8 × 62 = 496.
+Kullanıcı: Harita ne işe yarar?
+AI: Harita, yerleri ve konumları göstermeye yardımcı olur.
+Kullanıcı: Üzgün kelimesini açıkla.
+AI: “üzgün”: Keder veya üzüntü hisseden.
+Kullanıcı: 54 + 93 kaç eder?
+AI: 54 + 93 = 147.
+Kullanıcı: 74 + 96 kaç eder?
+AI: 74 + 96 = 170.
+Kullanıcı: internet güvenliği konusunu basitçe anlat.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 37 × 76 kaç eder?
+AI: 37 × 76 = 2812.
+Kullanıcı: 4 + 54 kaç eder?
+AI: 4 + 54 = 58.
+Kullanıcı: 48 × 67 kaç eder?
+AI: 48 × 67 = 3216.
+Kullanıcı: 78 + 88 kaç eder?
+AI: 78 + 88 = 166.
+Kullanıcı: 4 × 17 kaç eder?
+AI: 4 × 17 = 68.
+Kullanıcı: Teşekkür ederim
+AI: Rica ederim!
+Kullanıcı: 44 × 56 kaç eder?
+AI: 44 × 56 = 2464.
+Kullanıcı: 38 × 98 kaç eder?
+AI: 38 × 98 = 3724.
+Kullanıcı: 46 × 9 kaç eder?
+AI: 46 × 9 = 414.
+Kullanıcı: 33 + 60 kaç eder?
+AI: 33 + 60 = 93.
+Kullanıcı: 37 × 67 kaç eder?
+AI: 37 × 67 = 2479.
+Kullanıcı: Bana takım çalışması hakkında kısa bilgi ver.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 40 - 39 kaç eder?
+AI: 40 - 39 = 1.
+Kullanıcı: 47 × 26 kaç eder?
+AI: 47 × 26 = 1222.
+Kullanıcı: 44 × 72 kaç eder?
+AI: 44 × 72 = 3168.
+Kullanıcı: 72 + 57 kaç eder?
+AI: 72 + 57 = 129.
+Kullanıcı: 85 + 11 kaç eder?
+AI: 85 + 11 = 96.
+Kullanıcı: 68 + 56 kaç eder?
+AI: 68 + 56 = 124.
+Kullanıcı: 71 + 41 kaç eder?
+AI: 71 + 41 = 112.
+Kullanıcı: 43 + 77 kaç eder?
+AI: 43 + 77 = 120.
+Kullanıcı: 70 - 39 kaç eder?
+AI: 70 - 39 = 31.
+Kullanıcı: enerji tasarrufu konusunu anlamama yardım et.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 41 + 32 kaç eder?
+AI: 41 + 32 = 73.
+Kullanıcı: 112 - 30 kaç eder?
+AI: 112 - 30 = 82.
+Kullanıcı: 97 + 16 kaç eder?
+AI: 97 + 16 = 113.
+Kullanıcı: 9 × 11 kaç eder?
+AI: 9 × 11 = 99.
+Kullanıcı: 1 × 54 kaç eder?
+AI: 1 × 54 = 54.
+Kullanıcı: 87 - 36 kaç eder?
+AI: 87 - 36 = 51.
+Kullanıcı: 98 - 14 kaç eder?
+AI: 98 - 14 = 84.
+Kullanıcı: 30 × 56 kaç eder?
+AI: 30 × 56 = 1680.
+Kullanıcı: 40 + 95 kaç eder?
+AI: 40 + 95 = 135.
+Kullanıcı: 14 × 22 kaç eder?
+AI: 14 × 22 = 308.
+Kullanıcı: 111 - 35 kaç eder?
+AI: 111 - 35 = 76.
+Kullanıcı: 83 + 57 kaç eder?
+AI: 83 + 57 = 140.
+Kullanıcı: 39 - 13 kaç eder?
+AI: 39 - 13 = 26.
+Kullanıcı: 19 × 7 kaç eder?
+AI: 19 × 7 = 133.
+Kullanıcı: enerji tasarrufu hakkında yeni başlayan birine açıklama yap.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 92 + 21 kaç eder?
+AI: 92 + 21 = 113.
+Kullanıcı: 26 × 9 kaç eder?
+AI: 26 × 9 = 234.
+Kullanıcı: 45 × 36 kaç eder?
+AI: 45 × 36 = 1620.
+Kullanıcı: 87 - 21 kaç eder?
+AI: 87 - 21 = 66.
+Kullanıcı: 28 + 61 kaç eder?
+AI: 28 + 61 = 89.
+Kullanıcı: 59 - 17 kaç eder?
+AI: 59 - 17 = 42.
+Kullanıcı: 3 × 82 kaç eder?
+AI: 3 × 82 = 246.
+Kullanıcı: 51 + 99 kaç eder?
+AI: 51 + 99 = 150.
+Kullanıcı: 27 + 46 kaç eder?
+AI: 27 + 46 = 73.
+Kullanıcı: 84 + 31 kaç eder?
+AI: 84 + 31 = 115.
+Kullanıcı: 31 × 6 kaç eder?
+AI: 31 × 6 = 186.
+Kullanıcı: Görüşürüz
+AI: Görüşürüz! Kendine iyi bak.
+Kullanıcı: 27 + 31 kaç eder?
+AI: 27 + 31 = 58.
+Kullanıcı: dostluk konusunu anlamama yardım et.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 8 × 16 kaç eder?
+AI: 8 × 16 = 128.
+Kullanıcı: 33 + 6 kaç eder?
+AI: 33 + 6 = 39.
+Kullanıcı: 68 - 9 kaç eder?
+AI: 68 - 9 = 59.
+Kullanıcı: 31 × 74 kaç eder?
+AI: 31 × 74 = 2294.
+Kullanıcı: 13 × 85 kaç eder?
+AI: 13 × 85 = 1105.
+Kullanıcı: 'öz güven' kelimesi ne demektir?
+AI: Kişinin kendi yeteneklerine ve kararlarına güvenmesi.
+Kullanıcı: 13 × 90 kaç eder?
+AI: 13 × 90 = 1170.
+Kullanıcı: 38 + 27 kaç eder?
+AI: 38 + 27 = 65.
+Kullanıcı: 20 × 4 kaç eder?
+AI: 20 × 4 = 80.
+Kullanıcı: 114 - 39 kaç eder?
+AI: 114 - 39 = 75.
+Kullanıcı: 33 + 39 kaç eder?
+AI: 33 + 39 = 72.
+Kullanıcı: 46 + 88 kaç eder?
+AI: 46 + 88 = 134.
+Kullanıcı: 33 + 90 kaç eder?
+AI: 33 + 90 = 123.
+Kullanıcı: 87 + 46 kaç eder?
+AI: 87 + 46 = 133.
+Kullanıcı: 78 + 33 kaç eder?
+AI: 78 + 33 = 111.
+Kullanıcı: geri dönüşüm nedir?
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 50 + 82 kaç eder?
+AI: 50 + 82 = 132.
+Kullanıcı: problem çözme konusunu anlamama yardım et.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: zaman yönetimi konusunu anlamama yardım et.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 22 × 91 kaç eder?
+AI: 22 × 91 = 2002.
+Kullanıcı: 59 - 20 kaç eder?
+AI: 59 - 20 = 39.
+Kullanıcı: Eş anlamlı kelime nedir?
+AI: Eş anlamlı kelimeler, aynı veya çok yakın anlam taşıyan kelimelerdir.
+Kullanıcı: 62 + 13 kaç eder?
+AI: 62 + 13 = 75.
+Kullanıcı: 42 × 2 kaç eder?
+AI: 42 × 2 = 84.
+Kullanıcı: 122 - 36 kaç eder?
+AI: 122 - 36 = 86.
+Kullanıcı: 68 + 64 kaç eder?
+AI: 68 + 64 = 132.
+Kullanıcı: 32 - 4 kaç eder?
+AI: 32 - 4 = 28.
+Kullanıcı: 16 + 88 kaç eder?
+AI: 16 + 88 = 104.
+Kullanıcı: 28 + 63 kaç eder?
+AI: 28 + 63 = 91.
+Kullanıcı: İyi akşamlar
+AI: İyi akşamlar! Nasıl yardımcı olayım?
+Kullanıcı: 38 × 63 kaç eder?
+AI: 38 × 63 = 2394.
+Kullanıcı: 13 + 96 kaç eder?
+AI: 13 + 96 = 109.
+Kullanıcı: 65 + 87 kaç eder?
+AI: 65 + 87 = 152.
+Kullanıcı: 17 × 45 kaç eder?
+AI: 17 × 45 = 765.
+Kullanıcı: 51 + 25 kaç eder?
+AI: 51 + 25 = 76.
+Kullanıcı: 13 + 78 kaç eder?
+AI: 13 + 78 = 91.
+Kullanıcı: 36 × 43 kaç eder?
+AI: 36 × 43 = 1548.
+Kullanıcı: 'dürüst' kelimesi ne demektir?
+AI: Doğruyu söyleyen ve güvenilir davranan.
+Kullanıcı: 71 - 12 kaç eder?
+AI: 71 - 12 = 59.
+Kullanıcı: 24 × 49 kaç eder?
+AI: 24 × 49 = 1176.
+Kullanıcı: 19 × 13 kaç eder?
+AI: 19 × 13 = 247.
+Kullanıcı: Bana zaman yönetimi hakkında kısa bilgi ver.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 84 + 66 kaç eder?
+AI: 84 + 66 = 150.
+Kullanıcı: 51 - 15 kaç eder?
+AI: 51 - 15 = 36.
+Kullanıcı: 69 - 35 kaç eder?
+AI: 69 - 35 = 34.
+Kullanıcı: 32 × 59 kaç eder?
+AI: 32 × 59 = 1888.
+Kullanıcı: 98 + 74 kaç eder?
+AI: 98 + 74 = 172.
+Kullanıcı: 19 - 15 kaç eder?
+AI: 19 - 15 = 4.
+Kullanıcı: Mutlu kelimesini açıkla.
+AI: “mutlu”: Sevinç veya memnuniyet duyan.
+Kullanıcı: 47 + 5 kaç eder?
+AI: 47 + 5 = 52.
+Kullanıcı: 63 + 43 kaç eder?
+AI: 63 + 43 = 106.
+Kullanıcı: 23 + 13 kaç eder?
+AI: 23 + 13 = 36.
+Kullanıcı: 95 + 54 kaç eder?
+AI: 95 + 54 = 149.
+Kullanıcı: 94 + 42 kaç eder?
+AI: 94 + 42 = 136.
+Kullanıcı: 3 × 55 kaç eder?
+AI: 3 × 55 = 165.
+Kullanıcı: 134 - 50 kaç eder?
+AI: 134 - 50 = 84.
+Kullanıcı: dostluk konusunu anlamama yardım et.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 38 - 7 kaç eder?
+AI: 38 - 7 = 31.
+Kullanıcı: 44 × 67 kaç eder?
+AI: 44 × 67 = 2948.
+Kullanıcı: 21 + 37 kaç eder?
+AI: 21 + 37 = 58.
+Kullanıcı: 92 + 80 kaç eder?
+AI: 92 + 80 = 172.
+Kullanıcı: 14 + 56 kaç eder?
+AI: 14 + 56 = 70.
+Kullanıcı: 85 + 63 kaç eder?
+AI: 85 + 63 = 148.
+Kullanıcı: Mutlu için basit bir cümle kur.
+AI: “Mutlu” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 'nazik' kelimesi ne demektir?
+AI: Kibar ve düşünceli davranan.
+Kullanıcı: 9 × 80 kaç eder?
+AI: 9 × 80 = 720.
+Kullanıcı: 41 + 83 kaç eder?
+AI: 41 + 83 = 124.
+Kullanıcı: 75 + 15 kaç eder?
+AI: 75 + 15 = 90.
+Kullanıcı: 25 + 2 kaç eder?
+AI: 25 + 2 = 27.
+Kullanıcı: 99 - 5 kaç eder?
+AI: 99 - 5 = 94.
+Kullanıcı: 43 + 86 kaç eder?
+AI: 43 + 86 = 129.
+Kullanıcı: Bana takım çalışması hakkında kısa bilgi ver.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 13 × 18 kaç eder?
+AI: 13 × 18 = 234.
+Kullanıcı: 52 - 17 kaç eder?
+AI: 52 - 17 = 35.
+Kullanıcı: 62 - 16 kaç eder?
+AI: 62 - 16 = 46.
+Kullanıcı: enerji tasarrufu nedir?
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 1 + 86 kaç eder?
+AI: 1 + 86 = 87.
+Kullanıcı: Bitkiler nasıl büyür?
+AI: Bitkiler su, ışık, hava ve uygun besinlerle büyür.
+Kullanıcı: sağlıklı uyku hakkında yeni başlayan birine açıklama yap.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 125 - 38 kaç eder?
+AI: 125 - 38 = 87.
+Kullanıcı: 38 + 62 kaç eder?
+AI: 38 + 62 = 100.
+Kullanıcı: 54 + 44 kaç eder?
+AI: 54 + 44 = 98.
+Kullanıcı: 110 - 28 kaç eder?
+AI: 110 - 28 = 82.
+Kullanıcı: 51 × 35 kaç eder?
+AI: 51 × 35 = 1785.
+Kullanıcı: makine öğrenmesi nedir?
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 93 - 43 kaç eder?
+AI: 93 - 43 = 50.
+Kullanıcı: 76 + 80 kaç eder?
+AI: 76 + 80 = 156.
+Kullanıcı: 53 + 68 kaç eder?
+AI: 53 + 68 = 121.
+Kullanıcı: problem çözme konusunu basitçe anlat.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 71 + 70 kaç eder?
+AI: 71 + 70 = 141.
+Kullanıcı: 34 + 42 kaç eder?
+AI: 34 + 42 = 76.
+Kullanıcı: eleştirel düşünme hakkında yeni başlayan birine açıklama yap.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 31 + 99 kaç eder?
+AI: 31 + 99 = 130.
+Kullanıcı: İnsanlar neden uyur?
+AI: Uyku, bedenin ve beynin dinlenmesine ve işlevlerini sürdürmesine yardımcı olur.
+Kullanıcı: 24 - 13 kaç eder?
+AI: 24 - 13 = 11.
+Kullanıcı: 6 × 48 kaç eder?
+AI: 6 × 48 = 288.
+Kullanıcı: 82 + 49 kaç eder?
+AI: 82 + 49 = 131.
+Kullanıcı: 48 × 8 kaç eder?
+AI: 48 × 8 = 384.
+Kullanıcı: Bana doğa hakkında kısa bilgi ver.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 46 × 76 kaç eder?
+AI: 46 × 76 = 3496.
+Kullanıcı: 46 - 25 kaç eder?
+AI: 46 - 25 = 21.
+Kullanıcı: 96 - 1 kaç eder?
+AI: 96 - 1 = 95.
+Kullanıcı: Gökkuşağı nasıl oluşur?
+AI: Güneş ışığı su damlacıklarında kırılıp yansıyarak renklerine ayrıldığında gökkuşağı oluşabilir.
+Kullanıcı: 5 × 51 kaç eder?
+AI: 5 × 51 = 255.
+Kullanıcı: 42 × 53 kaç eder?
+AI: 42 × 53 = 2226.
+Kullanıcı: 'sorumluluk' kelimesi ne demektir?
+AI: Kişinin yerine getirmesi gereken görev veya yükümlülük.
+Kullanıcı: 39 + 77 kaç eder?
+AI: 39 + 77 = 116.
+Kullanıcı: 101 - 46 kaç eder?
+AI: 101 - 46 = 55.
+Kullanıcı: 40 × 16 kaç eder?
+AI: 40 × 16 = 640.
+Kullanıcı: 12 + 75 kaç eder?
+AI: 12 + 75 = 87.
+Kullanıcı: 15 + 27 kaç eder?
+AI: 15 + 27 = 42.
+Kullanıcı: 8 × 57 kaç eder?
+AI: 8 × 57 = 456.
+Kullanıcı: 'cesur' kelimesi ne demektir?
+AI: Korkuya rağmen doğru veya gerekli adımı atabilen.
+Kullanıcı: 62 + 88 kaç eder?
+AI: 62 + 88 = 150.
+Kullanıcı: 76 + 96 kaç eder?
+AI: 76 + 96 = 172.
+Kullanıcı: 12 + 39 kaç eder?
+AI: 12 + 39 = 51.
+Kullanıcı: 85 + 45 kaç eder?
+AI: 85 + 45 = 130.
+Kullanıcı: takım çalışması nedir?
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 17 × 59 kaç eder?
+AI: 17 × 59 = 1003.
+Kullanıcı: 100 - 50 kaç eder?
+AI: 100 - 50 = 50.
+Kullanıcı: 26 + 5 kaç eder?
+AI: 26 + 5 = 31.
+Kullanıcı: 57 + 8 kaç eder?
+AI: 57 + 8 = 65.
+Kullanıcı: 73 - 19 kaç eder?
+AI: 73 - 19 = 54.
+Kullanıcı: 27 - 20 kaç eder?
+AI: 27 - 20 = 7.
+Kullanıcı: Eş anlamlı kelime nedir?
+AI: Eş anlamlı kelimeler, aynı veya çok yakın anlam taşıyan kelimelerdir.
+Kullanıcı: 49 × 19 kaç eder?
+AI: 49 × 19 = 931.
+Kullanıcı: 45 × 55 kaç eder?
+AI: 45 × 55 = 2475.
+Kullanıcı: 4 + 61 kaç eder?
+AI: 4 + 61 = 65.
+Kullanıcı: 27 + 50 kaç eder?
+AI: 27 + 50 = 77.
+Kullanıcı: Bana makine öğrenmesi hakkında kısa bilgi ver.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 2 + 41 kaç eder?
+AI: 2 + 41 = 43.
+Kullanıcı: 45 + 34 kaç eder?
+AI: 45 + 34 = 79.
+Kullanıcı: 98 + 64 kaç eder?
+AI: 98 + 64 = 162.
+Kullanıcı: 49 × 91 kaç eder?
+AI: 49 × 91 = 4459.
+Kullanıcı: sağlıklı uyku nedir?
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 46 + 7 kaç eder?
+AI: 46 + 7 = 53.
+Kullanıcı: 119 - 40 kaç eder?
+AI: 119 - 40 = 79.
+Kullanıcı: 4 + 37 kaç eder?
+AI: 4 + 37 = 41.
+Kullanıcı: 44 - 21 kaç eder?
+AI: 44 - 21 = 23.
+Kullanıcı: 62 - 9 kaç eder?
+AI: 62 - 9 = 53.
+Kullanıcı: 15 + 89 kaç eder?
+AI: 15 + 89 = 104.
+Kullanıcı: 24 × 77 kaç eder?
+AI: 24 × 77 = 1848.
+Kullanıcı: 4 × 28 kaç eder?
+AI: 4 × 28 = 112.
+Kullanıcı: 5 + 56 kaç eder?
+AI: 5 + 56 = 61.
+Kullanıcı: 82 + 25 kaç eder?
+AI: 82 + 25 = 107.
+Kullanıcı: 16 - 11 kaç eder?
+AI: 16 - 11 = 5.
+Kullanıcı: 96 - 45 kaç eder?
+AI: 96 - 45 = 51.
+Kullanıcı: geri dönüşüm konusunu anlamama yardım et.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 3 + 17 kaç eder?
+AI: 3 + 17 = 20.
+Kullanıcı: 72 + 30 kaç eder?
+AI: 72 + 30 = 102.
+Kullanıcı: 'cesur' kelimesi ne demektir?
+AI: Korkuya rağmen doğru veya gerekli adımı atabilen.
+Kullanıcı: 1 + 1 kaç eder?
+AI: 1 + 1 = 2.
+Kullanıcı: 38 + 45 kaç eder?
+AI: 38 + 45 = 83.
+Kullanıcı: internet güvenliği konusunu anlamama yardım et.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 48 × 99 kaç eder?
+AI: 48 × 99 = 4752.
+Kullanıcı: 61 + 11 kaç eder?
+AI: 61 + 11 = 72.
+Kullanıcı: Iletişim kelimesini açıkla.
+AI: “iletişim”: Bilgi, düşünce veya duyguların paylaşılması.
+Kullanıcı: 34 × 61 kaç eder?
+AI: 34 × 61 = 2074.
+Kullanıcı: 87 + 37 kaç eder?
+AI: 87 + 37 = 124.
+Kullanıcı: 129 - 50 kaç eder?
+AI: 129 - 50 = 79.
+Kullanıcı: 61 + 48 kaç eder?
+AI: 61 + 48 = 109.
+Kullanıcı: 79 + 83 kaç eder?
+AI: 79 + 83 = 162.
+Kullanıcı: 27 + 11 kaç eder?
+AI: 27 + 11 = 38.
+Kullanıcı: 45 × 60 kaç eder?
+AI: 45 × 60 = 2700.
+Kullanıcı: 49 - 35 kaç eder?
+AI: 49 - 35 = 14.
+Kullanıcı: 35 + 27 kaç eder?
+AI: 35 + 27 = 62.
+Kullanıcı: Zıt anlamlı kelime nedir?
+AI: Zıt anlamlı kelimeler, anlamları birbirinin karşıtı olan kelimelerdir.
+Kullanıcı: 66 - 31 kaç eder?
+AI: 66 - 31 = 35.
+Kullanıcı: 85 + 20 kaç eder?
+AI: 85 + 20 = 105.
+Kullanıcı: 115 - 18 kaç eder?
+AI: 115 - 18 = 97.
+Kullanıcı: Bana enerji tasarrufu hakkında kısa bilgi ver.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 55 + 40 kaç eder?
+AI: 55 + 40 = 95.
+Kullanıcı: 65 + 52 kaç eder?
+AI: 65 + 52 = 117.
+Kullanıcı: problem çözme nedir?
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 13 × 45 kaç eder?
+AI: 13 × 45 = 585.
+Kullanıcı: 18 + 25 kaç eder?
+AI: 18 + 25 = 43.
+Kullanıcı: bulut bilişim konusunu basitçe anlat.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 69 + 61 kaç eder?
+AI: 69 + 61 = 130.
+Kullanıcı: 71 + 13 kaç eder?
+AI: 71 + 13 = 84.
+Kullanıcı: problem çözme hakkında yeni başlayan birine açıklama yap.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 58 + 82 kaç eder?
+AI: 58 + 82 = 140.
+Kullanıcı: 21 × 48 kaç eder?
+AI: 21 × 48 = 1008.
+Kullanıcı: Kitap ne için kullanılır?
+AI: Kitaplar bilgi edinmek, öğrenmek veya hikâye okumak için kullanılır.
+Kullanıcı: makine öğrenmesi konusunu basitçe anlat.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 81 + 16 kaç eder?
+AI: 81 + 16 = 97.
+Kullanıcı: 32 - 19 kaç eder?
+AI: 32 - 19 = 13.
+Kullanıcı: 11 × 35 kaç eder?
+AI: 11 × 35 = 385.
+Kullanıcı: 79 - 36 kaç eder?
+AI: 79 - 36 = 43.
+Kullanıcı: 27 + 73 kaç eder?
+AI: 27 + 73 = 100.
+Kullanıcı: 45 × 32 kaç eder?
+AI: 45 × 32 = 1440.
+Kullanıcı: 39 + 55 kaç eder?
+AI: 39 + 55 = 94.
+Kullanıcı: 59 + 1 kaç eder?
+AI: 59 + 1 = 60.
+Kullanıcı: 41 + 43 kaç eder?
+AI: 41 + 43 = 84.
+Kullanıcı: 49 × 53 kaç eder?
+AI: 49 × 53 = 2597.
+Kullanıcı: 25 + 73 kaç eder?
+AI: 25 + 73 = 98.
+Kullanıcı: 28 - 8 kaç eder?
+AI: 28 - 8 = 20.
+Kullanıcı: 49 + 87 kaç eder?
+AI: 49 + 87 = 136.
+Kullanıcı: 93 + 97 kaç eder?
+AI: 93 + 97 = 190.
+Kullanıcı: 101 - 37 kaç eder?
+AI: 101 - 37 = 64.
+Kullanıcı: bulut bilişim konusunu basitçe anlat.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 48 × 77 kaç eder?
+AI: 48 × 77 = 3696.
+Kullanıcı: 26 × 98 kaç eder?
+AI: 26 × 98 = 2548.
+Kullanıcı: Nazik kelimesini açıkla.
+AI: “nazik”: Kibar ve düşünceli davranan.
+Kullanıcı: 69 + 18 kaç eder?
+AI: 69 + 18 = 87.
+Kullanıcı: 20 × 7 kaç eder?
+AI: 20 × 7 = 140.
+Kullanıcı: 49 + 49 kaç eder?
+AI: 49 + 49 = 98.
+Kullanıcı: 64 + 87 kaç eder?
+AI: 64 + 87 = 151.
+Kullanıcı: 77 - 19 kaç eder?
+AI: 77 - 19 = 58.
+Kullanıcı: 110 - 26 kaç eder?
+AI: 110 - 26 = 84.
+Kullanıcı: 20 - 9 kaç eder?
+AI: 20 - 9 = 11.
+Kullanıcı: 43 - 40 kaç eder?
+AI: 43 - 40 = 3.
+Kullanıcı: Çevre kelimesini açıkla.
+AI: “çevre”: Canlıların içinde bulunduğu doğal veya toplumsal koşullar.
+Kullanıcı: 107 - 31 kaç eder?
+AI: 107 - 31 = 76.
+Kullanıcı: sağlıklı uyku konusunu anlamama yardım et.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 11 × 27 kaç eder?
+AI: 11 × 27 = 297.
+Kullanıcı: 59 + 46 kaç eder?
+AI: 59 + 46 = 105.
+Kullanıcı: 45 - 19 kaç eder?
+AI: 45 - 19 = 26.
+Kullanıcı: 43 + 31 kaç eder?
+AI: 43 + 31 = 74.
+Kullanıcı: bulut bilişim hakkında yeni başlayan birine açıklama yap.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 81 + 23 kaç eder?
+AI: 81 + 23 = 104.
+Kullanıcı: 25 × 76 kaç eder?
+AI: 25 × 76 = 1900.
+Kullanıcı: 'sorumluluk' kelimesi ne demektir?
+AI: Kişinin yerine getirmesi gereken görev veya yükümlülük.
+Kullanıcı: takım çalışması konusunu anlamama yardım et.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 20 × 68 kaç eder?
+AI: 20 × 68 = 1360.
+Kullanıcı: 45 × 48 kaç eder?
+AI: 45 × 48 = 2160.
+Kullanıcı: 70 + 31 kaç eder?
+AI: 70 + 31 = 101.
+Kullanıcı: 85 + 93 kaç eder?
+AI: 85 + 93 = 178.
+Kullanıcı: 32 × 13 kaç eder?
+AI: 32 × 13 = 416.
+Kullanıcı: 23 - 15 kaç eder?
+AI: 23 - 15 = 8.
+Kullanıcı: 12 + 60 kaç eder?
+AI: 12 + 60 = 72.
+Kullanıcı: 1 × 30 kaç eder?
+AI: 1 × 30 = 30.
+Kullanıcı: 33 × 92 kaç eder?
+AI: 33 × 92 = 3036.
+Kullanıcı: 98 - 34 kaç eder?
+AI: 98 - 34 = 64.
+Kullanıcı: 14 × 93 kaç eder?
+AI: 14 × 93 = 1302.
+Kullanıcı: 59 - 36 kaç eder?
+AI: 59 - 36 = 23.
+Kullanıcı: 45 + 55 kaç eder?
+AI: 45 + 55 = 100.
+Kullanıcı: 24 × 84 kaç eder?
+AI: 24 × 84 = 2016.
+Kullanıcı: 40 × 68 kaç eder?
+AI: 40 × 68 = 2720.
+Kullanıcı: 83 - 30 kaç eder?
+AI: 83 - 30 = 53.
+Kullanıcı: 63 - 25 kaç eder?
+AI: 63 - 25 = 38.
+Kullanıcı: 120 - 50 kaç eder?
+AI: 120 - 50 = 70.
+Kullanıcı: 114 - 20 kaç eder?
+AI: 114 - 20 = 94.
+Kullanıcı: 29 × 26 kaç eder?
+AI: 29 × 26 = 754.
+Kullanıcı: 4 × 34 kaç eder?
+AI: 4 × 34 = 136.
+Kullanıcı: 24 - 19 kaç eder?
+AI: 24 - 19 = 5.
+Kullanıcı: 83 - 16 kaç eder?
+AI: 83 - 16 = 67.
+Kullanıcı: 35 × 41 kaç eder?
+AI: 35 × 41 = 1435.
+Kullanıcı: 25 + 68 kaç eder?
+AI: 25 + 68 = 93.
+Kullanıcı: 51 + 22 kaç eder?
+AI: 51 + 22 = 73.
+Kullanıcı: 75 + 13 kaç eder?
+AI: 75 + 13 = 88.
+Kullanıcı: 4 × 29 kaç eder?
+AI: 4 × 29 = 116.
+Kullanıcı: 74 + 67 kaç eder?
+AI: 74 + 67 = 141.
+Kullanıcı: Iletişim kelimesini açıkla.
+AI: “iletişim”: Bilgi, düşünce veya duyguların paylaşılması.
+Kullanıcı: 84 + 78 kaç eder?
+AI: 84 + 78 = 162.
+Kullanıcı: 40 × 20 kaç eder?
+AI: 40 × 20 = 800.
+Kullanıcı: 56 + 38 kaç eder?
+AI: 56 + 38 = 94.
+Kullanıcı: Plan yapmak neden faydalıdır?
+AI: Plan yapmak işleri düzenlemeye ve hedeflere ulaşmayı kolaylaştırmaya yardımcı olur.
+Kullanıcı: 59 + 41 kaç eder?
+AI: 59 + 41 = 100.
+Kullanıcı: 98 + 40 kaç eder?
+AI: 98 + 40 = 138.
+Kullanıcı: 4 + 33 kaç eder?
+AI: 4 + 33 = 37.
+Kullanıcı: 84 + 12 kaç eder?
+AI: 84 + 12 = 96.
+Kullanıcı: 13 + 52 kaç eder?
+AI: 13 + 52 = 65.
+Kullanıcı: 25 × 78 kaç eder?
+AI: 25 × 78 = 1950.
+Kullanıcı: 148 - 50 kaç eder?
+AI: 148 - 50 = 98.
+Kullanıcı: doğa konusunu basitçe anlat.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 24 + 24 kaç eder?
+AI: 24 + 24 = 48.
+Kullanıcı: 107 - 18 kaç eder?
+AI: 107 - 18 = 89.
+Kullanıcı: 23 + 66 kaç eder?
+AI: 23 + 66 = 89.
+Kullanıcı: 23 + 58 kaç eder?
+AI: 23 + 58 = 81.
+Kullanıcı: 37 - 21 kaç eder?
+AI: 37 - 21 = 16.
+Kullanıcı: 25 + 28 kaç eder?
+AI: 25 + 28 = 53.
+Kullanıcı: 43 + 69 kaç eder?
+AI: 43 + 69 = 112.
+Kullanıcı: 34 × 81 kaç eder?
+AI: 34 × 81 = 2754.
+Kullanıcı: 95 + 21 kaç eder?
+AI: 95 + 21 = 116.
+Kullanıcı: 78 + 66 kaç eder?
+AI: 78 + 66 = 144.
+Kullanıcı: 15 + 80 kaç eder?
+AI: 15 + 80 = 95.
+Kullanıcı: 56 + 1 kaç eder?
+AI: 56 + 1 = 57.
+Kullanıcı: 8 × 14 kaç eder?
+AI: 8 × 14 = 112.
+Kullanıcı: 28 - 2 kaç eder?
+AI: 28 - 2 = 26.
+Kullanıcı: 20 × 22 kaç eder?
+AI: 20 × 22 = 440.
+Kullanıcı: 20 × 64 kaç eder?
+AI: 20 × 64 = 1280.
+Kullanıcı: 20 - 2 kaç eder?
+AI: 20 - 2 = 18.
+Kullanıcı: 91 + 1 kaç eder?
+AI: 91 + 1 = 92.
+Kullanıcı: 33 × 93 kaç eder?
+AI: 33 × 93 = 3069.
+Kullanıcı: 31 - 6 kaç eder?
+AI: 31 - 6 = 25.
+Kullanıcı: 89 + 50 kaç eder?
+AI: 89 + 50 = 139.
+Kullanıcı: 14 + 52 kaç eder?
+AI: 14 + 52 = 66.
+Kullanıcı: 29 × 46 kaç eder?
+AI: 29 × 46 = 1334.
+Kullanıcı: 3 + 52 kaç eder?
+AI: 3 + 52 = 55.
+Kullanıcı: 8 + 5 kaç eder?
+AI: 8 + 5 = 13.
+Kullanıcı: 1 + 69 kaç eder?
+AI: 1 + 69 = 70.
+Kullanıcı: 6 × 93 kaç eder?
+AI: 6 × 93 = 558.
+Kullanıcı: 48 + 89 kaç eder?
+AI: 48 + 89 = 137.
+Kullanıcı: Günaydın
+AI: Günaydın! Umarım güzel bir gün geçirirsin.
+Kullanıcı: 54 + 26 kaç eder?
+AI: 54 + 26 = 80.
+Kullanıcı: 87 + 80 kaç eder?
+AI: 87 + 80 = 167.
+Kullanıcı: 6 + 55 kaç eder?
+AI: 6 + 55 = 61.
+Kullanıcı: 10 - 7 kaç eder?
+AI: 10 - 7 = 3.
+Kullanıcı: 18 × 70 kaç eder?
+AI: 18 × 70 = 1260.
+Kullanıcı: Dürüst kelimesini açıkla.
+AI: “dürüst”: Doğruyu söyleyen ve güvenilir davranan.
+Kullanıcı: Anlamadım
+AI: Daha basit ve açık şekilde anlatabilirim.
+Kullanıcı: hedef belirleme konusunu anlamama yardım et.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 23 + 0 kaç eder?
+AI: 23 + 0 = 23.
+Kullanıcı: 89 + 83 kaç eder?
+AI: 89 + 83 = 172.
+Kullanıcı: 7 + 25 kaç eder?
+AI: 7 + 25 = 32.
+Kullanıcı: 39 × 58 kaç eder?
+AI: 39 × 58 = 2262.
+Kullanıcı: 81 + 52 kaç eder?
+AI: 81 + 52 = 133.
+Kullanıcı: 48 × 68 kaç eder?
+AI: 48 × 68 = 3264.
+Kullanıcı: 38 × 64 kaç eder?
+AI: 38 × 64 = 2432.
+Kullanıcı: 60 - 35 kaç eder?
+AI: 60 - 35 = 25.
+Kullanıcı: 53 + 10 kaç eder?
+AI: 53 + 10 = 63.
+Kullanıcı: 5 × 84 kaç eder?
+AI: 5 × 84 = 420.
+Kullanıcı: 97 + 70 kaç eder?
+AI: 97 + 70 = 167.
+Kullanıcı: Çözüm kelimesini açıkla.
+AI: “çözüm”: Bir sorunu gideren yol veya sonuç.
+Kullanıcı: 40 + 84 kaç eder?
+AI: 40 + 84 = 124.
+Kullanıcı: doğa nedir?
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 88 + 77 kaç eder?
+AI: 88 + 77 = 165.
+Kullanıcı: programlama konusunu basitçe anlat.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 6 × 22 kaç eder?
+AI: 6 × 22 = 132.
+Kullanıcı: Öz güven için basit bir cümle kur.
+AI: “Öz güven” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: Dünya hangi şekildedir?
+AI: Dünya yaklaşık küre şeklindedir; kutuplardan biraz basıktır.
+Kullanıcı: 47 × 81 kaç eder?
+AI: 47 × 81 = 3807.
+Kullanıcı: 37 × 70 kaç eder?
+AI: 37 × 70 = 2590.
+Kullanıcı: 33 + 58 kaç eder?
+AI: 33 + 58 = 91.
+Kullanıcı: 33 × 46 kaç eder?
+AI: 33 × 46 = 1518.
+Kullanıcı: 107 - 10 kaç eder?
+AI: 107 - 10 = 97.
+Kullanıcı: 91 + 17 kaç eder?
+AI: 91 + 17 = 108.
+Kullanıcı: 46 × 61 kaç eder?
+AI: 46 × 61 = 2806.
+Kullanıcı: 58 + 72 kaç eder?
+AI: 58 + 72 = 130.
+Kullanıcı: 79 - 43 kaç eder?
+AI: 79 - 43 = 36.
+Kullanıcı: 18 + 5 kaç eder?
+AI: 18 + 5 = 23.
+Kullanıcı: 95 + 47 kaç eder?
+AI: 95 + 47 = 142.
+Kullanıcı: 58 + 8 kaç eder?
+AI: 58 + 8 = 66.
+Kullanıcı: 31 × 97 kaç eder?
+AI: 31 × 97 = 3007.
+Kullanıcı: 12 × 75 kaç eder?
+AI: 12 × 75 = 900.
+Kullanıcı: 'çevre' kelimesi ne demektir?
+AI: Canlıların içinde bulunduğu doğal veya toplumsal koşullar.
+Kullanıcı: 5 + 46 kaç eder?
+AI: 5 + 46 = 51.
+Kullanıcı: problem çözme konusunu basitçe anlat.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 'yardım' kelimesi ne demektir?
+AI: Birinin işini kolaylaştırmak için destek olma.
+Kullanıcı: 93 + 68 kaç eder?
+AI: 93 + 68 = 161.
+Kullanıcı: Günaydın
+AI: Günaydın! Umarım güzel bir gün geçirirsin.
+Kullanıcı: 61 - 17 kaç eder?
+AI: 61 - 17 = 44.
+Kullanıcı: 31 + 16 kaç eder?
+AI: 31 + 16 = 47.
+Kullanıcı: 43 + 38 kaç eder?
+AI: 43 + 38 = 81.
+Kullanıcı: 49 + 62 kaç eder?
+AI: 49 + 62 = 111.
+Kullanıcı: 93 + 55 kaç eder?
+AI: 93 + 55 = 148.
+Kullanıcı: Cesur kelimesini açıkla.
+AI: “cesur”: Korkuya rağmen doğru veya gerekli adımı atabilen.
+Kullanıcı: 8 × 42 kaç eder?
+AI: 8 × 42 = 336.
+Kullanıcı: 59 + 5 kaç eder?
+AI: 59 + 5 = 64.
+Kullanıcı: 31 + 93 kaç eder?
+AI: 31 + 93 = 124.
+Kullanıcı: 43 × 29 kaç eder?
+AI: 43 × 29 = 1247.
+Kullanıcı: 22 - 5 kaç eder?
+AI: 22 - 5 = 17.
+Kullanıcı: eleştirel düşünme nedir?
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 67 + 59 kaç eder?
+AI: 67 + 59 = 126.
+Kullanıcı: 38 × 82 kaç eder?
+AI: 38 × 82 = 3116.
+Kullanıcı: İsim nedir?
+AI: İsim, varlıkları, kavramları veya duyguları karşılayan sözcük türüdür.
+Kullanıcı: 87 + 3 kaç eder?
+AI: 87 + 3 = 90.
+Kullanıcı: 17 - 14 kaç eder?
+AI: 17 - 14 = 3.
+Kullanıcı: 14 + 72 kaç eder?
+AI: 14 + 72 = 86.
+Kullanıcı: 117 - 28 kaç eder?
+AI: 117 - 28 = 89.
+Kullanıcı: 63 + 76 kaç eder?
+AI: 63 + 76 = 139.
+Kullanıcı: 38 + 29 kaç eder?
+AI: 38 + 29 = 67.
+Kullanıcı: 8 × 82 kaç eder?
+AI: 8 × 82 = 656.
+Kullanıcı: Çözüm kelimesini açıkla.
+AI: “çözüm”: Bir sorunu gideren yol veya sonuç.
+Kullanıcı: 63 - 8 kaç eder?
+AI: 63 - 8 = 55.
+Kullanıcı: 16 × 18 kaç eder?
+AI: 16 × 18 = 288.
+Kullanıcı: 31 - 1 kaç eder?
+AI: 31 - 1 = 30.
+Kullanıcı: 55 - 19 kaç eder?
+AI: 55 - 19 = 36.
+Kullanıcı: Sıfat nedir?
+AI: Sıfat, isimleri niteleyen veya belirten sözcüktür.
+Kullanıcı: 27 - 9 kaç eder?
+AI: 27 - 9 = 18.
+Kullanıcı: 15 × 15 kaç eder?
+AI: 15 × 15 = 225.
+Kullanıcı: 14 + 16 kaç eder?
+AI: 14 + 16 = 30.
+Kullanıcı: 62 + 30 kaç eder?
+AI: 62 + 30 = 92.
+Kullanıcı: 23 × 91 kaç eder?
+AI: 23 × 91 = 2093.
+Kullanıcı: 38 + 51 kaç eder?
+AI: 38 + 51 = 89.
+Kullanıcı: 48 × 47 kaç eder?
+AI: 48 × 47 = 2256.
+Kullanıcı: 16 × 65 kaç eder?
+AI: 16 × 65 = 1040.
+Kullanıcı: 79 + 91 kaç eder?
+AI: 79 + 91 = 170.
+Kullanıcı: 48 + 91 kaç eder?
+AI: 48 + 91 = 139.
+Kullanıcı: 29 × 67 kaç eder?
+AI: 29 × 67 = 1943.
+Kullanıcı: 45 - 34 kaç eder?
+AI: 45 - 34 = 11.
+Kullanıcı: Harita ne işe yarar?
+AI: Harita, yerleri ve konumları göstermeye yardımcı olur.
+Kullanıcı: 65 - 9 kaç eder?
+AI: 65 - 9 = 56.
+Kullanıcı: 43 × 66 kaç eder?
+AI: 43 × 66 = 2838.
+Kullanıcı: 6 × 5 kaç eder?
+AI: 6 × 5 = 30.
+Kullanıcı: 30 + 42 kaç eder?
+AI: 30 + 42 = 72.
+Kullanıcı: 4 × 68 kaç eder?
+AI: 4 × 68 = 272.
+Kullanıcı: takım çalışması hakkında yeni başlayan birine açıklama yap.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 56 + 85 kaç eder?
+AI: 56 + 85 = 141.
+Kullanıcı: 19 - 9 kaç eder?
+AI: 19 - 9 = 10.
+Kullanıcı: 10 × 30 kaç eder?
+AI: 10 × 30 = 300.
+Kullanıcı: 65 - 29 kaç eder?
+AI: 65 - 29 = 36.
+Kullanıcı: Sorumluluk için basit bir cümle kur.
+AI: “Sorumluluk” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 93 + 16 kaç eder?
+AI: 93 + 16 = 109.
+Kullanıcı: Daha kısa anlat
+AI: Tabii, daha kısa anlatacağım.
+Kullanıcı: 28 × 81 kaç eder?
+AI: 28 × 81 = 2268.
+Kullanıcı: 50 + 37 kaç eder?
+AI: 50 + 37 = 87.
+Kullanıcı: 'dürüst' kelimesi ne demektir?
+AI: Doğruyu söyleyen ve güvenilir davranan.
+Kullanıcı: 74 + 50 kaç eder?
+AI: 74 + 50 = 124.
+Kullanıcı: 96 + 47 kaç eder?
+AI: 96 + 47 = 143.
+Kullanıcı: 41 × 41 kaç eder?
+AI: 41 × 41 = 1681.
+Kullanıcı: 11 + 74 kaç eder?
+AI: 11 + 74 = 85.
+Kullanıcı: 33 - 22 kaç eder?
+AI: 33 - 22 = 11.
+Kullanıcı: 49 × 12 kaç eder?
+AI: 49 × 12 = 588.
+Kullanıcı: 29 × 96 kaç eder?
+AI: 29 × 96 = 2784.
+Kullanıcı: Türkçe hangi dil ailesindedir?
+AI: Türkçe, Türk dilleri ailesindedir.
+Kullanıcı: Çevre kelimesini açıkla.
+AI: “çevre”: Canlıların içinde bulunduğu doğal veya toplumsal koşullar.
+Kullanıcı: 11 × 84 kaç eder?
+AI: 11 × 84 = 924.
+Kullanıcı: 33 + 19 kaç eder?
+AI: 33 + 19 = 52.
+Kullanıcı: 92 - 14 kaç eder?
+AI: 92 - 14 = 78.
+Kullanıcı: Iletişim için basit bir cümle kur.
+AI: “Iletişim” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 25 + 26 kaç eder?
+AI: 25 + 26 = 51.
+Kullanıcı: 31 × 69 kaç eder?
+AI: 31 × 69 = 2139.
+Kullanıcı: 25 + 61 kaç eder?
+AI: 25 + 61 = 86.
+Kullanıcı: 91 + 3 kaç eder?
+AI: 91 + 3 = 94.
+Kullanıcı: 57 + 48 kaç eder?
+AI: 57 + 48 = 105.
+Kullanıcı: 18 × 55 kaç eder?
+AI: 18 × 55 = 990.
+Kullanıcı: 20 × 30 kaç eder?
+AI: 20 × 30 = 600.
+Kullanıcı: 70 + 78 kaç eder?
+AI: 70 + 78 = 148.
+Kullanıcı: 25 + 94 kaç eder?
+AI: 25 + 94 = 119.
+Kullanıcı: 92 + 98 kaç eder?
+AI: 92 + 98 = 190.
+Kullanıcı: 41 + 11 kaç eder?
+AI: 41 + 11 = 52.
+Kullanıcı: 'çözüm' kelimesi ne demektir?
+AI: Bir sorunu gideren yol veya sonuç.
+Kullanıcı: 34 + 9 kaç eder?
+AI: 34 + 9 = 43.
+Kullanıcı: 57 - 2 kaç eder?
+AI: 57 - 2 = 55.
+Kullanıcı: 24 + 27 kaç eder?
+AI: 24 + 27 = 51.
+Kullanıcı: 61 + 35 kaç eder?
+AI: 61 + 35 = 96.
+Kullanıcı: 47 - 38 kaç eder?
+AI: 47 - 38 = 9.
+Kullanıcı: hedef belirleme nedir?
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: 2 × 69 kaç eder?
+AI: 2 × 69 = 138.
+Kullanıcı: takım çalışması konusunu anlamama yardım et.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: 49 + 68 kaç eder?
+AI: 49 + 68 = 117.
+Kullanıcı: Dünya hangi şekildedir?
+AI: Dünya yaklaşık küre şeklindedir; kutuplardan biraz basıktır.
+Kullanıcı: 93 + 49 kaç eder?
+AI: 93 + 49 = 142.
+Kullanıcı: Balıklar nerede yaşar?
+AI: Balıkların çoğu suda yaşar.
+Kullanıcı: Mutlu için basit bir cümle kur.
+AI: “Mutlu” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: Mutlu için basit bir cümle kur.
+AI: “Mutlu” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 47 × 75 kaç eder?
+AI: 47 × 75 = 3525.
+Kullanıcı: 65 + 84 kaç eder?
+AI: 65 + 84 = 149.
+Kullanıcı: Bunu tekrar söyler misin?
+AI: Tabii. Hangi kısmı tekrar etmemi istersin?
+Kullanıcı: 18 × 87 kaç eder?
+AI: 18 × 87 = 1566.
+Kullanıcı: 9 × 74 kaç eder?
+AI: 9 × 74 = 666.
+Kullanıcı: 39 + 66 kaç eder?
+AI: 39 + 66 = 105.
+Kullanıcı: 73 + 13 kaç eder?
+AI: 73 + 13 = 86.
+Kullanıcı: Bir gün kaç saattir?
+AI: Bir gün 24 saattir.
+Kullanıcı: 8 + 52 kaç eder?
+AI: 8 + 52 = 60.
+Kullanıcı: Merak kelimesini açıkla.
+AI: “merak”: Bir şeyi öğrenme veya keşfetme isteği.
+Kullanıcı: 93 + 50 kaç eder?
+AI: 93 + 50 = 143.
+Kullanıcı: 2 + 46 kaç eder?
+AI: 2 + 46 = 48.
+Kullanıcı: 19 + 68 kaç eder?
+AI: 19 + 68 = 87.
+Kullanıcı: 19 × 51 kaç eder?
+AI: 19 × 51 = 969.
+Kullanıcı: 82 + 44 kaç eder?
+AI: 82 + 44 = 126.
+Kullanıcı: programlama konusunu basitçe anlat.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 8 + 93 kaç eder?
+AI: 8 + 93 = 101.
+Kullanıcı: 1 + 6 kaç eder?
+AI: 1 + 6 = 7.
+Kullanıcı: 84 - 12 kaç eder?
+AI: 84 - 12 = 72.
+Kullanıcı: Yardım kelimesini açıkla.
+AI: “yardım”: Birinin işini kolaylaştırmak için destek olma.
+Kullanıcı: 90 + 64 kaç eder?
+AI: 90 + 64 = 154.
+Kullanıcı: 76 - 20 kaç eder?
+AI: 76 - 20 = 56.
+Kullanıcı: 69 + 42 kaç eder?
+AI: 69 + 42 = 111.
+Kullanıcı: 54 + 18 kaç eder?
+AI: 54 + 18 = 72.
+Kullanıcı: 116 - 19 kaç eder?
+AI: 116 - 19 = 97.
+Kullanıcı: 91 + 99 kaç eder?
+AI: 91 + 99 = 190.
+Kullanıcı: 34 + 0 kaç eder?
+AI: 34 + 0 = 34.
+Kullanıcı: 2 + 30 kaç eder?
+AI: 2 + 30 = 32.
+Kullanıcı: 68 + 43 kaç eder?
+AI: 68 + 43 = 111.
+Kullanıcı: 46 × 64 kaç eder?
+AI: 46 × 64 = 2944.
+Kullanıcı: 11 × 63 kaç eder?
+AI: 11 × 63 = 693.
+Kullanıcı: enerji tasarrufu hakkında yeni başlayan birine açıklama yap.
+AI: Enerji tasarrufu, gereksiz enerji tüketimini azaltmaktır.
+Kullanıcı: 2 × 45 kaç eder?
+AI: 2 × 45 = 90.
+Kullanıcı: 26 × 86 kaç eder?
+AI: 26 × 86 = 2236.
+Kullanıcı: 9 × 62 kaç eder?
+AI: 9 × 62 = 558.
+Kullanıcı: 33 × 95 kaç eder?
+AI: 33 × 95 = 3135.
+Kullanıcı: geri dönüşüm hakkında yeni başlayan birine açıklama yap.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 37 × 31 kaç eder?
+AI: 37 × 31 = 1147.
+Kullanıcı: 6 × 55 kaç eder?
+AI: 6 × 55 = 330.
+Kullanıcı: 7 × 97 kaç eder?
+AI: 7 × 97 = 679.
+Kullanıcı: Bir hafta kaç gündür?
+AI: Bir hafta 7 gündür.
+Kullanıcı: 49 × 7 kaç eder?
+AI: 49 × 7 = 343.
+Kullanıcı: 69 + 87 kaç eder?
+AI: 69 + 87 = 156.
+Kullanıcı: 33 × 27 kaç eder?
+AI: 33 × 27 = 891.
+Kullanıcı: 7 × 6 kaç eder?
+AI: 7 × 6 = 42.
+Kullanıcı: 131 - 39 kaç eder?
+AI: 131 - 39 = 92.
+Kullanıcı: 77 + 84 kaç eder?
+AI: 77 + 84 = 161.
+Kullanıcı: 88 + 82 kaç eder?
+AI: 88 + 82 = 170.
+Kullanıcı: 79 + 54 kaç eder?
+AI: 79 + 54 = 133.
+Kullanıcı: Bir hafta kaç gündür?
+AI: Bir hafta 7 gündür.
+Kullanıcı: 36 × 14 kaç eder?
+AI: 36 × 14 = 504.
+Kullanıcı: 36 + 10 kaç eder?
+AI: 36 + 10 = 46.
+Kullanıcı: 11 + 34 kaç eder?
+AI: 11 + 34 = 45.
+Kullanıcı: 60 + 5 kaç eder?
+AI: 60 + 5 = 65.
+Kullanıcı: 34 × 28 kaç eder?
+AI: 34 × 28 = 952.
+Kullanıcı: 26 × 93 kaç eder?
+AI: 26 × 93 = 2418.
+Kullanıcı: 70 - 18 kaç eder?
+AI: 70 - 18 = 52.
+Kullanıcı: 81 + 63 kaç eder?
+AI: 81 + 63 = 144.
+Kullanıcı: Güneş nedir?
+AI: Güneş, Dünya'ya ışık ve ısı sağlayan bir yıldızdır.
+Kullanıcı: 75 + 56 kaç eder?
+AI: 75 + 56 = 131.
+Kullanıcı: 97 + 64 kaç eder?
+AI: 97 + 64 = 161.
+Kullanıcı: 102 - 32 kaç eder?
+AI: 102 - 32 = 70.
+Kullanıcı: 39 + 72 kaç eder?
+AI: 39 + 72 = 111.
+Kullanıcı: 98 + 51 kaç eder?
+AI: 98 + 51 = 149.
+Kullanıcı: 51 + 85 kaç eder?
+AI: 51 + 85 = 136.
+Kullanıcı: 25 + 70 kaç eder?
+AI: 25 + 70 = 95.
+Kullanıcı: 50 × 1 kaç eder?
+AI: 50 × 1 = 50.
+Kullanıcı: 56 - 29 kaç eder?
+AI: 56 - 29 = 27.
+Kullanıcı: 5 × 81 kaç eder?
+AI: 5 × 81 = 405.
+Kullanıcı: 100 - 6 kaç eder?
+AI: 100 - 6 = 94.
+Kullanıcı: 100 - 28 kaç eder?
+AI: 100 - 28 = 72.
+Kullanıcı: 31 + 15 kaç eder?
+AI: 31 + 15 = 46.
+Kullanıcı: internet güvenliği konusunu anlamama yardım et.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: Iş birliği kelimesini açıkla.
+AI: “iş birliği”: Bir amaca ulaşmak için birlikte çalışma.
+Kullanıcı: 9 × 93 kaç eder?
+AI: 9 × 93 = 837.
+Kullanıcı: 18 + 18 kaç eder?
+AI: 18 + 18 = 36.
+Kullanıcı: 54 + 35 kaç eder?
+AI: 54 + 35 = 89.
+Kullanıcı: 59 - 19 kaç eder?
+AI: 59 - 19 = 40.
+Kullanıcı: 35 + 91 kaç eder?
+AI: 35 + 91 = 126.
+Kullanıcı: 26 × 83 kaç eder?
+AI: 26 × 83 = 2158.
+Kullanıcı: 40 × 54 kaç eder?
+AI: 40 × 54 = 2160.
+Kullanıcı: 32 × 43 kaç eder?
+AI: 32 × 43 = 1376.
+Kullanıcı: 92 + 6 kaç eder?
+AI: 92 + 6 = 98.
+Kullanıcı: 54 - 11 kaç eder?
+AI: 54 - 11 = 43.
+Kullanıcı: 98 + 25 kaç eder?
+AI: 98 + 25 = 123.
+Kullanıcı: 49 + 27 kaç eder?
+AI: 49 + 27 = 76.
+Kullanıcı: 20 + 14 kaç eder?
+AI: 20 + 14 = 34.
+Kullanıcı: 'çevre' kelimesi ne demektir?
+AI: Canlıların içinde bulunduğu doğal veya toplumsal koşullar.
+Kullanıcı: 60 + 67 kaç eder?
+AI: 60 + 67 = 127.
+Kullanıcı: 31 × 47 kaç eder?
+AI: 31 × 47 = 1457.
+Kullanıcı: 58 - 25 kaç eder?
+AI: 58 - 25 = 33.
+Kullanıcı: 26 - 5 kaç eder?
+AI: 26 - 5 = 21.
+Kullanıcı: 13 × 64 kaç eder?
+AI: 13 × 64 = 832.
+Kullanıcı: 3 + 62 kaç eder?
+AI: 3 + 62 = 65.
+Kullanıcı: 10 × 37 kaç eder?
+AI: 10 × 37 = 370.
+Kullanıcı: 18 × 40 kaç eder?
+AI: 18 × 40 = 720.
+Kullanıcı: 41 - 6 kaç eder?
+AI: 41 - 6 = 35.
+Kullanıcı: 12 + 5 kaç eder?
+AI: 12 + 5 = 17.
+Kullanıcı: 69 + 68 kaç eder?
+AI: 69 + 68 = 137.
+Kullanıcı: doğa konusunu anlamama yardım et.
+AI: Doğa, insan yapımı olmayan canlı ve cansız çevrenin bütünüdür.
+Kullanıcı: 80 - 10 kaç eder?
+AI: 80 - 10 = 70.
+Kullanıcı: 116 - 36 kaç eder?
+AI: 116 - 36 = 80.
+Kullanıcı: 108 - 50 kaç eder?
+AI: 108 - 50 = 58.
+Kullanıcı: 54 + 61 kaç eder?
+AI: 54 + 61 = 115.
+Kullanıcı: 7 + 80 kaç eder?
+AI: 7 + 80 = 87.
+Kullanıcı: Anlamadım
+AI: Daha basit ve açık şekilde anlatabilirim.
+Kullanıcı: 119 - 30 kaç eder?
+AI: 119 - 30 = 89.
+Kullanıcı: 11 × 3 kaç eder?
+AI: 11 × 3 = 33.
+Kullanıcı: 28 + 49 kaç eder?
+AI: 28 + 49 = 77.
+Kullanıcı: 22 × 62 kaç eder?
+AI: 22 × 62 = 1364.
+Kullanıcı: 89 - 43 kaç eder?
+AI: 89 - 43 = 46.
+Kullanıcı: 39 × 10 kaç eder?
+AI: 39 × 10 = 390.
+Kullanıcı: 13 + 30 kaç eder?
+AI: 13 + 30 = 43.
+Kullanıcı: robotik hakkında yeni başlayan birine açıklama yap.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 41 - 35 kaç eder?
+AI: 41 - 35 = 6.
+Kullanıcı: 35 + 66 kaç eder?
+AI: 35 + 66 = 101.
+Kullanıcı: 33 × 7 kaç eder?
+AI: 33 × 7 = 231.
+Kullanıcı: 17 + 90 kaç eder?
+AI: 17 + 90 = 107.
+Kullanıcı: Sorumluluk kelimesini açıkla.
+AI: “sorumluluk”: Kişinin yerine getirmesi gereken görev veya yükümlülük.
+Kullanıcı: geri dönüşüm konusunu anlamama yardım et.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: Yağmur nasıl oluşur?
+AI: Bulutlardaki su damlacıkları büyüyüp ağırlaştığında yağış olarak yere düşebilir.
+Kullanıcı: 44 × 58 kaç eder?
+AI: 44 × 58 = 2552.
+Kullanıcı: 9 × 32 kaç eder?
+AI: 9 × 32 = 288.
+Kullanıcı: 16 + 66 kaç eder?
+AI: 16 + 66 = 82.
+Kullanıcı: zaman yönetimi konusunu anlamama yardım et.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 14 + 6 kaç eder?
+AI: 14 + 6 = 20.
+Kullanıcı: 51 - 12 kaç eder?
+AI: 51 - 12 = 39.
+Kullanıcı: 44 × 13 kaç eder?
+AI: 44 × 13 = 572.
+Kullanıcı: 2 + 39 kaç eder?
+AI: 2 + 39 = 41.
+Kullanıcı: Empati nedir?
+AI: Empati, başka bir kişinin duygu ve bakış açısını anlamaya çalışmaktır.
+Kullanıcı: 54 - 31 kaç eder?
+AI: 54 - 31 = 23.
+Kullanıcı: makine öğrenmesi hakkında yeni başlayan birine açıklama yap.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 2 × 70 kaç eder?
+AI: 2 × 70 = 140.
+Kullanıcı: 39 + 21 kaç eder?
+AI: 39 + 21 = 60.
+Kullanıcı: 44 + 14 kaç eder?
+AI: 44 + 14 = 58.
+Kullanıcı: 72 + 36 kaç eder?
+AI: 72 + 36 = 108.
+Kullanıcı: sağlıklı uyku hakkında yeni başlayan birine açıklama yap.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: Elektrik nedir?
+AI: Elektrik, yüklerin hareketi veya birikimiyle ilişkili fiziksel bir olgudur.
+Kullanıcı: Yardım kelimesini açıkla.
+AI: “yardım”: Birinin işini kolaylaştırmak için destek olma.
+Kullanıcı: 10 + 34 kaç eder?
+AI: 10 + 34 = 44.
+Kullanıcı: 56 + 97 kaç eder?
+AI: 56 + 97 = 153.
+Kullanıcı: 63 + 82 kaç eder?
+AI: 63 + 82 = 145.
+Kullanıcı: Bilgisayar ne işe yarar?
+AI: Bilgisayar bilgi işlemek, iletişim kurmak ve çeşitli görevleri yapmak için kullanılır.
+Kullanıcı: 5 + 53 kaç eder?
+AI: 5 + 53 = 58.
+Kullanıcı: 99 - 25 kaç eder?
+AI: 99 - 25 = 74.
+Kullanıcı: Yardım için basit bir cümle kur.
+AI: “Yardım” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 15 × 39 kaç eder?
+AI: 15 × 39 = 585.
+Kullanıcı: 85 - 26 kaç eder?
+AI: 85 - 26 = 59.
+Kullanıcı: 1 × 67 kaç eder?
+AI: 1 × 67 = 67.
+Kullanıcı: 22 + 0 kaç eder?
+AI: 22 + 0 = 22.
+Kullanıcı: problem çözme nedir?
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 79 + 63 kaç eder?
+AI: 79 + 63 = 142.
+Kullanıcı: 91 - 3 kaç eder?
+AI: 91 - 3 = 88.
+Kullanıcı: 29 + 66 kaç eder?
+AI: 29 + 66 = 95.
+Kullanıcı: 6 × 96 kaç eder?
+AI: 6 × 96 = 576.
+Kullanıcı: Hedef kelimesini açıkla.
+AI: “hedef”: Ulaşılmak istenen sonuç.
+Kullanıcı: 3 + 0 kaç eder?
+AI: 3 + 0 = 3.
+Kullanıcı: 9 × 75 kaç eder?
+AI: 9 × 75 = 675.
+Kullanıcı: 2 × 17 kaç eder?
+AI: 2 × 17 = 34.
+Kullanıcı: 86 + 11 kaç eder?
+AI: 86 + 11 = 97.
+Kullanıcı: hedef belirleme konusunu basitçe anlat.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: Kütüphane nedir?
+AI: Kütüphane, kitapların ve başka kaynakların bulunduğu, kullanılabildiği yerdir.
+Kullanıcı: bulut bilişim konusunu anlamama yardım et.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 98 + 45 kaç eder?
+AI: 98 + 45 = 143.
+Kullanıcı: 5 + 62 kaç eder?
+AI: 5 + 62 = 67.
+Kullanıcı: 25 × 65 kaç eder?
+AI: 25 × 65 = 1625.
+Kullanıcı: internet güvenliği nedir?
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 52 - 32 kaç eder?
+AI: 52 - 32 = 20.
+Kullanıcı: Bunu tekrar söyler misin?
+AI: Tabii. Hangi kısmı tekrar etmemi istersin?
+Kullanıcı: 53 + 71 kaç eder?
+AI: 53 + 71 = 124.
+Kullanıcı: 98 - 30 kaç eder?
+AI: 98 - 30 = 68.
+Kullanıcı: geri dönüşüm konusunu basitçe anlat.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 94 + 98 kaç eder?
+AI: 94 + 98 = 192.
+Kullanıcı: Öğretmen ne yapar?
+AI: Öğretmenler öğrencilerin öğrenmesine yardımcı olur.
+Kullanıcı: 53 - 22 kaç eder?
+AI: 53 - 22 = 31.
+Kullanıcı: eleştirel düşünme konusunu anlamama yardım et.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 74 + 24 kaç eder?
+AI: 74 + 24 = 98.
+Kullanıcı: Kendini tanıtır mısın?
+AI: Ben soruları yanıtlamak ve çeşitli konularda yardımcı olmak için tasarlanmış bir yapay zekâyım.
+Kullanıcı: 80 + 22 kaç eder?
+AI: 80 + 22 = 102.
+Kullanıcı: 107 - 40 kaç eder?
+AI: 107 - 40 = 67.
+Kullanıcı: makine öğrenmesi nedir?
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 16 × 37 kaç eder?
+AI: 16 × 37 = 592.
+Kullanıcı: 71 + 83 kaç eder?
+AI: 71 + 83 = 154.
+Kullanıcı: İnsanlar neden uyur?
+AI: Uyku, bedenin ve beynin dinlenmesine ve işlevlerini sürdürmesine yardımcı olur.
+Kullanıcı: 33 - 16 kaç eder?
+AI: 33 - 16 = 17.
+Kullanıcı: 52 + 20 kaç eder?
+AI: 52 + 20 = 72.
+Kullanıcı: Veri nedir?
+AI: Veri, işlenebilen veya incelenebilen bilgi parçalarıdır.
+Kullanıcı: 43 - 10 kaç eder?
+AI: 43 - 10 = 33.
+Kullanıcı: 63 + 81 kaç eder?
+AI: 63 + 81 = 144.
+Kullanıcı: 22 + 33 kaç eder?
+AI: 22 + 33 = 55.
+Kullanıcı: 16 - 8 kaç eder?
+AI: 16 - 8 = 8.
+Kullanıcı: 'üzgün' kelimesi ne demektir?
+AI: Keder veya üzüntü hisseden.
+Kullanıcı: Nazik için basit bir cümle kur.
+AI: “Nazik” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 27 + 77 kaç eder?
+AI: 27 + 77 = 104.
+Kullanıcı: 90 - 25 kaç eder?
+AI: 90 - 25 = 65.
+Kullanıcı: programlama hakkında yeni başlayan birine açıklama yap.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: Hedef için basit bir cümle kur.
+AI: “Hedef” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 18 × 38 kaç eder?
+AI: 18 × 38 = 684.
+Kullanıcı: Bana problem çözme hakkında kısa bilgi ver.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 35 × 69 kaç eder?
+AI: 35 × 69 = 2415.
+Kullanıcı: Hedef kelimesini açıkla.
+AI: “hedef”: Ulaşılmak istenen sonuç.
+Kullanıcı: 17 × 23 kaç eder?
+AI: 17 × 23 = 391.
+Kullanıcı: 47 + 2 kaç eder?
+AI: 47 + 2 = 49.
+Kullanıcı: 24 - 6 kaç eder?
+AI: 24 - 6 = 18.
+Kullanıcı: 77 + 24 kaç eder?
+AI: 77 + 24 = 101.
+Kullanıcı: Model ne demektir?
+AI: Model, verilerden öğrenerek tahmin veya çıktı üreten sistemdir.
+Kullanıcı: eleştirel düşünme konusunu anlamama yardım et.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: programlama hakkında yeni başlayan birine açıklama yap.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: Veri nedir?
+AI: Veri, işlenebilen veya incelenebilen bilgi parçalarıdır.
+Kullanıcı: 118 - 32 kaç eder?
+AI: 118 - 32 = 86.
+Kullanıcı: 62 + 39 kaç eder?
+AI: 62 + 39 = 101.
+Kullanıcı: 40 - 19 kaç eder?
+AI: 40 - 19 = 21.
+Kullanıcı: bulut bilişim konusunu anlamama yardım et.
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 75 - 47 kaç eder?
+AI: 75 - 47 = 28.
+Kullanıcı: 44 + 53 kaç eder?
+AI: 44 + 53 = 97.
+Kullanıcı: 16 × 28 kaç eder?
+AI: 16 × 28 = 448.
+Kullanıcı: 56 - 36 kaç eder?
+AI: 56 - 36 = 20.
+Kullanıcı: 5 + 45 kaç eder?
+AI: 5 + 45 = 50.
+Kullanıcı: Su ne işe yarar?
+AI: Su, canlıların yaşaması için gereklidir; içme, temizlik ve birçok günlük işte kullanılır.
+Kullanıcı: 41 × 61 kaç eder?
+AI: 41 × 61 = 2501.
+Kullanıcı: 101 - 18 kaç eder?
+AI: 101 - 18 = 83.
+Kullanıcı: 11 × 49 kaç eder?
+AI: 11 × 49 = 539.
+Kullanıcı: 38 × 89 kaç eder?
+AI: 38 × 89 = 3382.
+Kullanıcı: robotik nedir?
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 59 + 68 kaç eder?
+AI: 59 + 68 = 127.
+Kullanıcı: 56 - 40 kaç eder?
+AI: 56 - 40 = 16.
+Kullanıcı: 11 + 24 kaç eder?
+AI: 11 + 24 = 35.
+Kullanıcı: 15 + 85 kaç eder?
+AI: 15 + 85 = 100.
+Kullanıcı: 46 + 83 kaç eder?
+AI: 46 + 83 = 129.
+Kullanıcı: 68 + 20 kaç eder?
+AI: 68 + 20 = 88.
+Kullanıcı: 39 × 55 kaç eder?
+AI: 39 × 55 = 2145.
+Kullanıcı: 48 + 32 kaç eder?
+AI: 48 + 32 = 80.
+Kullanıcı: 24 × 34 kaç eder?
+AI: 24 × 34 = 816.
+Kullanıcı: 33 × 77 kaç eder?
+AI: 33 × 77 = 2541.
+Kullanıcı: 7 × 56 kaç eder?
+AI: 7 × 56 = 392.
+Kullanıcı: 1 × 81 kaç eder?
+AI: 1 × 81 = 81.
+Kullanıcı: 5 + 58 kaç eder?
+AI: 5 + 58 = 63.
+Kullanıcı: robotik konusunu anlamama yardım et.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 3 + 90 kaç eder?
+AI: 3 + 90 = 93.
+Kullanıcı: 38 + 34 kaç eder?
+AI: 38 + 34 = 72.
+Kullanıcı: zaman yönetimi konusunu anlamama yardım et.
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: 29 - 7 kaç eder?
+AI: 29 - 7 = 22.
+Kullanıcı: 120 - 45 kaç eder?
+AI: 120 - 45 = 75.
+Kullanıcı: 27 × 38 kaç eder?
+AI: 27 × 38 = 1026.
+Kullanıcı: 104 - 8 kaç eder?
+AI: 104 - 8 = 96.
+Kullanıcı: 103 - 31 kaç eder?
+AI: 103 - 31 = 72.
+Kullanıcı: 79 + 85 kaç eder?
+AI: 79 + 85 = 164.
+Kullanıcı: 96 + 19 kaç eder?
+AI: 96 + 19 = 115.
+Kullanıcı: 61 + 8 kaç eder?
+AI: 61 + 8 = 69.
+Kullanıcı: 4 + 14 kaç eder?
+AI: 4 + 14 = 18.
+Kullanıcı: 63 + 36 kaç eder?
+AI: 63 + 36 = 99.
+Kullanıcı: 95 + 33 kaç eder?
+AI: 95 + 33 = 128.
+Kullanıcı: 10 × 9 kaç eder?
+AI: 10 × 9 = 90.
+Kullanıcı: 32 + 88 kaç eder?
+AI: 32 + 88 = 120.
+Kullanıcı: 82 + 41 kaç eder?
+AI: 82 + 41 = 123.
+Kullanıcı: 67 + 9 kaç eder?
+AI: 67 + 9 = 76.
+Kullanıcı: Nazik kelimesini açıkla.
+AI: “nazik”: Kibar ve düşünceli davranan.
+Kullanıcı: 34 + 60 kaç eder?
+AI: 34 + 60 = 94.
+Kullanıcı: 48 + 69 kaç eder?
+AI: 48 + 69 = 117.
+Kullanıcı: 46 - 4 kaç eder?
+AI: 46 - 4 = 42.
+Kullanıcı: 17 × 82 kaç eder?
+AI: 17 × 82 = 1394.
+Kullanıcı: 70 - 17 kaç eder?
+AI: 70 - 17 = 53.
+Kullanıcı: Alışkanlık için basit bir cümle kur.
+AI: “Alışkanlık” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 85 + 88 kaç eder?
+AI: 85 + 88 = 173.
+Kullanıcı: 20 + 63 kaç eder?
+AI: 20 + 63 = 83.
+Kullanıcı: 27 + 57 kaç eder?
+AI: 27 + 57 = 84.
+Kullanıcı: 53 + 37 kaç eder?
+AI: 53 + 37 = 90.
+Kullanıcı: 50 + 36 kaç eder?
+AI: 50 + 36 = 86.
+Kullanıcı: 16 × 43 kaç eder?
+AI: 16 × 43 = 688.
+Kullanıcı: 17 + 84 kaç eder?
+AI: 17 + 84 = 101.
+Kullanıcı: 24 + 49 kaç eder?
+AI: 24 + 49 = 73.
+Kullanıcı: 31 + 10 kaç eder?
+AI: 31 + 10 = 41.
+Kullanıcı: 26 × 56 kaç eder?
+AI: 26 × 56 = 1456.
+Kullanıcı: 9 × 9 kaç eder?
+AI: 9 × 9 = 81.
+Kullanıcı: Bana sağlıklı uyku hakkında kısa bilgi ver.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 3 + 38 kaç eder?
+AI: 3 + 38 = 41.
+Kullanıcı: Bana programlama hakkında kısa bilgi ver.
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 49 × 85 kaç eder?
+AI: 49 × 85 = 4165.
+Kullanıcı: 52 - 40 kaç eder?
+AI: 52 - 40 = 12.
+Kullanıcı: 4 + 31 kaç eder?
+AI: 4 + 31 = 35.
+Kullanıcı: 91 + 40 kaç eder?
+AI: 91 + 40 = 131.
+Kullanıcı: Öz güven kelimesini açıkla.
+AI: “öz güven”: Kişinin kendi yeteneklerine ve kararlarına güvenmesi.
+Kullanıcı: 62 - 48 kaç eder?
+AI: 62 - 48 = 14.
+Kullanıcı: 24 × 94 kaç eder?
+AI: 24 × 94 = 2256.
+Kullanıcı: 68 + 32 kaç eder?
+AI: 68 + 32 = 100.
+Kullanıcı: 79 + 47 kaç eder?
+AI: 79 + 47 = 126.
+Kullanıcı: 73 + 20 kaç eder?
+AI: 73 + 20 = 93.
+Kullanıcı: 126 - 29 kaç eder?
+AI: 126 - 29 = 97.
+Kullanıcı: 86 + 2 kaç eder?
+AI: 86 + 2 = 88.
+Kullanıcı: zaman yönetimi nedir?
+AI: Zaman yönetimi, işleri önceliklerine göre düzenleyerek zamanı verimli kullanma yöntemidir.
+Kullanıcı: problem çözme konusunu anlamama yardım et.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 74 - 21 kaç eder?
+AI: 74 - 21 = 53.
+Kullanıcı: 71 + 38 kaç eder?
+AI: 71 + 38 = 109.
+Kullanıcı: Fiil nedir?
+AI: Fiil, iş, oluş veya hareket bildiren sözcüktür.
+Kullanıcı: 37 × 24 kaç eder?
+AI: 37 × 24 = 888.
+Kullanıcı: 14 × 73 kaç eder?
+AI: 14 × 73 = 1022.
+Kullanıcı: 39 × 90 kaç eder?
+AI: 39 × 90 = 3510.
+Kullanıcı: 5 × 90 kaç eder?
+AI: 5 × 90 = 450.
+Kullanıcı: 29 × 47 kaç eder?
+AI: 29 × 47 = 1363.
+Kullanıcı: 13 + 84 kaç eder?
+AI: 13 + 84 = 97.
+Kullanıcı: 35 + 42 kaç eder?
+AI: 35 + 42 = 77.
+Kullanıcı: 54 + 41 kaç eder?
+AI: 54 + 41 = 95.
+Kullanıcı: 4 × 10 kaç eder?
+AI: 4 × 10 = 40.
+Kullanıcı: 52 - 27 kaç eder?
+AI: 52 - 27 = 25.
+Kullanıcı: 12 × 89 kaç eder?
+AI: 12 × 89 = 1068.
+Kullanıcı: 74 - 3 kaç eder?
+AI: 74 - 3 = 71.
+Kullanıcı: 27 × 46 kaç eder?
+AI: 27 × 46 = 1242.
+Kullanıcı: Anlamadım
+AI: Daha basit ve açık şekilde anlatabilirim.
+Kullanıcı: 25 × 25 kaç eder?
+AI: 25 × 25 = 625.
+Kullanıcı: 43 + 65 kaç eder?
+AI: 43 + 65 = 108.
+Kullanıcı: 109 - 11 kaç eder?
+AI: 109 - 11 = 98.
+Kullanıcı: 70 - 36 kaç eder?
+AI: 70 - 36 = 34.
+Kullanıcı: 11 × 8 kaç eder?
+AI: 11 × 8 = 88.
+Kullanıcı: 84 - 35 kaç eder?
+AI: 84 - 35 = 49.
+Kullanıcı: 21 × 72 kaç eder?
+AI: 21 × 72 = 1512.
+Kullanıcı: 54 + 4 kaç eder?
+AI: 54 + 4 = 58.
+Kullanıcı: 8 × 17 kaç eder?
+AI: 8 × 17 = 136.
+Kullanıcı: 77 + 67 kaç eder?
+AI: 77 + 67 = 144.
+Kullanıcı: bulut bilişim nedir?
+AI: Bulut bilişim, internet üzerinden sunulan bilgisayar kaynaklarını kullanmaktır.
+Kullanıcı: 79 + 0 kaç eder?
+AI: 79 + 0 = 79.
+Kullanıcı: 63 + 15 kaç eder?
+AI: 63 + 15 = 78.
+Kullanıcı: 94 + 44 kaç eder?
+AI: 94 + 44 = 138.
+Kullanıcı: 72 + 52 kaç eder?
+AI: 72 + 52 = 124.
+Kullanıcı: 6 × 60 kaç eder?
+AI: 6 × 60 = 360.
+Kullanıcı: 46 + 11 kaç eder?
+AI: 46 + 11 = 57.
+Kullanıcı: Iş birliği kelimesini açıkla.
+AI: “iş birliği”: Bir amaca ulaşmak için birlikte çalışma.
+Kullanıcı: 64 - 34 kaç eder?
+AI: 64 - 34 = 30.
+Kullanıcı: Selam
+AI: Selam! Nasılsın?
+Kullanıcı: 13 × 35 kaç eder?
+AI: 13 × 35 = 455.
+Kullanıcı: Hoşça kal
+AI: Hoşça kal!
+Kullanıcı: 120 - 20 kaç eder?
+AI: 120 - 20 = 100.
+Kullanıcı: dostluk konusunu basitçe anlat.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 84 + 0 kaç eder?
+AI: 84 + 0 = 84.
+Kullanıcı: 122 - 38 kaç eder?
+AI: 122 - 38 = 84.
+Kullanıcı: 71 + 21 kaç eder?
+AI: 71 + 21 = 92.
+Kullanıcı: 47 + 23 kaç eder?
+AI: 47 + 23 = 70.
+Kullanıcı: 63 - 11 kaç eder?
+AI: 63 - 11 = 52.
+Kullanıcı: 22 × 97 kaç eder?
+AI: 22 × 97 = 2134.
+Kullanıcı: 140 - 47 kaç eder?
+AI: 140 - 47 = 93.
+Kullanıcı: 71 + 97 kaç eder?
+AI: 71 + 97 = 168.
+Kullanıcı: 15 + 74 kaç eder?
+AI: 15 + 74 = 89.
+Kullanıcı: takım çalışması hakkında yeni başlayan birine açıklama yap.
+AI: Takım çalışması, insanların ortak bir hedef için görev paylaşarak birlikte çalışmasıdır.
+Kullanıcı: programlama nedir?
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 31 × 43 kaç eder?
+AI: 31 × 43 = 1333.
+Kullanıcı: 'mutlu' kelimesi ne demektir?
+AI: Sevinç veya memnuniyet duyan.
+Kullanıcı: 50 + 18 kaç eder?
+AI: 50 + 18 = 68.
+Kullanıcı: 66 - 41 kaç eder?
+AI: 66 - 41 = 25.
+Kullanıcı: 7 + 57 kaç eder?
+AI: 7 + 57 = 64.
+Kullanıcı: 71 + 8 kaç eder?
+AI: 71 + 8 = 79.
+Kullanıcı: 44 + 44 kaç eder?
+AI: 44 + 44 = 88.
+Kullanıcı: robotik konusunu anlamama yardım et.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: 10 + 2 kaç eder?
+AI: 10 + 2 = 12.
+Kullanıcı: 126 - 35 kaç eder?
+AI: 126 - 35 = 91.
+Kullanıcı: 6 × 11 kaç eder?
+AI: 6 × 11 = 66.
+Kullanıcı: 60 + 48 kaç eder?
+AI: 60 + 48 = 108.
+Kullanıcı: 62 + 26 kaç eder?
+AI: 62 + 26 = 88.
+Kullanıcı: 59 - 48 kaç eder?
+AI: 59 - 48 = 11.
+Kullanıcı: 17 + 97 kaç eder?
+AI: 17 + 97 = 114.
+Kullanıcı: 51 + 6 kaç eder?
+AI: 51 + 6 = 57.
+Kullanıcı: 56 - 15 kaç eder?
+AI: 56 - 15 = 41.
+Kullanıcı: 'öz güven' kelimesi ne demektir?
+AI: Kişinin kendi yeteneklerine ve kararlarına güvenmesi.
+Kullanıcı: 7 + 45 kaç eder?
+AI: 7 + 45 = 52.
+Kullanıcı: 66 + 71 kaç eder?
+AI: 66 + 71 = 137.
+Kullanıcı: 53 + 41 kaç eder?
+AI: 53 + 41 = 94.
+Kullanıcı: 12 × 3 kaç eder?
+AI: 12 × 3 = 36.
+Kullanıcı: 82 + 8 kaç eder?
+AI: 82 + 8 = 90.
+Kullanıcı: 45 + 91 kaç eder?
+AI: 45 + 91 = 136.
+Kullanıcı: 'mutlu' kelimesi ne demektir?
+AI: Sevinç veya memnuniyet duyan.
+Kullanıcı: 7 + 77 kaç eder?
+AI: 7 + 77 = 84.
+Kullanıcı: 39 - 12 kaç eder?
+AI: 39 - 12 = 27.
+Kullanıcı: 7 × 94 kaç eder?
+AI: 7 × 94 = 658.
+Kullanıcı: Bana makine öğrenmesi hakkında kısa bilgi ver.
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 7 + 36 kaç eder?
+AI: 7 + 36 = 43.
+Kullanıcı: 15 × 45 kaç eder?
+AI: 15 × 45 = 675.
+Kullanıcı: 5 + 64 kaç eder?
+AI: 5 + 64 = 69.
+Kullanıcı: 87 + 94 kaç eder?
+AI: 87 + 94 = 181.
+Kullanıcı: 27 + 66 kaç eder?
+AI: 27 + 66 = 93.
+Kullanıcı: Bana internet güvenliği hakkında kısa bilgi ver.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 80 + 4 kaç eder?
+AI: 80 + 4 = 84.
+Kullanıcı: Bana dostluk hakkında kısa bilgi ver.
+AI: Dostluk, karşılıklı güven, saygı ve destek üzerine kurulan ilişkidir.
+Kullanıcı: 42 + 60 kaç eder?
+AI: 42 + 60 = 102.
+Kullanıcı: 54 + 13 kaç eder?
+AI: 54 + 13 = 67.
+Kullanıcı: 5 + 11 kaç eder?
+AI: 5 + 11 = 16.
+Kullanıcı: 98 + 88 kaç eder?
+AI: 98 + 88 = 186.
+Kullanıcı: Merak için basit bir cümle kur.
+AI: “Merak” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: Sabır ne demektir?
+AI: Sabır, zorluk veya bekleme karşısında sakinliğini koruyabilmektir.
+Kullanıcı: 33 + 25 kaç eder?
+AI: 33 + 25 = 58.
+Kullanıcı: 92 - 33 kaç eder?
+AI: 92 - 33 = 59.
+Kullanıcı: Üzgün kelimesini açıkla.
+AI: “üzgün”: Keder veya üzüntü hisseden.
+Kullanıcı: geri dönüşüm konusunu basitçe anlat.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: hedef belirleme konusunu basitçe anlat.
+AI: Hedef belirleme, ulaşılmak istenen sonucu açıkça tanımlamaktır.
+Kullanıcı: Model ne demektir?
+AI: Model, verilerden öğrenerek tahmin veya çıktı üreten sistemdir.
+Kullanıcı: 1 × 22 kaç eder?
+AI: 1 × 22 = 22.
+Kullanıcı: Hata yapmak kötü müdür?
+AI: Hatalar öğrenme fırsatı olabilir; önemli olan hatayı anlamak ve düzeltmeye çalışmaktır.
+Kullanıcı: 38 + 99 kaç eder?
+AI: 38 + 99 = 137.
+Kullanıcı: 110 - 21 kaç eder?
+AI: 110 - 21 = 89.
+Kullanıcı: 27 × 10 kaç eder?
+AI: 27 × 10 = 270.
+Kullanıcı: programlama nedir?
+AI: Programlama, bilgisayara belirli görevleri yaptırmak için komutlar yazmaktır.
+Kullanıcı: 30 × 63 kaç eder?
+AI: 30 × 63 = 1890.
+Kullanıcı: 70 - 15 kaç eder?
+AI: 70 - 15 = 55.
+Kullanıcı: 82 - 6 kaç eder?
+AI: 82 - 6 = 76.
+Kullanıcı: geri dönüşüm hakkında yeni başlayan birine açıklama yap.
+AI: Geri dönüşüm, kullanılmış bazı malzemelerin yeniden işlenerek kullanılabilir hâle getirilmesidir.
+Kullanıcı: 68 - 40 kaç eder?
+AI: 68 - 40 = 28.
+Kullanıcı: Empati nedir?
+AI: Empati, başka bir kişinin duygu ve bakış açısını anlamaya çalışmaktır.
+Kullanıcı: 85 - 5 kaç eder?
+AI: 85 - 5 = 80.
+Kullanıcı: problem çözme konusunu basitçe anlat.
+AI: Problem çözme, sorunu tanımlayıp olası yolları değerlendirerek çözüm bulma sürecidir.
+Kullanıcı: 36 + 7 kaç eder?
+AI: 36 + 7 = 43.
+Kullanıcı: Selam
+AI: Selam! Nasılsın?
+Kullanıcı: Üzgün için basit bir cümle kur.
+AI: “Üzgün” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 83 + 85 kaç eder?
+AI: 83 + 85 = 168.
+Kullanıcı: 110 - 14 kaç eder?
+AI: 110 - 14 = 96.
+Kullanıcı: 7 × 44 kaç eder?
+AI: 7 × 44 = 308.
+Kullanıcı: 63 + 24 kaç eder?
+AI: 63 + 24 = 87.
+Kullanıcı: 33 + 55 kaç eder?
+AI: 33 + 55 = 88.
+Kullanıcı: 90 + 44 kaç eder?
+AI: 90 + 44 = 134.
+Kullanıcı: 12 + 92 kaç eder?
+AI: 12 + 92 = 104.
+Kullanıcı: 58 + 17 kaç eder?
+AI: 58 + 17 = 75.
+Kullanıcı: sağlıklı uyku hakkında yeni başlayan birine açıklama yap.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 101 - 14 kaç eder?
+AI: 101 - 14 = 87.
+Kullanıcı: 42 + 74 kaç eder?
+AI: 42 + 74 = 116.
+Kullanıcı: 6 × 92 kaç eder?
+AI: 6 × 92 = 552.
+Kullanıcı: sağlıklı uyku konusunu basitçe anlat.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 49 - 31 kaç eder?
+AI: 49 - 31 = 18.
+Kullanıcı: 65 - 46 kaç eder?
+AI: 65 - 46 = 19.
+Kullanıcı: 18 × 19 kaç eder?
+AI: 18 × 19 = 342.
+Kullanıcı: sağlıklı uyku konusunu anlamama yardım et.
+AI: Düzenli ve yeterli uyku, dinlenmeye ve günlük işlevlere destek olur.
+Kullanıcı: 9 + 64 kaç eder?
+AI: 9 + 64 = 73.
+Kullanıcı: 29 + 20 kaç eder?
+AI: 29 + 20 = 49.
+Kullanıcı: 52 - 22 kaç eder?
+AI: 52 - 22 = 30.
+Kullanıcı: 2 × 43 kaç eder?
+AI: 2 × 43 = 86.
+Kullanıcı: 66 + 49 kaç eder?
+AI: 66 + 49 = 115.
+Kullanıcı: 56 + 48 kaç eder?
+AI: 56 + 48 = 104.
+Kullanıcı: 26 + 47 kaç eder?
+AI: 26 + 47 = 73.
+Kullanıcı: 15 + 61 kaç eder?
+AI: 15 + 61 = 76.
+Kullanıcı: 26 + 92 kaç eder?
+AI: 26 + 92 = 118.
+Kullanıcı: Gökkuşağı nasıl oluşur?
+AI: Güneş ışığı su damlacıklarında kırılıp yansıyarak renklerine ayrıldığında gökkuşağı oluşabilir.
+Kullanıcı: 26 + 6 kaç eder?
+AI: 26 + 6 = 32.
+Kullanıcı: internet güvenliği hakkında yeni başlayan birine açıklama yap.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 79 - 33 kaç eder?
+AI: 79 - 33 = 46.
+Kullanıcı: Dürüst için basit bir cümle kur.
+AI: “Dürüst” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 71 + 15 kaç eder?
+AI: 71 + 15 = 86.
+Kullanıcı: 21 + 47 kaç eder?
+AI: 21 + 47 = 68.
+Kullanıcı: 14 + 50 kaç eder?
+AI: 14 + 50 = 64.
+Kullanıcı: 94 + 50 kaç eder?
+AI: 94 + 50 = 144.
+Kullanıcı: 29 + 99 kaç eder?
+AI: 29 + 99 = 128.
+Kullanıcı: 112 - 40 kaç eder?
+AI: 112 - 40 = 72.
+Kullanıcı: 66 - 13 kaç eder?
+AI: 66 - 13 = 53.
+Kullanıcı: 102 - 19 kaç eder?
+AI: 102 - 19 = 83.
+Kullanıcı: 27 + 20 kaç eder?
+AI: 27 + 20 = 47.
+Kullanıcı: 108 - 37 kaç eder?
+AI: 108 - 37 = 71.
+Kullanıcı: 83 + 88 kaç eder?
+AI: 83 + 88 = 171.
+Kullanıcı: 'alışkanlık' kelimesi ne demektir?
+AI: Tekrarlanan davranışın zamanla yerleşmesi.
+Kullanıcı: 52 - 15 kaç eder?
+AI: 52 - 15 = 37.
+Kullanıcı: 23 - 12 kaç eder?
+AI: 23 - 12 = 11.
+Kullanıcı: internet güvenliği konusunu basitçe anlat.
+AI: İnternet güvenliği, çevrim içi hesapları ve kişisel bilgileri korumaya yönelik önlemlerdir.
+Kullanıcı: 'sorumluluk' kelimesi ne demektir?
+AI: Kişinin yerine getirmesi gereken görev veya yükümlülük.
+Kullanıcı: 15 + 64 kaç eder?
+AI: 15 + 64 = 79.
+Kullanıcı: 84 + 33 kaç eder?
+AI: 84 + 33 = 117.
+Kullanıcı: 40 × 61 kaç eder?
+AI: 40 × 61 = 2440.
+Kullanıcı: 91 - 6 kaç eder?
+AI: 91 - 6 = 85.
+Kullanıcı: 43 × 88 kaç eder?
+AI: 43 × 88 = 3784.
+Kullanıcı: 35 × 44 kaç eder?
+AI: 35 × 44 = 1540.
+Kullanıcı: 40 × 88 kaç eder?
+AI: 40 × 88 = 3520.
+Kullanıcı: 58 + 54 kaç eder?
+AI: 58 + 54 = 112.
+Kullanıcı: 106 - 43 kaç eder?
+AI: 106 - 43 = 63.
+Kullanıcı: 82 + 48 kaç eder?
+AI: 82 + 48 = 130.
+Kullanıcı: 44 + 77 kaç eder?
+AI: 44 + 77 = 121.
+Kullanıcı: 61 + 0 kaç eder?
+AI: 61 + 0 = 61.
+Kullanıcı: 89 - 32 kaç eder?
+AI: 89 - 32 = 57.
+Kullanıcı: 29 + 32 kaç eder?
+AI: 29 + 32 = 61.
+Kullanıcı: 19 × 95 kaç eder?
+AI: 19 × 95 = 1805.
+Kullanıcı: 97 + 31 kaç eder?
+AI: 97 + 31 = 128.
+Kullanıcı: 63 + 22 kaç eder?
+AI: 63 + 22 = 85.
+Kullanıcı: 80 + 74 kaç eder?
+AI: 80 + 74 = 154.
+Kullanıcı: 27 + 30 kaç eder?
+AI: 27 + 30 = 57.
+Kullanıcı: 61 + 96 kaç eder?
+AI: 61 + 96 = 157.
+Kullanıcı: Alışkanlık kelimesini açıkla.
+AI: “alışkanlık”: Tekrarlanan davranışın zamanla yerleşmesi.
+Kullanıcı: robotik konusunu basitçe anlat.
+AI: Robotik, robotların tasarlanması, yapılması ve kontrol edilmesiyle ilgilenir.
+Kullanıcı: Dürüst için basit bir cümle kur.
+AI: “Dürüst” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 44 - 36 kaç eder?
+AI: 44 - 36 = 8.
+Kullanıcı: 91 + 20 kaç eder?
+AI: 91 + 20 = 111.
+Kullanıcı: 106 - 12 kaç eder?
+AI: 106 - 12 = 94.
+Kullanıcı: 39 × 74 kaç eder?
+AI: 39 × 74 = 2886.
+Kullanıcı: makine öğrenmesi nedir?
+AI: Makine öğrenmesi, sistemlerin verilerden örüntüler öğrenmesini sağlayan yöntemlerdir.
+Kullanıcı: 33 × 11 kaç eder?
+AI: 33 × 11 = 363.
+Kullanıcı: Iş birliği için basit bir cümle kur.
+AI: “Iş birliği” kelimesini kullanan örnek bir cümle kurabilirim.
+Kullanıcı: 88 + 71 kaç eder?
+AI: 88 + 71 = 159.
+Kullanıcı: 50 + 59 kaç eder?
+AI: 50 + 59 = 109.
+Kullanıcı: 46 × 55 kaç eder?
+AI: 46 × 55 = 2530.
+Kullanıcı: Bir yıl kaç aydır?
+AI: Bir yıl 12 aydır.
+Kullanıcı: 27 × 94 kaç eder?
+AI: 27 × 94 = 2538.
+Kullanıcı: 84 + 69 kaç eder?
+AI: 84 + 69 = 153.
+Kullanıcı: 70 + 48 kaç eder?
+AI: 70 + 48 = 118.
+Kullanıcı: 113 - 26 kaç eder?
+AI: 113 - 26 = 87.
+Kullanıcı: eleştirel düşünme konusunu basitçe anlat.
+AI: Eleştirel düşünme, bilgileri sorgulayıp kanıtları değerlendirme becerisidir.
+Kullanıcı: 1 + 88 kaç eder?
+AI: 1 + 88 = 89.
+Kullanıcı: 11 × 6 kaç eder?
+AI: 11 × 6 = 66.
+Kullanıcı: 104 - 12 kaç eder?
+AI: 104 - 12 = 92.
